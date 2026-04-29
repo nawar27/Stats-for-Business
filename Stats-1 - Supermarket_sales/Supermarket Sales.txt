@@ -1,0 +1,114 @@
+Supermarket Sales
+
+Background
+
+ini adalah sales transaksi dataset yang berada di New York City selama tahun 2024. Ada tiga kota yang basis penjualan (Queens, Brookly, Mahattan) yang menjual beberapa product line. tipe kostumer yang membeli terdiri dari beberapa kategori, member dan normal
+
+variable description:
+Date : Tanggal terjadinya transaksi
+Brach : Lokasi spesifik toko atau outlet tempat transaksi dilakukan
+Customer type : Mengidentifikasi apakah pembeli adalah pelanggan umum (Normal) atau pelanggan yang sudah terdaftar (Member)
+Gender : Male/Female
+Product line : Kategori atau kelompok produk yang dibeli
+Unit Price : Harga per satu unit barang
+Quantity : Banyaknya jumlah barang yang dibeli
+Payment : Cara pelanggan membayar transaksi tersebut
+Rating : Skor kepuasan yang diberikan pelanggan 
+
+What we want to know
+
+1. rata-rata jumlah uang yang didapatkan setiap transaksi
+2. summary dari jumlah produk yang terbeli
+3. transaksi mana yang punya terbeli terbanyak
+4. distribys setiap quantity, Harga dan total money variable
+5. asosiasi Harga dan quantity
+6. kota mana yang paling banyak transasksi
+
+What are the most frequently purchased products?
+Which country that give highest and lowest total money?
+How was the sales trend over the months?
+What products that brings the highest earning of total transaction?
+Based on your findings, what strategy could you recommend to the business to gain more profit?
+
+dataset mempunyai 5053 row dengan 9 kolom
+kita akan membuat kolum baru 'TotalMoney' untuk mendeskripsikan setiap jumlah uang yang didapatkans setiap transaksi
+
+untuk numerical variable, kita bisa menggunakan statistic description untuk melihat seberapa beragam dataset tersebut
+
+
+
+The average revenue generated per transaction and total quantity of products sold.
+Identification of the transaction with the highest purchase volume.
+The distribution of the quantity, price, and total revenue variables.
+The correlation between price and quantity.
+The city with the highest number of transactions.
+What are the most frequently purchased products?
+Which borough generates the highest and lowest total revenue?
+What was the sales trend over the months?
+Which products contribute the most to the total transaction earnings?
+Based on your findings, what strategies would you recommend to the business to maximize profit?
+
+
+rata-rata dari total uang per transaksi di tahun 2024 adalah $186.53 dengan maximumnya adalah $993 dan minimumnya $2.18 
+rata-rata quantity di setiap transaksi di tahun 2024 adalah 4 dengan nilai maksimumnya 10 dan minimum pembeliannya 1
+
+jumlah variable menunjukan skewness ke kanan
+
+Pembelian paling banyak terjadi pada jumlah 2 unit (mendekati 800 transaksi), diikuti oleh 3 unit dan 1 unit.
+
+Terlihat tren bahwa semakin banyak jumlah barang dalam satu transaksi, frekuensinya semakin menurun. Ini berarti pelanggan lebih sering membeli barang dalam jumlah kecil dibandingkan jumlah besar.
+
+
+"In 2024, the average transaction value was $186.53, with a maximum of $993 and a minimum of $2.18. During the same period, the average quantity per transaction was 4 units, ranging from a minimum of 1 to a maximum of 10."
+
+ada tiga transaksi dengan Harga tertinggi. Mereka membeli dari 1 Queens dan 2 Brooklyn
+
+There was 3 maximum price transactions, one was located in Queens, while the other two were in Brooklyn
+
+
+we can to visualize a histogram and scatterplot of more than 2 numeric variables in a dataframe to makes it easier to see the relationship between variables
+
+
+
+
+Caption
+
+Data Analyst Project Portfolio 1/n - Statistics for Business 📊
+
+
+
+Belajar teori tanpa praktik ibarat kompas tanpa peta. Selama mengikuti bootcamp di Pacmann, saya menyadari satu hal: bahwa saya jarang mengaplikasikan materi yang diajarkan menjadi sebuah portofolio.
+
+
+
+Oleh karena itu, saya memutuskan untuk menantang diri sendiri dengan membuat rangkaian portofolio berdasarkan modul yang saya pelajari yaitu Statistic for Business.
+
+
+
+Di project pertama ini, saya mengulang kembali konsep-konsep statistik untuk menarik insight yang relevan bagi keputusan bisnis. Ini adalah langkah awal saya untuk sebagai sarana belajar dan mengaplikasikannya ke dunia data.
+
+
+
+Stay tuned untuk update project berikutnya.
+
+#DataAnalytics #PortfolioProject #LearningByDoing #Statistics #BusinessIntelligence #DataAnalyst
+
+
+
+Our objective is to analyze this data to generate a detailed performance report.:
+The average revenue generated per transaction and total quantity of products sold.
+Identification of the transaction with the highest purchase volume.
+The distribution of the quantity, price, and total revenue variables.
+The correlation between price and quantity.
+The region with the highest number of transactions.
+What are the most frequently purchased products?
+Which region generates the highest and lowest total revenue?
+What was the sales trend over the months?
+Which products contribute the most to the total transaction earnings?
+Based on your findings, what strategies would you recommend to the business to maximize profit?
+
+
+
+dibawah boxplot
+
+Based on a visual analysis of the three graphs, the transaction trend throughout the year can be categorized into three main phases. The period from January to April shows moderate transaction volume but a high average value per transaction. Conversely, the period from May to August is a period of stagnation with low activity and very little variation in transaction value. This trend then reverses drastically from September to December, where a surge in transaction volume is followed by the emergence of many extreme transaction values ​​(outliers), which are the main drivers of the increase in total revenue at the end of the year.

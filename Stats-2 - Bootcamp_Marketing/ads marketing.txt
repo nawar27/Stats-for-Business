@@ -1,0 +1,64 @@
+sebagai seorang data analisis, saya ingin mengeksplore penggunaan digital marketing sebagai kunci pertumbuhan pendapatan sebuah perusahaan melalui berbagai channel iklan. pada Analisa kali ini ingin melihat alokasi anggaran pada berbagai channel media social. hasil Analisa ini akan memberitahu mengenai audiens mana yang paling responsif dan channel mana yang memberikan performa paling konsisten
+
+
+Berikut key objective yang dicari dalam notebook `campaign.ipynb` ini:
+
+**1. Memahami Struktur & Kualitas Data**
+Notebook dimulai dengan eksplorasi awal: melihat struktur data (`info()`), mengecek nilai kosong (`isnull()`), dan statistik deskriptif (`describe()`) — memastikan data siap untuk dianalisis.
+
+**2. Menganalisis Hubungan Budget Iklan vs Revenue**
+Kode mencari korelasi antara `AdBudgetK` dan `RevenueK`, termasuk scatter plot, heatmap korelasi, dan rata-rata revenue per level budget — intinya: *apakah semakin besar budget, semakin besar pendapatan?*
+
+**3. Mengidentifikasi Channel Iklan Terbaik**
+Distribusi jumlah campaign per channel dianalisis, lalu dibandingkan rata-rata, median, dan total `AdBudgetK` dan `RevenueK` per channel — untuk mengetahui *channel mana yang paling efektif dan efisien*.
+
+**4. Memahami Profil Audiens (AudienceType)**
+Notebook menghitung frekuensi tiap tipe audiens, mencari modus, dan memetakan kombinasi `AudienceType` × `Channel` — untuk mengetahui *segmen audiens mana yang paling banyak disasar dan dari channel apa*.
+
+**5. Menganalisis Tren Bulanan Campaign & Revenue**
+Data dikelompokkan per bulan untuk melihat: jumlah campaign per bulan, tren revenue bulanan, dan perbandingan antar channel setiap bulan — mencari *pola musiman atau bulan terbaik untuk beriklan*.
+
+**6. Membandingkan Performa Revenue antar Dimensi**
+Di bagian akhir, revenue dianalisis secara multidimensi: per channel, per bulan, dan kombinasi channel + AudienceType — untuk mendapatkan gambaran menyeluruh tentang *kombinasi mana yang menghasilkan revenue tertinggi*.
+
+
+rata-rata revenue yang didapatkan dengan menggunakan iklan di 4 channel selama setahun adalah $ 192.09K
+
+pada data mempunyai revenue tertinggi melalui channel Instagram Ads dengan Audience Lookalike sebesar $1814.69K
+
+ada sekitar 105 kolom channel yang tidak menghasilkan Revenue. dari descriptive awal dikarenakan tidak adanya alokasi budget untuk kampanye di beberapa bulan
+
+bertambahnya adbudget berpotensi meningkatkan pendapatan, tapi hubungannya tidak linear. ada dimana adbudget besar tapi menghasilkan pendapatan rendah
+
+korelasi of Adbudget dan revenue adalah 0.32. ini masuk ke korelasi positif lemah. kita bisa mengatakan bahwa iklan memang memberikan kontribusi positif terhadap pendapatan, tapi konstribusinya tidak dominan ada factor lain yang mempengaruhinya
+
+secara umum, grafik bergereak ke kanan atas. ini dapat dikatakan, semakin besar anggaran iklan yang dialokasikan, semakin tinggi pula pendapatan yang dihasilkan. namun ada terjadinya penurunan revenue disaat adbudget nya ditambah. ini dapat menjadi indikasi efesiensi ad budget pad iklan tertentu
+
+taruh dikesimpulan--
+Secara keseluruhan, terdapat tren linear positif yang menunjukkan bahwa peningkatan anggaran iklan berbanding lurus dengan pertumbuhan pendapatan. Namun, fluktuasi penurunan pendapatan pada titik anggaran tertentu mengindikasikan adanya ambang batas efisiensi. Hal ini mengisyaratkan bahwa alokasi anggaran pada kampanye iklan spesifik belum mencapai hasil optimal dan memerlukan evaluasi lebih lanjut terkait efektivitas biayanya
+
+tidak ada perbedaan penjualan kelas dari keempat channel, tapi pada TikTokAds lebih rendah daripada ketiga channel lainnya
+
+Berdasarkan identifikasi tipe audiens, audiencenya memiliki distribusi yang seimbang di lima kategori Utama, dengan regerting yang paling besar dan broad yang terkecil
+
+Strategi Retargeting pada platform Facebook dan Google merupakan penyumbang pendapatan tertinggi, sementara audiens Broad di TikTok memerlukan evaluasi karena menghasilkan kinerja terendah. Instagram tetap menjadi pilihan utama yang paling konsisten untuk menyasar Gen Z
+
+Facebook Ads: Menunjukkan fluktuasi paling ekstrem. Sempat berada di titik terendah pada bulan April (83 kampanye), namun melonjak tajam menjadi yang tertinggi di bulan September (125 kampanye).
+
+Secara umum, pendapatan rata-rata menunjukkan tren meningkat signifikan dari awal tahun hingga akhir tahun
+
+Pada akhir tahun, performa antar ad campaign menjadi semakin bervariasi di akhir tahun. in mengindikasi adanya efek promo akhir tahun  yang sukses bagi beberapa kampanye tertentu
+
+ada deskripsi awal ada channel ads yang tidak memiliki budget untuk mengiklankan kelas bootcamp
+
+
+caption linkedin
+
+Data Analyst Project Portfolio 2/n - Bootcamp Class Marketing Campaign
+
+
+npx neonctl@latest init
+
+brew install neonctl && neonctl init
+
+#DataAnalytics hashtag#PortfolioProject hashtag#LearningByDoing hashtag#Statistics hashtag#BusinessIntelligence hashtag#DataAnalyst

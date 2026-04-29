@@ -1,0 +1,4235 @@
+Unnamed: 0,age,gender,study_hours,attendance,extracurricular,parental_education,region,score
+1745,15,male,0.9,82,yes,high school,east,9.56
+1811,17,male,3.0,68,no,high school,north,12.27
+2962,16,male,0.4,95,yes,high school,north,5.48
+1118,18,female,2.4,53,yes,none,south,0.0
+3773,18,male,1.0,97,no,high school,south,3.65
+2555,16,female,1.6,89,yes,bachelor,north,60.6
+1140,15,male,1.2,93,yes,bachelor,east,17.74
+3591,18,female,0.9,51,no,high school,south,0.0
+2977,15,male,4.4,60,yes,high school,east,28.5
+2423,16,female,1.6,87,yes,none,west,0.0
+1651,16,female,1.3,89,no,bachelor,south,9.04
+4151,17,female,0.3,50,yes,none,east,4.46
+2151,16,male,1.7,80,yes,high school,south,27.24
+734,16,female,3.3,96,yes,bachelor,south,15.38
+1991,16,male,1.9,62,yes,bachelor,south,21.21
+430,16,female,0.9,97,no,high school,east,2.26
+2120,15,male,2.1,83,yes,none,north,6.33
+14,15,female,0.2,80,yes,none,west,0.0
+1332,16,female,9.9,83,yes,high school,east,79.17
+2964,15,male,0.5,80,yes,bachelor,east,13.9
+4141,15,male,3.4,64,yes,none,east,3.97
+1254,16,female,0.3,83,yes,high school,east,8.83
+107,16,female,2.4,81,no,bachelor,west,8.26
+3864,16,male,1.0,94,yes,none,east,7.74
+891,17,female,3.6,98,no,none,south,15.14
+1420,16,male,0.6,83,no,none,south,3.77
+2562,18,male,1.2,53,no,high school,south,0.0
+1538,18,female,3.0,59,yes,high school,south,37.65
+818,15,male,1.8,63,no,high school,south,0.0
+2317,17,female,2.4,99,no,master,east,44.33
+3395,18,male,1.0,91,yes,high school,south,0.0
+2429,17,male,0.2,92,yes,none,south,0.0
+2506,17,female,1.2,60,no,bachelor,south,5.12
+1097,15,male,4.2,51,no,bachelor,south,7.06
+32,18,female,1.4,96,no,high school,east,0.0
+1250,15,male,1.8,92,no,bachelor,south,0.0
+374,16,male,4.7,82,yes,high school,east,9.92
+1966,15,male,0.9,81,yes,high school,east,9.62
+1346,18,female,0.5,50,yes,high school,south,0.0
+2487,15,male,8.6,58,no,none,south,25.02
+3221,17,male,1.1,87,no,high school,east,7.79
+3046,16,male,1.0,88,no,none,east,5.89
+3020,15,female,5.6,82,yes,high school,south,41.73
+797,18,female,1.5,82,no,high school,east,11.42
+1478,17,male,1.5,63,no,high school,west,0.0
+2036,16,female,0.2,92,no,none,south,0.0
+2648,16,male,0.4,99,yes,none,east,5.37
+4074,17,male,1.9,59,yes,none,south,0.11
+3742,18,male,4.5,59,no,high school,east,9.87
+4023,17,female,1.1,80,no,bachelor,south,3.52
+455,17,male,1.8,94,yes,none,south,3.62
+1462,15,male,4.4,83,yes,high school,south,12.52
+3033,15,male,1.8,62,no,master,east,14.67
+2887,15,male,3.5,92,no,high school,south,16.95
+3106,15,female,0.7,66,no,none,north,0.0
+3157,15,female,1.4,91,no,high school,south,1.83
+2900,16,female,9.2,80,no,none,east,24.16
+2794,15,male,2.1,58,no,none,west,0.0
+1792,18,male,2.0,57,no,bachelor,east,37.2
+4195,17,male,1.4,98,no,master,south,9.02
+3921,18,female,2.3,82,yes,bachelor,east,13.86
+36,17,female,7.2,92,yes,high school,south,22.54
+2361,18,female,9.2,52,no,none,east,55.21
+3811,16,female,3.3,80,yes,none,south,10.63
+1757,18,male,3.5,66,no,high school,north,17.63
+3596,16,male,0.3,90,yes,high school,east,4.52
+1058,16,female,0.3,53,no,high school,south,0.0
+1529,17,female,4.6,60,yes,high school,east,6.53
+3432,16,male,1.8,67,no,none,east,0.0
+4165,17,male,1.4,65,no,none,north,3.3
+2539,16,female,1.2,84,no,high school,north,27.29
+2566,15,male,2.0,98,no,high school,west,0.0
+1729,17,male,6.9,59,no,bachelor,east,27.79
+1461,18,male,1.5,52,yes,master,east,35.71
+1681,15,female,1.9,80,no,bachelor,south,4.76
+1904,18,female,0.3,93,yes,high school,east,6.45
+2588,16,female,0.3,87,no,none,west,0.0
+3208,18,female,7.6,65,no,none,south,9.3
+1634,16,male,0.2,57,no,high school,north,2.4
+1706,18,male,1.9,59,no,bachelor,south,11.58
+3226,16,male,0.9,96,yes,none,west,1.05
+2103,17,female,1.6,69,no,master,north,14.08
+3214,15,male,0.7,66,yes,none,east,24.18
+2316,17,male,0.8,85,no,high school,north,29.3
+244,18,female,2.8,87,yes,none,south,2.06
+366,15,male,1.1,52,no,high school,east,2.35
+3911,17,female,0.8,97,no,none,north,4.99
+3230,16,female,0.5,88,yes,bachelor,east,18.36
+1804,15,female,6.4,84,no,bachelor,west,22.13
+2901,15,male,9.8,92,no,high school,south,55.72
+4110,17,female,4.7,81,yes,high school,north,16.4
+3592,15,female,6.0,62,yes,high school,east,18.74
+3324,17,female,0.6,83,yes,none,west,0.0
+1105,18,female,4.3,89,yes,none,west,0.0
+229,16,male,8.2,69,yes,none,south,9.71
+3609,16,female,3.3,66,no,master,west,18.06
+779,17,female,1.3,62,yes,high school,south,0.87
+3825,15,female,1.1,99,no,none,east,3.64
+1266,18,male,3.6,82,no,none,south,7.54
+67,18,female,1.0,86,yes,bachelor,south,5.6
+584,18,female,0.2,55,yes,high school,east,4.31
+3051,18,male,0.5,95,no,high school,south,0.0
+4190,18,female,1.3,93,yes,high school,east,18.51
+3454,15,male,0.8,95,yes,high school,south,0.0
+71,17,female,3.5,98,no,high school,east,33.52
+1222,15,male,2.9,60,yes,none,south,11.9
+2441,16,male,6.1,90,no,high school,west,23.71
+297,16,female,4.8,66,no,high school,north,21.66
+2306,17,male,0.6,82,yes,high school,north,1.71
+3059,17,male,1.4,67,yes,none,south,0.0
+2201,17,female,4.4,67,yes,high school,north,26.33
+1119,18,male,3.1,82,no,master,north,30.38
+3109,15,male,1.4,86,yes,none,east,0.49
+588,16,female,1.6,66,no,high school,east,3.81
+1443,15,male,0.6,94,no,master,south,13.66
+783,16,male,0.3,96,yes,high school,south,1.61
+436,17,male,10.0,51,no,none,east,24.09
+1164,15,male,3.8,59,yes,none,south,6.42
+2234,17,male,0.5,82,yes,none,north,3.14
+1476,18,female,1.2,51,yes,high school,north,15.93
+3101,18,male,1.0,94,yes,master,west,6.63
+1239,15,female,0.3,57,no,bachelor,south,10.27
+2499,18,female,1.0,86,no,high school,south,2.88
+3238,18,male,1.4,50,no,high school,north,15.58
+3168,18,female,0.6,59,yes,high school,east,4.88
+1140,15,male,1.2,93,yes,bachelor,east,17.74
+1828,16,female,2.7,66,yes,none,south,0.0
+2512,17,male,4.7,56,no,none,south,0.0
+2221,16,female,9.5,89,no,none,east,19.85
+3179,15,female,4.4,93,yes,none,east,16.31
+1309,17,female,8.6,87,no,none,east,16.54
+4206,16,male,1.1,93,no,none,north,27.79
+3956,18,male,7.0,68,no,high school,east,19.65
+806,15,female,0.6,67,yes,none,east,0.0
+566,15,male,5.0,57,no,bachelor,north,44.48
+1984,16,male,6.2,89,yes,high school,west,64.2
+2749,15,female,4.3,57,no,high school,south,3.5
+1614,17,female,2.3,80,yes,high school,east,4.93
+3639,18,female,2.0,95,no,none,south,7.67
+748,15,male,1.4,96,yes,high school,east,13.66
+90,18,male,0.2,87,no,high school,west,0.48
+369,18,female,0.8,68,yes,master,east,9.38
+2321,17,male,3.0,65,no,none,south,0.0
+2254,18,female,9.5,82,yes,none,south,25.86
+1741,17,female,3.5,90,no,none,south,0.0
+3676,17,male,3.0,97,yes,master,west,13.06
+1440,17,female,0.4,86,yes,high school,south,0.0
+3283,17,female,5.0,88,no,none,south,0.95
+3593,18,female,1.2,87,no,none,south,0.0
+1018,18,female,4.5,53,yes,high school,south,35.82
+2319,15,male,4.6,90,yes,bachelor,south,21.11
+852,15,female,1.2,88,yes,bachelor,north,18.91
+3017,15,female,4.5,69,yes,master,south,16.27
+3463,15,female,0.6,55,no,high school,east,1.58
+4000,16,female,4.5,93,yes,none,south,8.86
+3307,15,male,0.7,60,no,high school,west,0.0
+4107,15,female,1.7,99,yes,high school,north,13.89
+1423,16,female,1.8,80,no,high school,west,7.76
+3522,15,female,1.3,51,yes,none,east,0.0
+2476,15,female,2.8,67,no,bachelor,east,8.47
+3673,18,male,0.4,82,no,none,south,0.0
+3301,15,male,1.5,87,yes,master,east,19.19
+3299,16,male,3.7,69,no,none,east,0.0
+1654,16,male,1.2,64,yes,high school,north,9.11
+4146,18,female,2.4,92,yes,none,east,0.0
+586,15,female,1.4,81,yes,master,east,40.38
+4072,15,female,4.9,53,no,high school,east,22.12
+2208,15,female,1.7,83,no,none,east,1.68
+1135,16,female,1.9,97,yes,bachelor,north,13.42
+1059,17,male,0.7,83,no,high school,south,0.55
+4226,16,male,1.4,84,no,high school,west,10.36
+3012,18,female,1.5,64,no,bachelor,east,17.93
+1529,17,female,4.6,60,yes,high school,east,6.53
+631,18,female,2.5,89,yes,bachelor,west,46.38
+3597,17,female,4.8,91,yes,none,south,1.77
+575,17,male,6.1,53,no,high school,south,33.19
+360,17,male,3.0,52,yes,bachelor,south,22.57
+3597,17,female,4.8,91,yes,none,south,1.77
+3443,16,female,2.5,57,yes,master,east,17.11
+2423,16,female,1.6,87,yes,none,west,0.0
+2038,17,female,1.6,69,yes,bachelor,east,6.52
+3356,15,female,0.4,59,yes,none,south,0.0
+2124,18,female,2.6,64,no,high school,west,8.36
+592,17,male,3.4,93,yes,bachelor,east,18.77
+3224,17,male,2.2,97,yes,high school,south,7.09
+3305,17,male,0.7,87,yes,high school,south,0.0
+3575,16,female,1.3,81,no,high school,south,0.0
+564,15,male,1.4,88,yes,none,south,0.0
+776,18,male,0.5,83,yes,bachelor,north,14.65
+1964,16,female,5.0,86,no,bachelor,east,10.7
+3603,17,female,0.4,86,yes,master,north,19.27
+1468,15,male,3.2,86,yes,none,south,5.11
+228,18,male,0.3,69,no,high school,south,1.99
+901,18,male,4.6,59,no,none,south,0.0
+4006,18,female,1.6,53,no,none,east,0.0
+392,17,male,1.3,60,no,high school,east,4.27
+4061,15,female,0.9,95,yes,none,south,0.0
+1468,15,male,3.2,86,yes,none,south,5.11
+3116,17,male,1.0,58,yes,high school,south,0.99
+273,17,male,1.0,95,yes,master,east,24.85
+2087,15,male,1.4,94,yes,none,west,6.33
+1386,15,male,1.5,97,yes,high school,south,5.16
+3634,18,male,4.0,99,yes,high school,north,19.37
+160,17,male,1.6,84,yes,high school,south,4.23
+3023,17,female,0.9,65,yes,high school,south,5.54
+3802,15,female,1.4,85,no,none,east,6.94
+3281,18,female,1.2,89,yes,none,east,6.46
+696,18,female,3.2,63,no,high school,west,12.23
+1654,16,male,1.2,64,yes,high school,north,9.11
+510,16,female,1.0,87,yes,high school,south,3.84
+839,17,female,1.4,97,no,none,south,0.35
+2217,16,female,2.6,55,no,none,east,0.0
+2029,16,male,1.7,62,yes,none,south,0.0
+869,16,female,6.7,82,no,none,north,12.56
+2540,15,female,1.7,69,no,high school,north,7.56
+3314,15,male,1.7,87,yes,high school,south,5.92
+1909,15,male,2.2,91,yes,none,south,2.61
+572,18,female,0.6,99,no,master,south,11.47
+57,15,male,10.0,98,yes,none,south,59.89
+472,15,female,1.7,81,yes,bachelor,south,3.61
+2699,16,female,0.7,69,no,high school,south,4.51
+4064,17,female,0.5,86,yes,none,south,0.0
+2469,17,female,1.9,63,no,none,east,0.0
+1578,17,female,0.3,89,yes,high school,east,3.97
+3499,15,female,0.9,97,yes,none,south,0.0
+1354,17,male,0.5,91,no,bachelor,south,0.0
+3094,18,female,3.6,81,yes,none,east,42.04
+3522,15,female,1.3,51,yes,none,east,0.0
+3837,16,female,7.8,82,yes,bachelor,south,28.96
+1210,18,female,2.7,67,yes,master,west,23.2
+2485,16,male,4.5,69,no,bachelor,south,13.92
+4070,16,female,1.3,80,yes,none,north,3.98
+3923,16,female,1.0,94,yes,high school,south,26.35
+2608,16,female,2.1,61,yes,master,south,16.26
+4182,15,female,0.3,66,yes,none,south,0.0
+3087,16,male,9.8,54,no,bachelor,south,23.67
+3506,16,male,0.9,85,no,high school,east,22.87
+3961,16,female,1.4,57,yes,none,east,0.0
+1388,17,male,1.8,92,yes,high school,north,10.6
+3916,15,male,1.8,56,yes,bachelor,east,7.32
+1397,15,female,1.4,58,no,none,west,0.0
+253,17,male,0.6,65,yes,none,north,2.52
+1514,17,male,6.1,58,no,none,east,0.0
+1440,17,female,0.4,86,yes,high school,south,0.0
+1476,18,female,1.2,51,yes,high school,north,15.93
+2180,18,female,0.6,97,no,none,south,0.0
+626,17,male,1.6,88,no,high school,west,7.41
+2705,17,male,4.3,59,no,high school,east,11.24
+3435,16,female,1.3,59,yes,bachelor,north,8.05
+2349,17,female,6.7,82,no,high school,east,16.54
+825,16,female,1.0,83,no,high school,east,7.78
+2315,17,male,1.2,51,no,master,south,28.5
+548,18,female,4.3,94,yes,high school,south,31.04
+2178,17,male,0.2,63,no,master,east,5.74
+650,16,female,0.9,98,no,none,south,0.0
+2332,16,female,0.2,80,no,bachelor,south,1.86
+3127,18,male,0.2,51,yes,high school,east,4.74
+3837,16,female,7.8,82,yes,bachelor,south,28.96
+3938,15,female,3.3,94,yes,high school,west,17.66
+3395,18,male,1.0,91,yes,high school,south,0.0
+1084,16,male,3.5,87,yes,bachelor,north,16.0
+1970,17,male,6.7,69,no,none,east,8.62
+2530,17,female,1.2,85,no,master,south,19.95
+940,17,female,2.9,57,yes,bachelor,north,41.95
+3902,17,male,1.7,66,yes,high school,east,0.0
+3764,17,female,1.0,81,no,none,south,0.0
+1784,16,male,2.0,84,no,none,south,0.0
+3305,17,male,0.7,87,yes,high school,south,0.0
+2840,17,female,4.4,55,yes,none,west,4.98
+704,17,male,10.0,90,no,high school,south,53.09
+3845,18,female,1.1,55,yes,high school,south,0.0
+1941,18,male,6.7,68,yes,high school,north,19.73
+3889,15,male,1.3,82,yes,none,south,0.0
+4017,15,male,4.8,80,yes,master,south,34.76
+2510,15,male,0.7,54,yes,high school,north,22.43
+3873,18,male,1.5,91,no,high school,east,6.23
+2987,17,female,1.8,83,no,none,east,6.06
+1911,15,male,2.7,64,yes,high school,south,5.78
+1996,18,male,1.9,67,yes,none,west,7.78
+667,15,female,0.1,90,yes,high school,east,11.85
+2767,17,female,0.3,81,no,master,south,2.17
+665,17,female,4.9,58,no,none,south,0.0
+754,18,male,8.7,97,no,high school,south,19.61
+2231,17,female,1.0,54,yes,high school,east,21.07
+153,15,female,2.0,68,yes,none,south,0.34
+4167,18,male,1.4,82,no,high school,east,1.41
+3867,18,female,1.6,59,yes,master,west,13.74
+3774,16,female,1.4,93,no,high school,north,35.85
+1996,18,male,1.9,67,yes,none,west,7.78
+1252,17,female,1.0,57,no,none,south,0.0
+348,16,female,4.2,56,no,none,south,0.0
+2381,16,male,0.2,68,yes,master,west,6.38
+367,18,female,0.6,91,no,none,south,0.0
+4138,17,female,0.6,63,no,none,east,0.0
+3524,16,male,1.1,95,no,none,south,0.0
+221,18,male,1.4,67,no,none,south,0.0
+4000,16,female,4.5,93,yes,none,south,8.86
+1129,16,male,0.3,98,yes,high school,south,0.0
+4060,15,male,1.9,60,no,high school,south,2.23
+2399,15,male,1.1,80,no,bachelor,east,13.57
+2043,17,male,0.4,80,no,master,east,11.79
+3477,15,male,7.6,93,yes,high school,north,20.86
+2995,15,male,6.8,54,yes,bachelor,south,16.56
+3342,15,female,0.5,82,no,master,south,24.22
+1821,17,male,0.3,88,no,high school,east,1.52
+89,15,male,1.8,60,yes,none,west,2.91
+284,15,female,9.2,90,yes,none,south,26.3
+557,15,male,1.6,58,no,none,east,1.5
+2945,18,female,0.6,91,yes,high school,south,1.96
+374,16,male,4.7,82,yes,high school,east,9.92
+2976,16,male,0.9,95,no,high school,south,8.0
+1775,18,male,1.8,56,yes,bachelor,south,1.13
+2149,16,male,7.2,84,no,high school,east,21.27
+271,17,female,9.7,61,no,high school,south,12.55
+2344,17,female,0.2,53,no,none,west,0.0
+1891,15,female,0.6,62,yes,none,south,0.0
+1166,17,female,4.6,54,yes,none,north,19.8
+1654,16,male,1.2,64,yes,high school,north,9.11
+1670,15,female,4.1,80,no,none,south,2.64
+15,16,female,0.2,86,yes,master,south,19.22
+2677,15,male,4.4,52,no,high school,north,21.82
+2779,17,male,5.3,83,no,high school,west,11.92
+3874,17,male,2.9,95,no,bachelor,east,22.53
+962,17,male,0.9,93,no,bachelor,north,11.5
+4219,18,female,0.3,84,no,none,east,1.19
+3794,15,female,3.6,92,no,high school,north,48.48
+2724,18,male,5.6,95,no,none,south,7.83
+2529,17,female,3.1,61,yes,none,west,0.0
+2817,17,male,0.6,99,no,high school,south,3.68
+1745,15,male,0.9,82,yes,high school,east,9.56
+579,15,female,1.2,63,no,none,south,0.0
+4075,17,male,6.3,96,yes,bachelor,east,29.51
+735,18,male,0.7,58,yes,none,south,0.0
+1657,17,male,9.0,93,yes,high school,north,25.19
+493,15,male,1.0,92,no,bachelor,south,0.22
+1486,17,male,1.5,65,no,high school,south,5.77
+3833,17,female,2.0,94,yes,none,south,0.0
+2478,16,male,8.6,52,yes,high school,south,23.4
+722,17,male,1.6,57,no,high school,south,0.85
+3834,16,female,4.7,58,no,none,north,13.17
+2558,15,male,3.2,55,no,high school,east,21.99
+1346,18,female,0.5,50,yes,high school,south,0.0
+2719,18,male,1.9,97,yes,high school,south,4.44
+3641,15,female,2.8,94,yes,high school,south,5.32
+3516,17,male,0.3,62,yes,bachelor,east,11.6
+2320,15,female,0.2,54,no,high school,south,0.0
+1473,17,female,2.4,85,no,none,south,1.29
+2686,17,male,1.5,90,yes,none,east,9.29
+1549,17,female,1.0,58,yes,none,north,0.27
+3312,17,male,3.8,96,no,none,east,5.21
+1325,16,female,4.3,59,yes,high school,south,14.86
+1915,16,male,1.9,81,no,none,south,0.0
+3839,17,male,1.8,88,yes,high school,south,8.16
+861,16,female,1.6,81,yes,bachelor,south,9.42
+4013,17,male,3.8,90,yes,bachelor,east,15.67
+1281,16,male,1.5,90,no,bachelor,south,11.02
+1834,17,male,9.9,59,yes,none,south,48.98
+2106,18,female,0.7,82,no,none,south,0.0
+554,18,male,0.6,65,yes,high school,east,0.0
+3304,18,male,1.6,55,no,none,east,1.73
+1876,16,male,1.9,66,no,high school,south,3.84
+1244,15,female,0.6,53,yes,high school,north,9.06
+1596,18,male,1.3,80,yes,master,south,13.17
+556,15,female,5.0,81,no,master,south,44.55
+3136,15,male,0.4,93,no,none,south,0.0
+3336,17,male,1.2,86,no,high school,south,0.0
+2276,15,female,9.2,87,no,bachelor,north,70.84
+990,18,female,2.9,95,no,none,east,6.04
+585,15,female,1.2,54,no,master,south,11.1
+2875,15,female,0.6,96,no,none,west,0.0
+1988,18,female,4.3,83,yes,high school,south,11.43
+1993,17,female,4.9,91,no,high school,south,0.0
+4075,17,male,6.3,96,yes,bachelor,east,29.51
+2952,15,female,3.6,55,yes,master,south,8.87
+3469,18,male,0.7,81,yes,high school,north,28.82
+732,18,male,0.6,65,no,none,north,0.0
+2996,18,female,0.8,99,yes,high school,south,9.98
+861,16,female,1.6,81,yes,bachelor,south,9.42
+3233,18,male,2.5,88,no,high school,south,10.42
+3748,17,male,3.9,52,yes,none,east,8.3
+4100,16,female,1.0,50,yes,none,east,0.0
+3752,16,female,0.2,80,yes,bachelor,west,1.48
+3879,16,female,0.4,95,yes,none,south,6.28
+224,15,male,2.0,96,no,high school,south,0.0
+4068,18,female,0.8,98,no,none,north,0.0
+1124,16,female,1.9,65,yes,none,south,0.0
+1702,17,male,0.2,62,no,bachelor,west,0.0
+188,16,female,2.7,54,yes,high school,east,6.49
+589,18,male,2.1,81,yes,high school,south,30.58
+3125,18,female,1.1,60,no,high school,north,11.29
+4173,15,female,0.3,93,no,high school,east,0.0
+735,18,male,0.7,58,yes,none,south,0.0
+3094,18,female,3.6,81,yes,none,east,42.04
+635,16,male,1.1,61,yes,bachelor,north,13.61
+469,17,female,0.9,59,no,none,north,0.0
+2532,17,female,0.5,55,no,bachelor,north,8.47
+1995,18,male,1.0,89,yes,high school,south,0.0
+1112,17,male,2.8,92,no,none,east,0.9
+597,18,female,9.1,66,no,bachelor,east,19.28
+3686,15,female,4.8,59,yes,none,east,6.42
+3985,17,male,1.2,50,yes,high school,south,4.74
+3475,17,female,0.9,80,no,bachelor,south,0.0
+1499,18,male,1.8,60,no,none,south,0.0
+2071,17,female,1.2,88,yes,bachelor,south,3.31
+1565,16,female,0.2,90,no,none,south,0.0
+3272,16,male,2.8,67,no,none,east,0.0
+3183,15,male,1.1,52,no,bachelor,east,7.79
+347,17,female,0.5,65,no,none,south,0.0
+2295,17,female,1.0,90,no,none,south,0.0
+2126,18,female,1.7,89,no,none,west,0.0
+1632,15,female,0.3,53,yes,none,east,0.0
+3926,18,female,9.6,91,yes,high school,south,61.08
+584,18,female,0.2,55,yes,high school,east,4.31
+476,17,female,2.6,83,no,none,east,0.0
+2593,15,male,0.7,85,no,none,south,0.0
+67,18,female,1.0,86,yes,bachelor,south,5.6
+2473,16,male,2.5,92,no,high school,south,4.37
+3269,15,male,0.8,62,yes,bachelor,south,27.35
+4125,16,female,4.0,99,no,bachelor,north,16.73
+200,18,male,8.5,60,yes,bachelor,south,25.25
+3689,16,female,2.9,50,yes,high school,north,9.4
+2581,15,male,1.2,97,yes,high school,south,8.28
+4211,18,female,1.4,62,no,high school,north,9.06
+753,17,male,1.2,67,yes,high school,east,1.2
+2480,16,male,1.7,83,yes,bachelor,south,6.25
+1545,18,male,5.7,62,no,none,south,0.0
+1934,18,female,4.5,96,yes,high school,south,36.37
+39,17,male,1.4,66,no,bachelor,east,2.79
+2510,15,male,0.7,54,yes,high school,north,22.43
+1282,16,female,1.6,97,yes,bachelor,south,11.78
+1364,18,female,3.2,97,no,high school,south,2.65
+1619,15,female,0.1,87,yes,none,south,21.2
+2634,18,male,3.3,64,no,high school,south,13.95
+919,15,male,0.9,53,yes,none,south,0.0
+2087,15,male,1.4,94,yes,none,west,6.33
+3235,17,male,4.7,92,yes,none,north,40.31
+631,18,female,2.5,89,yes,bachelor,west,46.38
+3725,16,male,8.9,94,no,bachelor,north,33.9
+3199,15,male,1.7,63,no,high school,south,0.0
+2909,18,female,1.2,85,no,none,north,0.0
+682,15,male,0.6,57,no,none,south,0.0
+171,16,female,1.8,63,no,master,east,12.99
+137,15,female,0.3,55,yes,none,east,0.0
+3171,15,female,1.7,88,no,high school,north,8.38
+3099,16,male,1.3,61,no,none,south,0.0
+4096,15,male,0.2,68,yes,high school,south,0.0
+2053,15,male,1.0,83,yes,high school,south,0.0
+2342,17,male,2.6,98,yes,high school,east,19.45
+1155,17,female,1.7,68,yes,master,north,16.53
+3248,16,male,2.9,64,no,none,east,6.31
+3188,18,male,2.7,80,no,high school,north,3.9
+3029,15,male,0.2,84,yes,none,west,1.5
+2307,17,male,0.2,82,no,high school,south,0.0
+3728,15,female,9.2,82,yes,high school,south,26.26
+246,17,female,5.0,99,no,bachelor,south,10.88
+3690,17,male,1.5,98,yes,bachelor,south,9.99
+3445,16,male,0.6,56,yes,none,west,0.0
+900,16,female,0.9,81,yes,master,east,12.56
+1506,16,female,0.6,94,yes,high school,south,5.08
+634,15,male,1.2,58,no,bachelor,north,35.0
+905,18,female,7.9,67,yes,high school,north,23.68
+46,17,male,0.7,53,yes,none,south,0.0
+3114,15,female,1.2,67,no,high school,south,1.68
+380,18,male,1.7,66,no,high school,east,12.08
+4,17,female,7.1,93,yes,bachelor,south,21.11
+373,17,male,3.7,96,yes,bachelor,south,34.25
+3341,17,male,0.7,57,no,high school,east,1.78
+1939,15,female,7.2,97,no,none,south,21.24
+1954,17,female,2.1,85,no,high school,south,10.91
+570,17,male,1.7,88,yes,high school,north,16.5
+1882,15,male,4.7,93,yes,none,south,6.94
+3181,18,female,6.4,86,no,high school,north,16.4
+3565,15,female,1.1,51,no,none,west,0.0
+280,18,male,1.6,82,no,high school,south,0.0
+369,18,female,0.8,68,yes,master,east,9.38
+688,17,female,1.6,81,no,bachelor,north,14.33
+1079,18,male,1.0,80,yes,high school,east,7.8
+582,18,female,0.6,84,no,none,south,0.0
+1073,18,female,7.2,91,yes,high school,west,18.89
+1893,18,male,2.9,52,yes,high school,west,3.84
+1852,15,male,0.4,93,no,high school,south,0.0
+3325,16,male,0.2,83,no,high school,south,0.0
+4088,15,female,2.8,85,yes,high school,south,3.64
+3260,18,male,1.9,94,no,none,east,0.0
+461,15,female,1.4,98,no,high school,east,21.31
+3771,16,female,4.8,67,no,bachelor,south,11.02
+1260,15,male,0.5,53,no,none,south,0.0
+3474,18,male,2.8,87,no,high school,south,0.0
+1666,18,male,1.1,94,no,high school,south,0.0
+3600,15,female,0.3,51,no,none,south,0.0
+1640,16,female,4.3,67,yes,none,south,0.94
+3790,18,female,1.5,94,yes,none,south,0.0
+3038,17,female,2.6,94,no,high school,south,15.58
+4172,16,female,0.2,58,no,high school,east,2.3
+2279,18,male,0.8,66,no,high school,east,3.25
+84,17,male,0.3,56,yes,high school,east,5.14
+2443,17,female,3.0,98,no,bachelor,south,9.89
+489,18,male,7.2,82,no,bachelor,south,32.22
+1643,15,female,1.4,63,no,high school,south,0.0
+3459,17,female,1.4,87,no,none,south,0.0
+365,15,male,3.4,98,no,high school,south,0.0
+3277,15,female,0.1,96,yes,none,north,9.6
+1381,16,female,3.9,99,yes,high school,north,50.89
+1728,17,female,5.0,96,no,high school,east,18.83
+1595,17,female,2.5,83,yes,high school,west,11.99
+3651,16,female,3.4,53,no,master,south,13.6
+304,18,female,1.2,65,no,none,south,0.0
+4182,15,female,0.3,66,yes,none,south,0.0
+414,17,female,1.0,91,yes,high school,east,13.11
+2241,17,male,1.7,50,no,none,south,0.0
+2105,17,female,1.6,92,no,bachelor,south,0.0
+3309,18,male,1.9,86,yes,high school,west,10.78
+3559,16,female,0.8,82,yes,none,north,4.14
+3829,16,female,3.0,55,no,high school,east,16.17
+4223,18,female,1.9,55,no,master,south,25.7
+1373,18,male,0.4,65,no,none,south,0.0
+1071,17,female,5.9,68,no,high school,north,56.67
+613,15,female,0.9,90,no,high school,east,3.74
+3293,18,female,2.4,81,no,high school,north,4.8
+598,17,female,4.3,99,yes,none,south,9.75
+561,17,female,0.8,84,yes,bachelor,west,43.1
+1818,15,male,8.9,64,yes,bachelor,east,100.0
+3458,17,female,1.8,88,no,high school,south,10.12
+3478,15,female,1.1,82,no,high school,east,8.04
+4071,15,female,0.7,60,yes,high school,west,3.18
+3079,18,female,1.5,86,no,bachelor,east,37.55
+1572,18,male,1.0,97,no,none,south,1.1
+2769,17,male,0.2,55,yes,master,east,16.09
+1990,15,female,1.2,82,no,high school,south,4.34
+2845,15,male,6.8,63,no,none,east,10.7
+1665,17,female,1.9,82,no,master,west,18.92
+3193,17,male,1.2,80,no,master,north,17.68
+2439,15,male,5.0,53,yes,high school,east,16.44
+2475,15,male,4.1,81,no,none,east,29.24
+2684,18,male,2.1,67,yes,high school,north,10.7
+324,15,female,3.1,63,yes,high school,east,30.32
+496,15,female,2.4,94,no,high school,south,1.87
+2419,15,male,9.5,99,no,high school,south,16.41
+14,15,female,0.2,80,yes,none,west,0.0
+2597,17,male,0.6,81,yes,high school,east,13.19
+3045,16,female,0.2,64,no,none,south,0.0
+4025,17,female,2.4,86,yes,none,south,29.32
+4094,16,male,1.4,61,no,high school,east,11.39
+2400,17,female,5.9,93,no,bachelor,east,21.27
+1308,18,male,0.8,54,no,none,east,0.0
+3295,15,female,8.3,68,no,none,east,29.34
+41,17,male,3.2,80,no,bachelor,east,6.74
+3080,15,male,4.1,56,yes,none,south,14.29
+1394,16,female,5.0,94,no,high school,north,51.12
+4221,18,female,0.2,89,no,none,west,0.0
+419,18,female,2.0,82,yes,none,south,1.24
+546,16,male,2.0,99,yes,high school,south,7.65
+2690,16,female,1.8,96,yes,bachelor,east,18.46
+2012,17,male,2.7,59,no,high school,south,0.86
+3520,17,female,5.8,80,no,none,south,0.14
+4000,16,female,4.5,93,yes,none,south,8.86
+510,16,female,1.0,87,yes,high school,south,3.84
+4100,16,female,1.0,50,yes,none,east,0.0
+230,16,female,1.5,52,no,none,south,0.0
+3737,17,female,0.1,87,no,high school,east,2.39
+4003,18,female,1.6,59,yes,none,east,13.26
+2000,16,male,3.3,53,no,high school,south,7.32
+3394,16,female,0.7,84,no,none,north,0.0
+2615,16,female,1.1,54,yes,bachelor,east,14.04
+133,17,male,4.9,81,no,high school,south,4.07
+2379,16,female,0.2,99,yes,none,east,3.94
+2866,16,female,3.6,59,no,bachelor,east,24.87
+1834,17,male,9.9,59,yes,none,south,48.98
+390,18,female,7.3,80,yes,master,south,18.98
+3587,16,male,2.0,56,no,bachelor,west,0.93
+1157,16,male,1.8,95,yes,none,south,0.0
+1043,18,female,0.5,84,no,bachelor,east,9.13
+2979,18,male,0.6,62,yes,high school,west,1.43
+1870,17,female,0.2,54,yes,bachelor,north,38.53
+2908,16,male,2.6,54,yes,high school,east,11.94
+3536,17,male,1.4,85,yes,bachelor,east,2.62
+4081,18,female,0.9,62,no,high school,east,13.88
+459,17,male,1.8,50,yes,none,south,0.0
+3469,18,male,0.7,81,yes,high school,north,28.82
+784,15,female,9.1,52,no,bachelor,west,26.75
+3892,18,female,0.8,55,yes,bachelor,south,2.54
+91,16,male,3.3,63,yes,none,east,0.0
+145,16,male,2.8,93,yes,none,south,2.45
+1254,16,female,0.3,83,yes,high school,east,8.83
+176,17,male,7.1,83,no,none,east,8.67
+2604,15,male,4.2,69,yes,bachelor,south,15.83
+2793,16,female,2.2,84,yes,bachelor,east,40.6
+1808,15,female,3.3,90,no,bachelor,east,46.89
+1776,18,female,3.9,96,yes,master,east,86.31
+2007,16,female,1.7,66,no,none,east,0.0
+3594,15,male,0.2,60,no,master,east,38.8
+3446,16,female,4.8,54,no,none,east,15.48
+589,18,male,2.1,81,yes,high school,south,30.58
+2868,18,female,1.1,57,no,none,west,0.0
+2628,16,male,4.5,69,no,none,south,0.0
+3332,18,female,6.3,50,no,none,north,9.73
+89,15,male,1.8,60,yes,none,west,2.91
+1570,16,female,0.7,58,yes,high school,south,9.99
+2091,15,female,1.9,83,yes,bachelor,south,0.02
+2910,15,female,0.4,96,yes,high school,west,27.6
+106,15,female,1.5,83,no,high school,north,2.5
+3306,15,female,5.6,93,no,none,south,8.04
+1095,17,female,1.0,99,no,none,south,0.0
+253,17,male,0.6,65,yes,none,north,2.52
+3119,17,female,0.3,56,yes,none,west,0.0
+3531,18,female,3.1,95,no,high school,south,0.0
+425,15,female,2.4,59,yes,bachelor,east,39.56
+1243,16,male,9.9,53,yes,high school,south,21.33
+3889,15,male,1.3,82,yes,none,south,0.0
+1198,18,male,0.6,83,no,none,south,0.0
+819,16,female,1.4,99,no,bachelor,east,9.95
+1834,17,male,9.9,59,yes,none,south,48.98
+404,16,male,0.5,92,no,high school,north,8.34
+3440,16,male,4.9,60,no,none,east,6.63
+1819,16,male,0.8,81,no,bachelor,south,0.0
+1848,18,female,0.6,87,yes,bachelor,south,8.61
+1518,16,female,1.0,87,no,none,east,0.0
+4118,17,female,1.0,99,no,none,south,0.0
+3235,17,male,4.7,92,yes,none,north,40.31
+975,18,female,0.6,86,yes,none,south,0.0
+1756,16,male,4.1,99,no,master,south,21.19
+1061,16,male,1.8,93,yes,bachelor,north,14.74
+4055,18,female,0.8,87,no,high school,east,13.42
+3907,17,male,1.2,80,yes,bachelor,east,6.54
+2277,16,male,0.6,93,no,bachelor,south,0.0
+2293,17,female,0.3,84,no,high school,east,0.0
+3741,15,male,7.7,57,no,high school,east,17.89
+2596,16,female,1.0,63,yes,bachelor,south,8.19
+1406,16,male,1.1,63,no,high school,west,9.49
+3115,15,female,1.6,62,yes,high school,east,17.23
+1812,18,male,4.1,95,no,bachelor,south,13.43
+3959,16,female,1.1,81,no,none,west,0.0
+1961,16,female,5.2,63,yes,high school,east,11.66
+38,16,female,3.2,95,yes,none,east,0.0
+2602,17,female,2.8,64,yes,bachelor,south,23.8
+1835,18,male,0.8,66,yes,high school,south,0.0
+3696,15,male,0.9,95,yes,bachelor,west,21.12
+1399,18,male,1.3,86,no,bachelor,east,8.56
+3784,15,female,2.1,57,no,high school,north,8.35
+2052,15,male,3.7,89,no,high school,north,15.38
+1078,15,male,1.0,86,no,none,east,5.1
+1073,18,female,7.2,91,yes,high school,west,18.89
+1707,15,male,8.4,91,yes,none,south,27.7
+2799,16,female,1.6,94,no,high school,north,10.48
+96,15,male,1.9,54,yes,high school,south,9.08
+3195,16,female,0.9,60,yes,none,east,12.92
+3484,15,male,0.9,87,no,high school,south,0.0
+1388,17,male,1.8,92,yes,high school,north,10.6
+2999,16,female,1.0,53,yes,master,north,32.42
+1797,15,female,0.7,80,no,none,south,0.0
+1688,17,female,0.3,69,no,master,south,11.06
+3291,15,male,0.3,83,yes,high school,south,0.0
+1040,15,female,0.5,85,no,high school,south,0.0
+2638,16,female,1.1,99,yes,high school,north,36.34
+604,16,male,2.9,91,no,none,north,5.33
+1630,15,female,0.2,92,no,master,north,15.31
+3888,15,male,9.4,63,yes,bachelor,south,20.2
+4087,18,male,1.6,89,no,none,north,0.0
+4045,15,female,1.0,97,yes,none,north,0.03
+2216,15,female,2.8,87,no,high school,north,8.58
+3788,16,male,4.3,51,yes,high school,south,4.1
+1334,17,male,0.2,89,no,bachelor,east,34.17
+886,18,male,2.0,61,no,high school,south,7.2
+2906,18,male,1.6,66,no,high school,east,11.07
+1840,17,female,1.6,95,no,high school,south,3.74
+1856,15,male,4.4,86,no,none,east,9.47
+3027,16,male,0.8,92,yes,high school,south,3.51
+501,17,male,4.3,86,no,high school,north,23.69
+1941,18,male,6.7,68,yes,high school,north,19.73
+1521,16,male,1.1,65,no,high school,north,25.9
+1003,16,female,2.4,93,yes,high school,west,11.83
+1140,15,male,1.2,93,yes,bachelor,east,17.74
+2191,15,female,9.2,68,no,high school,south,26.34
+3845,18,female,1.1,55,yes,high school,south,0.0
+694,15,female,9.0,52,no,master,south,43.09
+2555,16,female,1.6,89,yes,bachelor,north,60.6
+3605,17,male,1.1,94,no,high school,south,0.0
+2561,15,male,0.9,60,no,high school,south,0.0
+2674,18,male,0.7,68,yes,none,east,0.0
+3084,17,female,9.2,87,no,high school,north,26.07
+3282,15,female,3.0,96,yes,master,east,55.26
+4086,17,male,3.1,99,no,master,east,26.82
+2560,16,female,3.2,93,no,master,east,20.93
+1390,17,male,4.6,93,no,bachelor,south,9.28
+1826,18,male,5.1,86,no,high school,north,50.3
+2136,18,male,7.0,82,no,none,south,17.53
+241,18,female,1.5,97,no,bachelor,north,19.98
+721,17,male,9.4,57,no,high school,south,19.26
+2016,18,female,1.8,59,no,none,east,0.0
+4095,15,female,3.2,81,yes,none,north,10.41
+534,16,female,0.6,64,no,high school,north,7.18
+1892,15,female,1.4,57,no,high school,north,6.35
+3002,16,female,0.5,51,yes,high school,south,15.67
+2228,15,male,4.2,52,no,high school,west,30.72
+2462,15,male,3.1,62,yes,none,north,13.23
+1056,15,female,0.1,90,yes,none,south,1.81
+871,15,male,3.6,69,yes,bachelor,north,19.73
+1477,15,female,3.8,62,no,high school,east,7.07
+3955,16,male,0.9,84,no,none,south,0.0
+86,17,female,3.6,63,yes,none,south,9.31
+3111,18,female,1.0,52,no,bachelor,south,0.0
+1143,15,female,2.1,87,no,high school,south,0.0
+3550,18,male,0.5,62,yes,high school,south,0.0
+2388,17,female,1.7,94,yes,high school,south,18.86
+3790,18,female,1.5,94,yes,none,south,0.0
+3967,18,female,2.9,92,no,none,north,12.18
+924,18,male,0.9,59,yes,none,north,2.65
+3010,18,male,1.4,63,no,bachelor,south,2.01
+1590,15,male,2.4,55,no,bachelor,east,4.73
+2793,16,female,2.2,84,yes,bachelor,east,40.6
+1657,17,male,9.0,93,yes,high school,north,25.19
+283,17,female,0.2,60,yes,none,south,0.0
+368,17,male,0.3,94,yes,none,east,1.71
+4112,15,female,0.2,88,no,none,south,0.0
+982,18,female,2.8,97,no,high school,south,8.36
+236,18,male,4.3,59,no,high school,east,11.25
+3876,15,female,1.9,57,no,none,south,0.0
+1534,18,female,0.1,53,no,none,east,0.0
+1516,15,female,8.8,80,yes,none,south,16.27
+3649,15,female,4.0,85,no,high school,east,9.29
+2173,18,male,1.3,66,yes,master,south,8.13
+3899,16,female,4.0,98,yes,none,south,7.18
+1256,15,female,0.9,99,yes,bachelor,east,9.16
+548,18,female,4.3,94,yes,high school,south,31.04
+364,18,male,0.2,66,no,bachelor,east,24.0
+1438,18,male,1.2,82,no,high school,west,3.58
+45,18,female,0.8,57,yes,high school,east,0.0
+2020,17,female,1.3,89,no,none,south,0.0
+2662,18,male,1.2,64,yes,master,east,9.8
+4181,16,female,3.3,65,yes,high school,west,13.51
+368,17,male,0.3,94,yes,none,east,1.71
+3734,17,female,1.6,85,yes,none,south,0.0
+313,17,male,2.0,50,no,none,north,15.85
+653,16,female,1.3,80,no,master,south,15.05
+725,17,female,1.2,80,no,none,east,0.0
+1640,16,female,4.3,67,yes,none,south,0.94
+2090,15,female,1.5,90,yes,high school,east,13.21
+1779,15,female,3.7,60,no,high school,east,13.36
+1162,17,female,0.2,95,no,bachelor,north,1.69
+3228,16,female,1.4,66,yes,none,south,0.0
+3006,17,male,1.4,51,no,none,south,0.0
+4031,16,male,8.4,80,no,none,west,7.5
+1600,18,female,1.7,90,no,none,east,1.39
+723,18,female,2.1,69,no,none,east,3.76
+2008,16,female,0.7,80,yes,bachelor,south,0.28
+931,18,female,2.7,89,no,master,west,12.32
+2005,16,female,0.9,80,no,none,south,0.0
+117,15,female,3.0,60,no,none,south,16.3
+957,18,female,4.0,55,no,none,south,0.0
+2264,16,male,4.2,84,yes,none,east,25.17
+2159,17,female,8.1,59,yes,none,north,16.27
+3779,18,female,4.9,95,no,master,south,16.03
+3787,18,female,1.3,97,yes,high school,east,12.63
+1872,18,male,3.0,65,yes,master,east,15.31
+1722,18,male,1.1,97,yes,bachelor,east,36.47
+4111,15,female,1.1,81,yes,none,east,18.1
+2070,17,male,0.9,99,no,high school,south,0.0
+576,17,male,0.8,50,no,none,south,0.0
+3236,18,male,6.0,66,yes,bachelor,south,20.62
+4182,15,female,0.3,66,yes,none,south,0.0
+1007,16,female,4.2,80,no,none,south,0.0
+31,15,female,4.8,92,yes,high school,east,17.29
+711,15,male,3.5,60,no,none,south,3.25
+3826,17,female,1.8,59,yes,bachelor,east,31.08
+1490,15,female,3.9,93,no,master,south,11.48
+1909,15,male,2.2,91,yes,none,south,2.61
+497,17,male,1.9,66,yes,none,south,0.0
+2840,17,female,4.4,55,yes,none,west,4.98
+1699,17,male,0.7,67,no,none,south,0.0
+2554,16,male,0.5,61,yes,high school,south,9.31
+3661,18,male,5.4,55,no,master,east,25.49
+2032,17,female,1.7,80,yes,bachelor,south,0.0
+2096,15,female,3.0,89,yes,master,east,21.77
+3452,17,male,0.6,83,no,none,north,9.37
+108,18,female,0.2,53,yes,bachelor,east,4.64
+2555,16,female,1.6,89,yes,bachelor,north,60.6
+4028,16,female,1.9,67,yes,high school,south,0.0
+1770,16,female,1.2,54,yes,bachelor,east,10.52
+341,16,female,1.4,90,no,bachelor,south,2.63
+2549,17,male,4.9,57,yes,high school,east,49.32
+389,15,male,3.3,98,no,none,north,11.74
+2684,18,male,2.1,67,yes,high school,north,10.7
+2642,17,female,8.5,93,yes,none,south,12.68
+1786,18,male,0.5,97,yes,high school,west,0.0
+2655,16,male,0.2,90,no,none,south,0.0
+2082,16,male,5.2,90,yes,high school,east,35.96
+1669,17,female,2.1,85,yes,high school,east,17.16
+1104,18,female,0.7,86,yes,none,north,4.34
+89,15,male,1.8,60,yes,none,west,2.91
+4028,16,female,1.9,67,yes,high school,south,0.0
+3226,16,male,0.9,96,yes,none,west,1.05
+3422,18,female,1.0,58,no,none,south,0.0
+2735,17,female,3.2,90,yes,none,south,9.16
+1843,18,female,0.1,55,yes,high school,north,16.76
+1950,16,female,2.0,60,no,bachelor,north,28.98
+4074,17,male,1.9,59,yes,none,south,0.11
+606,15,female,1.9,62,no,none,south,1.24
+1383,16,female,1.6,88,no,high school,south,0.37
+943,16,female,1.9,92,no,none,north,5.59
+951,18,male,0.1,92,no,high school,east,6.38
+4151,17,female,0.3,50,yes,none,east,4.46
+661,17,male,1.5,82,yes,high school,south,3.51
+2039,18,female,8.0,66,no,high school,south,18.87
+3041,17,female,1.4,50,yes,bachelor,east,9.34
+2978,16,female,3.2,88,no,none,east,6.81
+1257,15,male,1.4,91,yes,bachelor,north,41.88
+2155,17,male,1.9,55,no,bachelor,east,4.96
+1418,17,male,9.4,64,yes,high school,south,22.91
+303,15,male,1.3,91,yes,none,east,14.4
+396,16,female,0.9,99,yes,high school,south,8.22
+986,16,female,0.5,65,yes,none,east,0.0
+391,17,female,2.0,86,yes,master,east,47.63
+199,18,male,1.9,83,no,bachelor,south,4.85
+3517,16,male,0.4,54,yes,bachelor,east,3.88
+209,16,male,1.5,62,no,bachelor,east,0.0
+2910,15,female,0.4,96,yes,high school,west,27.6
+4061,15,female,0.9,95,yes,none,south,0.0
+3550,18,male,0.5,62,yes,high school,south,0.0
+1961,16,female,5.2,63,yes,high school,east,11.66
+707,17,male,1.4,92,no,bachelor,west,8.42
+2377,15,male,1.4,65,no,high school,west,1.91
+4091,15,female,0.8,89,no,master,north,8.17
+1247,16,female,1.6,52,no,bachelor,east,0.0
+1926,16,female,1.5,50,no,bachelor,south,0.0
+2068,17,male,0.7,90,no,bachelor,east,12.19
+3755,16,male,2.2,92,yes,high school,south,15.51
+2219,18,female,1.2,91,no,bachelor,east,10.86
+639,17,male,5.1,93,no,bachelor,south,67.23
+1193,15,male,9.6,94,no,none,north,17.95
+1723,17,female,0.1,64,no,none,east,3.83
+2071,17,female,1.2,88,yes,bachelor,south,3.31
+1403,18,male,9.0,98,yes,high school,east,25.79
+3137,17,female,1.7,66,yes,master,south,34.99
+147,15,male,2.7,87,yes,high school,west,6.25
+3687,17,female,3.4,65,no,none,east,5.99
+2611,16,female,0.3,53,yes,bachelor,south,2.07
+4121,15,male,3.3,68,no,high school,south,2.65
+413,17,female,3.3,68,no,high school,west,0.71
+18,16,female,5.2,51,no,bachelor,north,23.69
+2368,18,male,4.5,89,no,master,east,29.41
+2383,16,female,1.8,87,yes,none,south,2.49
+3589,15,female,1.1,68,no,high school,west,2.13
+1906,18,male,3.1,87,yes,high school,east,17.77
+354,15,female,0.7,64,no,none,south,0.0
+2798,18,female,3.7,53,yes,high school,west,11.41
+3186,18,female,8.7,52,yes,bachelor,east,27.4
+307,15,female,1.1,87,no,master,east,13.32
+1442,17,male,9.1,62,no,bachelor,south,45.75
+3348,17,male,1.6,67,no,high school,south,9.66
+1586,16,female,2.8,98,no,high school,east,16.57
+2918,15,male,3.9,88,no,none,south,0.0
+3550,18,male,0.5,62,yes,high school,south,0.0
+1548,17,male,0.2,88,yes,high school,east,14.13
+433,16,male,0.9,59,yes,bachelor,north,42.59
+321,18,female,1.7,87,yes,none,east,20.03
+1425,15,male,1.0,64,no,high school,south,22.59
+4196,18,female,4.1,53,no,high school,south,5.34
+3616,15,male,1.0,88,yes,high school,east,17.53
+3601,17,male,8.0,83,no,bachelor,south,11.39
+2133,16,female,1.8,66,no,high school,east,10.15
+152,15,male,1.1,95,no,bachelor,south,2.64
+318,18,female,0.5,92,no,high school,west,3.56
+1265,16,female,3.7,57,no,high school,north,7.81
+4101,15,female,0.8,67,yes,high school,east,11.31
+3059,17,male,1.4,67,yes,none,south,0.0
+186,17,female,3.4,91,yes,high school,south,4.79
+2053,15,male,1.0,83,yes,high school,south,0.0
+3684,17,male,3.1,87,no,bachelor,south,12.69
+4212,18,male,0.2,95,no,high school,north,5.72
+3566,16,female,1.0,89,no,none,north,0.0
+1093,18,female,2.9,92,no,high school,south,5.13
+1351,16,female,1.2,94,no,bachelor,north,9.97
+2835,16,female,1.6,87,no,high school,north,5.37
+3577,18,female,1.3,99,no,none,south,0.0
+3105,17,female,0.7,84,no,bachelor,south,6.93
+190,16,female,5.0,63,no,high school,south,3.28
+2893,16,female,0.8,90,yes,none,east,0.0
+1848,18,female,0.6,87,yes,bachelor,south,8.61
+3066,17,male,7.0,90,yes,none,south,26.1
+3396,18,female,4.1,66,yes,bachelor,east,14.44
+1159,18,female,3.8,87,no,none,east,5.03
+1296,16,male,1.9,94,no,none,west,0.0
+2732,16,male,4.1,85,no,high school,east,8.83
+9,17,male,0.5,56,no,none,west,0.0
+2580,16,male,1.2,69,yes,bachelor,east,21.79
+3929,17,male,1.8,55,no,master,east,11.36
+1576,15,male,4.6,84,yes,high school,south,21.01
+3386,18,female,2.9,50,no,high school,south,5.1
+2501,18,male,0.2,68,no,high school,south,9.97
+1211,18,male,1.8,63,no,high school,south,0.58
+2971,17,male,1.3,96,no,high school,east,12.48
+905,18,female,7.9,67,yes,high school,north,23.68
+104,17,female,0.6,93,yes,bachelor,east,7.09
+3255,17,female,4.8,82,no,high school,south,8.01
+2897,18,male,1.1,84,no,none,south,0.0
+3709,18,male,0.7,93,yes,high school,east,0.53
+2956,16,female,0.2,98,yes,high school,south,24.08
+170,15,male,3.1,69,yes,none,south,0.42
+440,18,female,1.4,53,no,none,west,0.0
+3634,18,male,4.0,99,yes,high school,north,19.37
+1622,18,male,4.2,91,no,bachelor,south,8.7
+3877,15,female,7.8,64,no,none,east,11.66
+4041,17,male,6.7,68,no,none,south,5.61
+2688,18,female,6.4,67,yes,high school,north,27.74
+4013,17,male,3.8,90,yes,bachelor,east,15.67
+407,16,male,2.8,87,yes,none,east,15.99
+257,16,female,0.3,83,yes,high school,east,8.04
+2324,16,female,2.2,52,no,high school,north,27.72
+415,16,female,3.5,53,yes,high school,south,0.0
+623,17,female,0.5,87,no,none,east,3.36
+2687,17,female,1.6,95,no,bachelor,south,10.75
+974,17,male,4.0,94,no,high school,north,10.03
+3969,16,male,1.2,95,yes,none,south,0.0
+880,15,female,0.4,92,no,master,east,9.87
+116,15,female,0.8,62,yes,bachelor,south,12.06
+3311,17,male,3.7,50,yes,high school,north,10.65
+2964,15,male,0.5,80,yes,bachelor,east,13.9
+3568,17,male,4.6,99,yes,high school,east,19.3
+3859,16,male,3.7,92,yes,high school,south,8.66
+776,18,male,0.5,83,yes,bachelor,north,14.65
+1121,17,female,3.9,93,no,none,north,34.01
+2869,18,female,2.2,87,yes,high school,east,19.85
+2830,15,male,2.2,86,no,none,south,0.0
+1598,16,female,1.2,82,yes,bachelor,south,7.19
+3234,16,male,3.7,98,yes,high school,south,5.08
+3457,16,female,5.0,85,no,high school,east,20.41
+2840,17,female,4.4,55,yes,none,west,4.98
+3704,18,female,0.1,66,no,high school,north,10.67
+2714,18,male,0.2,60,no,none,east,0.0
+2292,16,female,0.6,97,yes,none,south,0.0
+462,18,female,4.5,92,yes,none,east,45.55
+1374,15,male,0.6,80,no,high school,east,16.33
+3147,17,male,1.8,83,no,none,south,0.0
+2278,15,male,1.2,52,yes,bachelor,north,14.8
+2038,17,female,1.6,69,yes,bachelor,east,6.52
+2658,17,female,2.5,90,no,none,east,5.91
+1330,15,male,0.8,86,no,bachelor,east,24.08
+794,15,female,1.7,52,no,none,south,0.0
+748,15,male,1.4,96,yes,high school,east,13.66
+2505,17,male,0.4,63,no,master,south,7.57
+1798,15,female,5.8,88,yes,high school,east,14.65
+2061,18,female,2.0,63,no,none,east,0.0
+1341,15,female,1.4,52,yes,none,south,0.0
+4038,17,male,2.9,88,yes,none,south,3.16
+2898,15,male,0.8,95,yes,high school,south,2.92
+2800,16,female,3.3,68,yes,bachelor,east,31.42
+3969,16,male,1.2,95,yes,none,south,0.0
+3415,18,female,1.1,85,no,bachelor,south,12.75
+1187,16,female,0.2,90,no,high school,east,10.62
+1096,18,male,5.0,91,yes,master,south,24.62
+3986,18,female,3.3,84,no,none,south,2.52
+4230,18,female,2.8,84,yes,none,south,2.42
+4232,15,female,0.7,98,yes,bachelor,south,6.02
+1326,15,female,0.9,87,no,bachelor,west,7.5
+1302,18,male,4.7,68,yes,bachelor,south,13.34
+1860,15,male,2.8,83,no,master,south,5.39
+3852,16,female,1.3,90,no,none,east,0.0
+4089,15,male,1.6,64,yes,none,south,0.0
+3198,16,male,2.0,95,no,high school,east,24.81
+981,15,female,0.8,99,no,bachelor,south,6.28
+3493,17,male,3.8,95,yes,none,south,29.67
+1780,15,male,9.1,57,no,none,south,12.95
+462,18,female,4.5,92,yes,none,east,45.55
+3218,15,male,0.7,88,no,bachelor,south,10.7
+3952,18,female,5.2,83,no,bachelor,south,5.75
+2090,15,female,1.5,90,yes,high school,east,13.21
+3200,18,male,1.7,81,no,none,east,0.0
+3806,16,female,4.2,89,yes,none,east,10.34
+2686,17,male,1.5,90,yes,none,east,9.29
+609,17,male,0.5,90,yes,high school,north,7.15
+753,17,male,1.2,67,yes,high school,east,1.2
+2170,16,female,2.3,87,no,none,north,20.97
+3723,16,female,1.0,55,no,high school,south,0.0
+1315,18,female,0.8,83,yes,none,south,0.0
+3879,16,female,0.4,95,yes,none,south,6.28
+1021,18,female,0.3,94,no,high school,south,0.0
+3444,16,female,2.0,86,yes,high school,south,0.0
+84,17,male,0.3,56,yes,high school,east,5.14
+929,17,female,1.4,57,yes,high school,west,3.63
+3234,16,male,3.7,98,yes,high school,south,5.08
+3396,18,female,4.1,66,yes,bachelor,east,14.44
+4160,17,male,1.0,84,no,bachelor,north,10.6
+3716,15,male,0.6,68,no,bachelor,east,1.55
+4145,18,female,0.4,92,no,none,north,0.0
+350,15,male,1.3,84,no,master,west,52.17
+1221,18,female,1.8,97,no,high school,south,0.0
+942,15,male,0.4,65,no,high school,west,0.94
+898,15,female,1.1,85,no,high school,east,0.0
+508,15,female,0.2,85,yes,high school,west,5.98
+20,18,male,1.0,50,yes,bachelor,south,6.75
+1416,16,female,0.3,82,no,bachelor,west,4.76
+435,18,female,0.3,85,no,bachelor,south,5.4
+851,15,female,1.0,67,yes,high school,east,22.25
+4025,17,female,2.4,86,yes,none,south,29.32
+74,15,female,2.8,50,no,bachelor,east,42.73
+978,15,female,0.6,62,no,none,south,0.0
+2215,18,male,0.3,85,no,none,east,0.0
+2668,15,male,1.8,61,no,none,south,17.42
+2008,16,female,0.7,80,yes,bachelor,south,0.28
+1647,18,female,0.2,64,no,none,south,0.0
+371,18,female,4.8,62,no,none,east,17.04
+1454,17,male,3.8,84,no,none,west,7.92
+3292,17,male,1.5,95,no,high school,east,14.44
+1535,15,male,0.6,82,yes,bachelor,south,0.0
+3399,16,female,10.0,89,yes,high school,south,26.32
+432,18,female,1.4,67,no,high school,south,0.0
+299,17,female,4.2,90,yes,master,south,33.83
+3857,17,female,2.0,89,yes,high school,west,33.81
+1287,16,male,8.3,87,yes,high school,east,25.63
+361,16,male,0.8,82,no,high school,south,0.0
+2669,17,female,1.0,98,no,bachelor,south,11.31
+4021,15,male,0.5,85,yes,high school,west,0.0
+2152,15,female,0.3,92,no,high school,east,6.8
+1099,17,female,1.8,65,no,bachelor,east,11.33
+1062,15,male,2.0,82,no,high school,east,0.78
+1379,15,male,8.8,90,no,none,west,12.64
+464,18,female,9.5,59,no,none,south,0.59
+683,16,female,4.7,52,no,master,east,18.41
+1346,18,female,0.5,50,yes,high school,south,0.0
+2385,16,male,1.1,54,yes,master,south,1.99
+168,15,male,0.3,62,no,high school,east,6.34
+1727,16,female,1.3,87,no,none,south,0.0
+1866,16,female,1.8,65,no,high school,south,1.96
+2742,18,female,2.9,93,no,none,north,32.5
+737,16,male,2.6,97,yes,bachelor,east,53.52
+1874,18,male,0.8,61,no,bachelor,south,1.68
+1312,15,female,1.3,86,no,master,east,13.54
+1888,16,male,1.1,68,yes,none,south,0.0
+1204,18,female,1.2,64,yes,high school,south,4.97
+2812,17,female,0.5,87,yes,high school,east,0.02
+3559,16,female,0.8,82,yes,none,north,4.14
+2871,18,female,8.5,69,no,none,south,24.73
+861,16,female,1.6,81,yes,bachelor,south,9.42
+3362,16,female,0.3,96,no,high school,east,10.26
+972,15,male,1.2,89,no,none,west,2.56
+3365,15,female,8.8,64,yes,none,south,24.84
+2896,18,female,1.1,85,no,none,south,0.0
+2793,16,female,2.2,84,yes,bachelor,east,40.6
+614,15,female,6.9,89,no,bachelor,east,25.19
+2414,15,male,1.2,89,no,none,north,16.05
+19,16,female,0.3,97,no,bachelor,south,2.24
+1045,18,male,1.2,93,yes,master,south,18.67
+1553,18,male,0.1,91,no,none,south,0.0
+1924,15,male,1.9,83,yes,bachelor,west,0.0
+4096,15,male,0.2,68,yes,high school,south,0.0
+2243,18,female,0.6,59,no,none,south,0.0
+2747,16,female,4.3,56,yes,bachelor,east,27.65
+925,18,male,2.2,66,yes,high school,south,16.5
+3064,17,female,0.4,95,no,high school,east,3.97
+2555,16,female,1.6,89,yes,bachelor,north,60.6
+1010,15,male,1.1,94,no,none,south,2.65
+1601,16,male,4.8,54,no,none,south,0.0
+2121,18,male,1.6,59,no,none,south,0.0
+3867,18,female,1.6,59,yes,master,west,13.74
+2991,15,female,2.6,98,no,bachelor,north,13.64
+2251,17,male,0.8,60,yes,none,south,0.0
+170,15,male,3.1,69,yes,none,south,0.42
+1633,16,male,9.7,93,no,none,east,16.12
+3414,15,male,2.2,85,no,high school,east,10.05
+3502,17,male,1.8,97,no,high school,west,11.15
+3813,15,female,8.4,59,no,none,east,11.67
+3906,16,female,0.8,82,no,none,east,0.0
+749,17,female,8.7,57,yes,none,south,36.09
+2006,18,male,0.7,68,no,master,south,6.99
+1125,15,female,0.2,65,yes,high school,south,1.01
+3838,18,male,1.3,96,no,bachelor,south,2.63
+841,16,male,2.3,85,no,none,west,0.0
+2575,16,female,4.8,57,no,master,south,24.61
+1677,17,female,4.7,91,yes,none,south,14.46
+1842,18,female,3.3,83,yes,bachelor,south,15.9
+3401,17,female,8.1,57,no,none,west,8.6
+3560,17,male,1.8,82,no,none,south,0.0
+3151,15,male,0.2,59,no,none,south,0.0
+424,16,female,3.3,57,yes,bachelor,east,19.79
+3120,15,female,1.3,95,no,high school,east,16.39
+1615,17,male,1.2,66,no,bachelor,south,8.59
+1854,18,male,4.9,85,no,none,east,2.14
+1494,18,female,1.5,91,no,none,east,3.24
+663,18,male,1.5,90,no,high school,west,6.47
+298,15,male,3.2,87,no,bachelor,west,0.0
+1764,17,male,1.1,51,no,none,east,0.0
+80,15,male,6.2,98,no,high school,east,7.88
+3953,16,male,1.2,67,no,bachelor,west,24.33
+3195,16,female,0.9,60,yes,none,east,12.92
+142,15,female,1.9,88,no,none,east,7.46
+1018,18,female,4.5,53,yes,high school,south,35.82
+3365,15,female,8.8,64,yes,none,south,24.84
+1475,16,female,1.5,99,no,none,south,0.0
+520,16,male,4.9,64,no,high school,east,9.7
+1485,15,male,0.1,84,no,bachelor,south,0.0
+769,15,female,1.8,51,no,high school,north,4.88
+1994,15,male,0.9,81,no,high school,east,4.95
+2380,16,male,3.0,88,no,high school,north,57.22
+1888,16,male,1.1,68,yes,none,south,0.0
+2456,18,female,1.5,87,yes,high school,east,7.44
+3882,16,male,1.4,58,yes,none,east,0.0
+3192,15,female,2.1,52,no,none,south,0.0
+3513,15,male,0.9,56,no,high school,south,0.0
+1931,16,female,0.9,66,no,none,east,0.0
+1925,17,female,0.2,87,yes,none,east,0.0
+37,15,male,3.2,54,yes,none,east,0.0
+459,17,male,1.8,50,yes,none,south,0.0
+2257,18,male,3.9,89,no,high school,west,10.9
+3077,15,male,1.4,99,yes,high school,north,37.81
+1810,18,female,1.7,88,yes,high school,south,5.75
+3163,17,female,1.1,54,yes,high school,east,13.12
+92,17,female,0.2,94,no,none,south,0.0
+108,18,female,0.2,53,yes,bachelor,east,4.64
+368,17,male,0.3,94,yes,none,east,1.71
+1891,15,female,0.6,62,yes,none,south,0.0
+2698,17,female,3.6,83,no,high school,east,9.84
+237,18,female,0.2,98,no,bachelor,south,3.95
+2594,16,male,0.3,56,no,high school,east,0.66
+3149,16,male,9.4,68,yes,master,south,54.62
+2695,16,female,0.3,99,yes,none,south,4.69
+1538,18,female,3.0,59,yes,high school,south,37.65
+2785,17,male,0.9,95,yes,none,south,11.54
+815,16,female,1.8,50,no,high school,south,11.42
+3094,18,female,3.6,81,yes,none,east,42.04
+630,18,male,4.8,61,yes,high school,south,4.47
+764,15,female,1.4,84,no,bachelor,west,3.09
+3726,16,male,2.8,52,no,master,south,12.52
+1174,16,male,0.4,56,no,high school,south,0.0
+2116,15,female,1.3,86,no,none,south,0.0
+3479,15,male,4.1,67,yes,high school,east,9.32
+1013,18,male,0.4,98,yes,none,east,0.0
+2701,16,male,3.4,50,no,master,west,19.44
+4077,16,female,3.0,86,no,high school,south,8.47
+1083,17,female,8.5,92,no,high school,north,31.01
+814,16,female,1.6,50,no,none,east,0.0
+2299,17,female,8.9,68,yes,high school,north,29.22
+3728,15,female,9.2,82,yes,high school,south,26.26
+4210,15,female,1.6,64,yes,high school,north,13.77
+258,18,female,9.1,52,no,none,south,10.74
+2101,17,male,8.6,84,no,none,south,12.82
+27,16,male,2.8,99,no,high school,east,15.71
+1458,18,male,1.2,99,no,none,east,0.0
+969,18,female,7.2,83,no,high school,east,22.57
+99,17,male,0.3,87,no,high school,west,0.0
+2450,16,female,1.7,96,no,none,east,0.0
+2239,18,male,8.2,92,no,high school,east,12.31
+3888,15,male,9.4,63,yes,bachelor,south,20.2
+244,18,female,2.8,87,yes,none,south,2.06
+3775,17,female,1.5,90,yes,none,north,14.16
+573,16,male,2.3,52,yes,high school,north,6.89
+3234,16,male,3.7,98,yes,high school,south,5.08
+3693,15,female,0.3,85,no,high school,south,3.24
+2856,16,female,6.6,61,no,high school,north,13.58
+852,15,female,1.2,88,yes,bachelor,north,18.91
+1232,16,male,4.3,65,yes,bachelor,south,19.9
+2822,18,male,1.2,90,no,none,north,0.0
+1070,18,male,0.2,82,no,none,south,0.0
+3896,15,male,0.5,93,no,master,west,13.3
+2392,16,male,0.2,85,no,high school,east,0.65
+561,17,female,0.8,84,yes,bachelor,west,43.1
+2747,16,female,4.3,56,yes,bachelor,east,27.65
+2873,18,male,1.4,86,yes,none,south,4.43
+2783,17,female,2.1,86,no,bachelor,east,12.55
+1838,16,female,6.7,83,yes,high school,east,21.74
+3579,17,female,4.5,91,no,bachelor,south,7.37
+1912,17,female,4.0,86,no,none,west,24.48
+1730,15,male,5.3,88,no,high school,south,9.04
+3189,16,female,1.1,98,yes,high school,west,0.0
+1891,15,female,0.6,62,yes,none,south,0.0
+1953,16,male,1.6,93,no,high school,east,9.5
+2839,15,female,7.9,68,no,high school,south,5.17
+3356,15,female,0.4,59,yes,none,south,0.0
+3865,17,male,1.2,99,yes,none,east,3.55
+2999,16,female,1.0,53,yes,master,north,32.42
+2802,15,female,1.0,55,no,high school,west,0.0
+1036,16,female,3.8,60,yes,bachelor,south,13.4
+1269,16,male,0.3,89,yes,high school,south,3.12
+2444,17,female,1.8,84,no,bachelor,south,28.6
+2694,15,male,1.2,80,no,high school,east,8.99
+83,15,female,0.5,85,yes,high school,north,6.67
+2314,17,male,0.1,90,no,none,south,0.0
+2885,18,male,1.0,56,yes,high school,east,0.0
+2403,18,female,2.6,56,no,high school,west,2.5
+843,16,male,3.7,98,yes,bachelor,north,23.58
+3497,18,male,0.9,63,no,high school,east,6.63
+3653,15,male,1.3,55,no,high school,east,0.94
+4158,15,male,0.6,88,no,none,south,0.0
+4222,17,female,1.1,90,no,none,north,19.66
+1122,18,female,4.2,98,no,high school,north,28.77
+2657,17,male,6.4,93,no,master,east,79.86
+2910,15,female,0.4,96,yes,high school,west,27.6
+453,15,female,1.3,87,yes,bachelor,south,6.51
+4065,18,male,1.4,92,yes,high school,south,0.0
+4089,15,male,1.6,64,yes,none,south,0.0
+3569,17,female,4.1,84,no,none,south,13.23
+3790,18,female,1.5,94,yes,none,south,0.0
+3350,15,female,4.9,90,no,bachelor,south,32.31
+601,15,female,0.9,86,no,high school,north,7.05
+1911,15,male,2.7,64,yes,high school,south,5.78
+186,17,female,3.4,91,yes,high school,south,4.79
+1363,16,female,5.7,59,yes,high school,south,29.64
+739,15,female,0.7,97,no,high school,south,0.0
+3957,15,female,5.3,89,yes,none,south,6.3
+905,18,female,7.9,67,yes,high school,north,23.68
+4170,17,female,1.4,85,no,high school,south,0.0
+155,16,male,1.9,87,yes,none,south,2.86
+3347,17,female,9.6,96,no,bachelor,south,22.69
+2970,17,female,0.9,51,no,high school,south,0.0
+2179,17,female,4.9,69,yes,none,south,13.63
+3965,15,male,0.5,87,no,master,south,6.57
+141,15,female,2.0,61,yes,master,east,13.44
+2690,16,female,1.8,96,yes,bachelor,east,18.46
+2567,17,female,1.3,83,no,master,south,15.36
+3301,15,male,1.5,87,yes,master,east,19.19
+1653,15,female,1.6,92,no,none,south,0.0
+185,17,male,0.7,84,no,high school,south,0.0
+3145,17,female,1.4,90,yes,high school,east,3.89
+2798,18,female,3.7,53,yes,high school,west,11.41
+4064,17,female,0.5,86,yes,none,south,0.0
+987,17,male,0.3,80,no,high school,north,5.04
+3144,16,female,2.0,99,no,bachelor,south,27.68
+1151,15,male,0.3,51,no,none,north,3.04
+564,15,male,1.4,88,yes,none,south,0.0
+411,16,female,1.4,66,no,high school,east,0.0
+1375,16,female,1.5,91,yes,high school,east,7.36
+30,15,female,4.6,99,no,high school,north,16.1
+564,15,male,1.4,88,yes,none,south,0.0
+508,15,female,0.2,85,yes,high school,west,5.98
+3423,17,male,1.8,90,no,high school,north,7.54
+3786,18,male,3.6,90,no,bachelor,east,18.59
+1483,16,male,1.3,54,no,high school,east,10.1
+3695,16,female,2.6,60,no,high school,east,10.98
+3302,16,female,1.0,85,no,none,east,4.67
+845,17,female,9.0,89,yes,high school,south,21.03
+1882,15,male,4.7,93,yes,none,south,6.94
+3572,18,female,0.7,53,no,high school,east,0.0
+3678,15,male,1.7,90,yes,bachelor,north,21.64
+2753,16,male,8.9,68,no,none,south,16.08
+3360,15,female,0.3,87,yes,none,south,0.0
+414,17,female,1.0,91,yes,high school,east,13.11
+4163,15,male,1.2,96,yes,none,west,16.64
+678,15,female,1.5,91,no,master,south,10.91
+856,16,male,2.5,68,yes,none,east,1.33
+4083,17,female,2.7,97,no,bachelor,north,45.3
+1212,15,female,2.0,59,no,high school,east,0.0
+2737,17,female,5.8,59,no,none,north,8.89
+2801,18,male,3.4,81,no,none,south,9.59
+959,17,female,1.9,98,yes,none,north,31.07
+874,16,male,2.6,53,no,high school,south,3.17
+3867,18,female,1.6,59,yes,master,west,13.74
+1508,18,male,1.0,81,no,high school,south,0.0
+4019,16,female,1.3,96,no,high school,west,19.1
+1002,15,male,1.3,84,no,none,east,0.0
+2119,17,female,1.1,52,no,high school,south,0.0
+1502,16,female,0.4,91,no,high school,south,6.75
+700,16,male,1.9,62,no,high school,south,2.5
+1935,18,male,0.6,59,no,master,east,12.48
+425,15,female,2.4,59,yes,bachelor,east,39.56
+2340,18,female,3.7,66,yes,high school,south,7.45
+3969,16,male,1.2,95,yes,none,south,0.0
+1973,16,male,1.6,86,yes,bachelor,south,22.83
+1985,18,female,4.1,53,no,bachelor,north,18.36
+1701,17,female,2.6,68,no,high school,south,0.0
+3514,18,male,0.4,81,no,high school,east,6.08
+3384,18,male,0.6,69,yes,master,east,14.91
+113,15,female,1.9,94,no,high school,east,13.58
+731,18,female,2.0,94,no,none,south,4.09
+2944,15,male,8.3,98,no,bachelor,east,24.87
+3195,16,female,0.9,60,yes,none,east,12.92
+4107,15,female,1.7,99,yes,high school,north,13.89
+2091,15,female,1.9,83,yes,bachelor,south,0.02
+1976,18,male,0.9,90,no,none,east,11.19
+716,17,male,0.5,68,no,high school,south,0.0
+64,15,female,5.7,83,no,bachelor,east,44.34
+2003,15,female,1.6,53,no,none,south,0.0
+3429,18,male,7.1,58,no,none,south,1.2
+1920,18,female,0.6,85,no,high school,north,18.68
+4100,16,female,1.0,50,yes,none,east,0.0
+4002,16,male,4.0,60,yes,high school,north,48.03
+1720,17,female,2.8,90,no,bachelor,north,38.12
+2347,17,female,6.5,81,yes,high school,north,16.15
+629,18,female,1.7,99,no,high school,west,3.35
+4004,18,female,1.5,53,no,bachelor,north,2.69
+1391,15,male,0.8,55,yes,master,south,4.67
+1563,16,male,0.6,50,no,bachelor,south,2.62
+2782,18,male,2.4,51,no,none,south,0.0
+2608,16,female,2.1,61,yes,master,south,16.26
+324,15,female,3.1,63,yes,high school,east,30.32
+2510,15,male,0.7,54,yes,high school,north,22.43
+4152,15,male,4.0,62,yes,high school,north,58.44
+530,16,female,1.7,63,no,high school,west,6.49
+3757,18,female,2.0,61,no,none,west,0.0
+3220,16,female,1.7,68,no,bachelor,east,27.23
+3059,17,male,1.4,67,yes,none,south,0.0
+756,18,female,5.7,80,no,high school,south,10.42
+1050,16,male,1.3,63,yes,none,south,5.26
+3637,15,male,0.5,95,no,bachelor,east,21.04
+2270,15,female,1.4,61,no,high school,south,0.0
+2859,18,male,0.4,59,no,none,south,0.0
+786,17,male,1.0,90,no,master,south,15.3
+3694,15,male,1.0,61,no,none,south,0.0
+166,18,female,6.3,60,no,none,north,6.66
+3094,18,female,3.6,81,yes,none,east,42.04
+3194,18,female,3.5,61,no,high school,south,2.13
+1870,17,female,0.2,54,yes,bachelor,north,38.53
+3329,17,female,1.6,58,yes,none,west,0.0
+207,15,male,0.8,99,no,bachelor,south,1.45
+4074,17,male,1.9,59,yes,none,south,0.11
+4203,17,female,1.3,64,no,high school,east,6.63
+433,16,male,0.9,59,yes,bachelor,north,42.59
+666,15,female,0.6,96,no,high school,south,5.97
+2644,16,female,0.8,97,no,high school,south,0.0
+1206,15,male,0.9,85,no,bachelor,south,9.85
+253,17,male,0.6,65,yes,none,north,2.52
+610,18,male,0.6,99,yes,none,north,7.78
+1109,15,female,1.1,98,no,none,south,4.87
+4214,15,male,4.4,96,no,none,south,3.47
+1567,18,male,3.0,87,yes,high school,east,16.17
+395,18,female,7.4,80,no,high school,south,12.91
+2989,18,male,0.1,65,yes,bachelor,north,4.47
+3549,15,male,2.9,50,yes,none,east,7.57
+3434,16,male,7.2,83,no,high school,south,15.24
+1440,17,female,0.4,86,yes,high school,south,0.0
+1548,17,male,0.2,88,yes,high school,east,14.13
+963,15,female,2.7,87,no,none,west,9.08
+1191,17,male,0.3,54,no,none,south,0.0
+2013,17,female,4.3,93,yes,high school,west,12.06
+3778,18,male,4.3,52,no,high school,south,10.05
+387,15,female,8.3,86,yes,none,north,62.59
+1135,16,female,1.9,97,yes,bachelor,north,13.42
+2384,16,female,5.7,88,no,none,east,14.99
+2074,16,male,4.2,93,no,bachelor,east,45.97
+1855,15,female,0.7,86,no,bachelor,east,13.11
+1718,18,male,1.6,59,yes,bachelor,south,13.39
+290,16,male,0.8,67,yes,none,east,1.42
+3139,16,male,1.6,83,no,bachelor,north,17.28
+2271,17,male,4.0,66,no,bachelor,south,25.22
+1857,16,male,4.5,55,yes,none,south,3.6
+109,15,male,1.5,99,yes,bachelor,south,12.64
+2176,16,male,8.9,54,no,none,south,5.51
+1686,18,male,0.3,69,yes,bachelor,south,15.28
+1658,17,female,1.3,93,yes,master,east,15.56
+1778,17,female,3.4,63,no,master,east,17.97
+2684,18,male,2.1,67,yes,high school,north,10.7
+1155,17,female,1.7,68,yes,master,north,16.53
+3207,18,female,4.2,50,no,master,west,12.36
+2514,15,female,0.2,91,no,master,south,1.67
+4115,17,male,8.6,61,yes,high school,east,25.49
+3363,17,male,0.7,95,no,none,south,0.0
+1587,15,female,0.2,89,yes,high school,south,5.84
+961,18,male,5.0,54,no,master,east,57.93
+2205,16,female,3.7,90,no,high school,south,10.27
+65,18,male,1.9,60,no,high school,south,30.12
+647,18,female,3.8,85,no,high school,south,0.94
+1584,17,male,1.5,67,no,none,north,6.5
+986,16,female,0.5,65,yes,none,east,0.0
+3686,15,female,4.8,59,yes,none,east,6.42
+2907,18,female,0.2,96,no,none,south,0.0
+1474,15,female,5.4,68,no,none,north,10.91
+2962,16,male,0.4,95,yes,high school,north,5.48
+2113,17,female,4.3,86,no,high school,north,20.88
+1861,16,male,3.9,82,no,bachelor,south,18.87
+2407,16,female,0.5,61,yes,high school,north,15.38
+3568,17,male,4.6,99,yes,high school,east,19.3
+2370,16,female,0.2,83,no,high school,south,0.0
+73,16,male,0.3,59,no,none,south,0.0
+1865,17,male,1.8,85,no,none,south,0.0
+1825,18,female,1.1,95,no,high school,east,0.85
+1798,15,female,5.8,88,yes,high school,east,14.65
+3844,18,female,1.7,57,no,high school,south,5.49
+4111,15,female,1.1,81,yes,none,east,18.1
+1375,16,female,1.5,91,yes,high school,east,7.36
+2088,16,female,1.9,53,yes,none,south,0.0
+1053,17,male,0.9,83,no,bachelor,south,0.0
+2265,16,female,2.0,87,no,high school,east,22.87
+2035,16,female,0.2,67,yes,high school,north,2.77
+2571,16,male,0.3,61,yes,none,east,0.0
+288,17,male,2.9,88,no,bachelor,south,36.86
+2682,15,female,7.2,87,no,none,east,16.64
+427,16,male,1.8,87,no,bachelor,north,53.04
+1275,18,male,1.4,94,no,high school,south,0.0
+4003,18,female,1.6,59,yes,none,east,13.26
+446,15,male,0.2,60,no,none,south,0.0
+2177,16,male,0.8,52,yes,master,east,43.25
+1556,17,female,4.2,86,no,none,south,8.14
+3246,18,female,2.0,85,no,bachelor,west,4.75
+165,16,female,7.5,58,no,none,west,10.52
+2958,18,male,1.8,93,no,high school,west,0.0
+3071,18,female,9.2,58,no,high school,east,28.91
+136,15,male,3.2,68,no,bachelor,south,10.78
+1243,16,male,9.9,53,yes,high school,south,21.33
+2255,17,female,4.7,96,no,high school,south,23.23
+3127,18,male,0.2,51,yes,high school,east,4.74
+3791,17,male,0.8,84,no,bachelor,north,46.71
+1621,15,female,0.8,86,no,none,south,0.0
+3990,16,male,1.0,90,no,high school,west,2.7
+736,18,female,4.2,91,no,high school,south,5.34
+16,18,female,1.9,64,no,master,east,37.76
+3910,17,male,6.1,86,no,none,south,17.82
+3631,16,female,3.7,83,no,high school,south,5.67
+3098,17,male,6.7,81,no,none,south,31.73
+3733,18,female,2.7,85,no,none,south,0.0
+706,16,female,3.7,69,no,none,south,0.0
+1631,15,female,1.2,90,no,high school,north,19.93
+3894,18,male,2.4,97,no,high school,north,38.99
+2396,16,male,2.0,98,no,none,east,0.0
+2535,17,female,6.1,52,no,high school,south,5.0
+628,16,male,3.8,96,yes,high school,south,10.87
+3916,15,male,1.8,56,yes,bachelor,east,7.32
+358,15,male,3.2,84,yes,master,south,15.75
+1661,18,male,1.8,84,yes,high school,south,10.49
+3148,16,female,4.0,59,no,bachelor,east,7.81
+544,15,male,0.5,67,no,high school,east,0.0
+2056,15,female,0.8,68,no,high school,east,8.84
+1810,18,female,1.7,88,yes,high school,south,5.75
+2882,17,female,1.0,82,yes,high school,north,7.22
+1598,16,female,1.2,82,yes,bachelor,south,7.19
+3892,18,female,0.8,55,yes,bachelor,south,2.54
+91,16,male,3.3,63,yes,none,east,0.0
+1291,18,male,0.6,64,no,high school,south,0.0
+3869,18,male,0.3,96,yes,high school,west,0.0
+3145,17,female,1.4,90,yes,high school,east,3.89
+4154,15,male,2.6,60,no,high school,north,5.9
+2107,17,female,1.6,93,yes,high school,east,14.93
+3885,18,female,1.3,61,yes,none,east,0.0
+669,15,female,1.5,52,no,bachelor,north,14.63
+3379,15,female,3.1,51,no,high school,south,2.09
+4100,16,female,1.0,50,yes,none,east,0.0
+2138,18,female,0.8,95,yes,master,east,46.59
+2253,15,male,1.7,64,no,master,south,12.16
+3103,18,male,8.1,61,no,bachelor,east,28.42
+3467,17,male,8.7,60,no,high school,south,14.3
+1316,16,female,1.8,91,no,high school,east,9.48
+3804,16,female,1.4,67,yes,high school,south,4.41
+903,17,male,0.3,80,no,high school,east,26.88
+1775,18,male,1.8,56,yes,bachelor,south,1.13
+3892,18,female,0.8,55,yes,bachelor,south,2.54
+4171,16,female,0.2,57,yes,master,south,20.32
+402,15,female,4.1,87,yes,high school,east,19.36
+2939,15,female,0.6,80,no,none,south,0.0
+1595,17,female,2.5,83,yes,high school,west,11.99
+500,18,female,0.1,67,no,bachelor,south,0.0
+2218,18,male,6.6,98,yes,none,north,15.84
+2612,18,female,0.3,55,no,none,east,0.0
+1255,16,female,1.6,69,no,high school,south,20.28
+4163,15,male,1.2,96,yes,none,west,16.64
+2996,18,female,0.8,99,yes,high school,south,9.98
+1282,16,female,1.6,97,yes,bachelor,south,11.78
+1661,18,male,1.8,84,yes,high school,south,10.49
+2950,17,female,1.9,61,yes,master,south,8.07
+2165,17,female,0.7,93,no,high school,east,3.3
+1355,15,male,3.7,91,no,high school,east,16.98
+2609,15,female,0.3,82,no,bachelor,south,14.47
+3037,17,female,1.4,52,no,none,east,1.96
+2513,16,male,1.6,98,yes,bachelor,south,8.87
+3373,17,female,5.5,93,no,high school,south,18.86
+3281,18,female,1.2,89,yes,none,east,6.46
+2663,18,male,1.8,60,no,high school,north,15.51
+3559,16,female,0.8,82,yes,none,north,4.14
+1875,18,male,0.5,67,no,bachelor,south,0.19
+4079,16,male,1.7,90,no,none,south,0.0
+1157,16,male,1.8,95,yes,none,south,0.0
+3983,18,male,1.1,88,no,high school,north,4.75
+4213,17,female,5.7,83,yes,high school,south,23.61
+277,15,female,3.3,88,no,master,south,14.79
+2883,18,female,1.7,82,no,none,west,0.0
+2077,17,male,4.9,65,no,none,south,0.0
+595,16,female,2.0,82,no,bachelor,east,9.37
+4042,16,female,0.2,62,no,none,south,0.0
+2140,18,male,1.6,64,no,bachelor,south,10.58
+2142,17,female,1.3,83,yes,none,east,5.57
+417,16,female,0.5,82,no,high school,east,27.52
+1703,15,female,1.1,85,no,none,south,0.0
+1596,18,male,1.3,80,yes,master,south,13.17
+2798,18,female,3.7,53,yes,high school,west,11.41
+628,16,male,3.8,96,yes,high school,south,10.87
+1810,18,female,1.7,88,yes,high school,south,5.75
+2272,15,male,4.5,58,yes,none,east,6.42
+2418,15,male,1.6,85,yes,high school,south,8.02
+387,15,female,8.3,86,yes,none,north,62.59
+3857,17,female,2.0,89,yes,high school,west,33.81
+3826,17,female,1.8,59,yes,bachelor,east,31.08
+581,17,male,1.6,99,no,none,east,0.0
+7,18,male,1.7,58,no,none,south,0.0
+954,15,male,0.5,65,no,high school,north,9.69
+1973,16,male,1.6,86,yes,bachelor,south,22.83
+3366,18,female,4.4,86,no,high school,south,9.24
+1369,17,female,1.1,57,yes,none,south,0.0
+3219,15,male,1.9,57,no,high school,south,14.88
+608,18,male,1.2,60,yes,none,east,5.28
+3769,17,male,1.3,52,no,bachelor,west,10.79
+2481,17,male,6.1,91,no,high school,south,11.72
+4069,18,female,2.9,60,no,bachelor,south,7.84
+3150,18,female,5.7,66,yes,none,east,18.2
+4053,17,female,1.6,95,no,high school,south,23.37
+3172,17,male,0.2,80,no,none,east,3.39
+4111,15,female,1.1,81,yes,none,east,18.1
+4089,15,male,1.6,64,yes,none,south,0.0
+1222,15,male,2.9,60,yes,none,south,11.9
+3790,18,female,1.5,94,yes,none,south,0.0
+61,17,female,0.9,56,no,none,south,0.0
+934,15,female,1.5,91,no,none,west,0.0
+137,15,female,0.3,55,yes,none,east,0.0
+2838,15,male,0.6,54,yes,high school,east,1.6
+1328,18,female,0.2,50,yes,high school,north,27.58
+2089,15,male,1.6,58,no,high school,south,0.84
+141,15,female,2.0,61,yes,master,east,13.44
+4092,15,female,3.5,94,no,none,east,2.4
+1249,18,male,1.8,91,no,none,south,0.0
+1541,17,male,1.5,87,no,master,north,8.85
+2495,15,male,0.9,98,yes,none,east,1.07
+3442,18,male,3.9,86,no,none,south,4.54
+3964,16,female,2.5,99,yes,none,south,2.45
+3691,17,male,4.8,93,no,high school,south,16.05
+1848,18,female,0.6,87,yes,bachelor,south,8.61
+2004,16,male,1.0,81,no,bachelor,east,8.75
+3407,16,female,2.4,82,yes,bachelor,north,23.6
+4020,18,female,6.0,83,no,high school,east,22.1
+3029,15,male,0.2,84,yes,none,west,1.5
+473,16,female,7.2,88,no,bachelor,west,20.9
+674,16,female,0.5,99,yes,high school,south,0.0
+58,16,male,5.4,83,yes,none,south,4.64
+2035,16,female,0.2,67,yes,high school,north,2.77
+3904,18,male,1.9,85,yes,bachelor,west,6.65
+390,18,female,7.3,80,yes,master,south,18.98
+2769,17,male,0.2,55,yes,master,east,16.09
+1142,18,female,1.9,82,yes,high school,south,1.4
+3554,16,female,1.2,53,no,none,east,0.0
+799,16,male,4.5,87,no,high school,south,12.58
+996,15,male,0.5,86,yes,high school,east,9.59
+1689,17,female,1.6,97,no,high school,south,11.53
+3119,17,female,0.3,56,yes,none,west,0.0
+2800,16,female,3.3,68,yes,bachelor,east,31.42
+2937,15,male,0.9,82,yes,none,south,0.0
+3696,15,male,0.9,95,yes,bachelor,west,21.12
+3570,18,male,7.7,94,no,none,east,52.96
+4233,17,female,6.7,86,yes,none,north,15.95
+1346,18,female,0.5,50,yes,high school,south,0.0
+2877,16,male,0.3,80,no,none,south,0.0
+3001,16,female,4.7,60,no,none,east,2.79
+956,17,male,1.1,82,no,bachelor,east,6.34
+2402,17,female,0.9,90,yes,bachelor,south,13.34
+3970,16,male,1.2,86,no,none,south,12.5
+1632,15,female,0.3,53,yes,none,east,0.0
+429,17,female,3.9,87,no,high school,west,7.29
+3710,17,female,0.3,90,no,master,east,9.37
+2961,18,female,2.0,57,no,high school,west,2.5
+2723,15,female,2.0,93,no,none,west,8.41
+1189,15,male,1.5,54,yes,none,east,11.18
+3997,17,male,4.7,62,yes,master,south,12.35
+2142,17,female,1.3,83,yes,none,east,5.57
+1603,18,female,1.1,67,no,none,east,0.0
+907,15,female,4.9,94,yes,master,south,13.45
+1037,16,male,0.3,58,yes,high school,south,2.41
+3647,16,male,7.7,86,no,none,south,40.08
+2762,18,female,1.3,94,no,none,south,0.0
+3204,18,female,0.5,53,yes,bachelor,north,13.42
+229,16,male,8.2,69,yes,none,south,9.71
+1227,17,female,1.5,91,no,high school,south,3.48
+1905,17,male,1.4,51,yes,bachelor,west,7.15
+674,16,female,0.5,99,yes,high school,south,0.0
+3354,17,male,1.2,81,no,none,east,0.0
+553,17,male,0.2,92,no,high school,west,0.0
+415,16,female,3.5,53,yes,high school,south,0.0
+3043,17,male,1.9,87,yes,high school,east,14.55
+3481,17,female,5.1,58,no,none,south,9.48
+3399,16,female,10.0,89,yes,high school,south,26.32
+843,16,male,3.7,98,yes,bachelor,north,23.58
+3032,18,male,3.5,53,no,bachelor,south,12.22
+1626,15,male,7.0,82,no,high school,east,39.2
+1073,18,female,7.2,91,yes,high school,west,18.89
+2100,16,male,0.7,68,no,none,south,0.0
+1911,15,male,2.7,64,yes,high school,south,5.78
+57,15,male,10.0,98,yes,none,south,59.89
+1934,18,female,4.5,96,yes,high school,south,36.37
+2885,18,male,1.0,56,yes,high school,east,0.0
+2927,16,female,4.6,86,no,none,south,28.32
+1772,15,male,1.9,66,no,bachelor,west,30.28
+1008,17,male,2.0,68,no,none,south,0.0
+3783,15,male,2.6,68,no,high school,south,20.34
+610,18,male,0.6,99,yes,none,north,7.78
+1009,17,male,1.6,92,no,none,south,0.0
+1583,15,male,7.5,54,no,none,south,7.74
+980,18,female,0.5,87,no,master,south,2.46
+455,17,male,1.8,94,yes,none,south,3.62
+2996,18,female,0.8,99,yes,high school,south,9.98
+3251,16,male,0.3,88,yes,high school,south,0.33
+1045,18,male,1.2,93,yes,master,south,18.67
+450,15,female,3.4,97,no,none,east,27.26
+465,18,male,4.3,57,no,none,east,0.0
+506,17,female,0.5,83,no,none,east,0.0
+2264,16,male,4.2,84,yes,none,east,25.17
+1102,18,female,3.0,92,no,none,north,11.64
+239,18,female,0.2,59,no,bachelor,east,4.09
+1357,16,male,1.0,62,yes,high school,south,12.25
+3718,18,female,0.8,96,no,high school,east,5.82
+3360,15,female,0.3,87,yes,none,south,0.0
+272,15,male,5.0,51,no,high school,east,19.57
+2378,18,female,1.3,93,yes,high school,east,16.5
+929,17,female,1.4,57,yes,high school,west,3.63
+320,17,female,3.1,65,yes,high school,east,2.52
+2790,16,male,4.5,94,no,high school,east,16.75
+1858,15,male,0.4,66,yes,high school,east,0.0
+816,15,female,4.0,94,no,none,west,3.74
+1850,16,male,0.9,91,no,high school,north,15.73
+2040,16,male,3.4,86,no,high school,south,14.22
+1244,15,female,0.6,53,yes,high school,north,9.06
+866,18,female,1.6,99,no,high school,east,11.33
+3930,15,female,3.2,66,yes,none,south,8.38
+1382,17,female,0.7,63,no,bachelor,south,0.0
+616,16,male,3.3,66,no,bachelor,north,9.88
+3760,15,female,3.9,85,no,none,south,6.78
+1279,16,male,1.5,81,no,none,west,0.93
+1972,17,female,0.9,80,no,none,south,0.0
+2091,15,female,1.9,83,yes,bachelor,south,0.02
+1573,16,male,1.0,92,no,none,south,0.0
+1148,17,female,8.8,87,yes,high school,south,23.15
+1570,16,female,0.7,58,yes,high school,south,9.99
+1094,17,male,0.8,91,no,high school,south,6.07
+3499,15,female,0.9,97,yes,none,south,0.0
+1324,17,male,0.7,59,no,high school,south,0.0
+2356,15,male,2.4,95,no,none,east,0.72
+2885,18,male,1.0,56,yes,high school,east,0.0
+3365,15,female,8.8,64,yes,none,south,24.84
+1888,16,male,1.1,68,yes,none,south,0.0
+1904,18,female,0.3,93,yes,high school,east,6.45
+1837,15,male,0.4,69,yes,high school,south,2.68
+3509,16,male,1.0,85,yes,high school,east,0.0
+3119,17,female,0.3,56,yes,none,west,0.0
+2554,16,male,0.5,61,yes,high school,south,9.31
+200,18,male,8.5,60,yes,bachelor,south,25.25
+1447,16,female,0.1,82,no,none,south,0.0
+1445,16,female,1.5,94,no,high school,east,15.35
+882,16,male,1.2,68,no,none,south,0.0
+554,18,male,0.6,65,yes,high school,east,0.0
+3596,16,male,0.3,90,yes,high school,east,4.52
+2729,17,male,1.1,88,no,none,south,0.0
+4147,18,female,6.7,58,no,none,east,13.84
+3636,17,female,0.7,93,no,none,east,1.34
+144,18,male,2.2,97,no,bachelor,east,15.05
+3450,15,male,3.2,89,no,master,east,18.63
+3650,17,male,0.6,98,no,high school,south,0.0
+3885,18,female,1.3,61,yes,none,east,0.0
+1182,17,female,0.4,53,no,none,east,0.0
+2688,18,female,6.4,67,yes,high school,north,27.74
+3815,16,female,4.5,50,yes,high school,east,14.73
+660,15,male,6.6,69,yes,master,east,29.33
+2919,17,female,1.5,55,no,high school,east,0.0
+3303,15,male,1.7,82,no,none,east,0.0
+4027,17,female,0.6,95,no,high school,south,0.0
+1870,17,female,0.2,54,yes,bachelor,north,38.53
+2917,18,female,9.6,62,no,high school,west,30.09
+2695,16,female,0.3,99,yes,none,south,4.69
+4037,18,female,4.7,64,no,bachelor,east,20.05
+1543,18,male,9.8,94,yes,none,south,17.02
+2246,17,male,1.3,83,yes,bachelor,east,29.26
+1357,16,male,1.0,62,yes,high school,south,12.25
+82,17,male,0.9,92,no,bachelor,south,8.91
+2953,18,male,0.4,56,no,bachelor,east,1.5
+1619,15,female,0.1,87,yes,none,south,21.2
+1347,15,male,3.9,66,no,high school,north,16.75
+3682,16,female,0.8,91,no,high school,east,1.59
+2198,15,female,1.6,95,no,high school,east,11.7
+2545,18,male,1.2,84,no,none,north,8.0
+1940,16,male,1.0,96,yes,master,east,15.24
+2760,16,female,0.1,69,yes,none,south,0.0
+2898,15,male,0.8,95,yes,high school,south,2.92
+792,18,male,0.8,95,no,high school,east,3.79
+3590,18,female,1.9,81,no,high school,east,5.55
+1538,18,female,3.0,59,yes,high school,south,37.65
+3110,18,male,1.5,84,no,master,north,21.31
+1570,16,female,0.7,58,yes,high school,south,9.99
+3069,15,female,3.2,84,no,none,east,5.79
+1679,15,male,3.6,55,no,master,south,7.99
+2397,15,male,3.7,92,yes,bachelor,east,16.02
+153,15,female,2.0,68,yes,none,south,0.34
+1987,15,male,1.5,58,no,bachelor,north,19.32
+2375,18,female,2.6,84,yes,none,south,6.96
+4180,15,male,0.3,96,yes,none,south,0.0
+938,17,male,0.5,90,no,bachelor,west,4.62
+985,16,female,9.9,86,no,bachelor,south,59.48
+3294,16,male,1.7,86,no,bachelor,south,8.9
+2374,15,male,1.0,95,no,bachelor,south,8.73
+552,17,female,3.9,64,no,none,west,0.0
+1873,18,female,1.8,90,no,high school,east,12.06
+3030,18,female,3.0,61,no,none,east,0.0
+3500,17,female,0.8,97,no,none,east,3.62
+4059,17,male,1.0,88,no,master,south,5.81
+569,15,male,2.1,94,yes,none,east,15.44
+1452,15,male,0.8,85,no,high school,north,7.85
+2945,18,female,0.6,91,yes,high school,south,1.96
+286,15,female,2.8,58,no,bachelor,north,32.62
+211,15,male,1.1,55,no,high school,south,0.0
+1402,18,female,1.4,67,no,none,north,4.55
+3767,15,male,1.1,65,no,master,east,38.88
+2619,16,male,0.3,58,no,high school,north,5.16
+900,16,female,0.9,81,yes,master,east,12.56
+2464,15,male,1.8,80,no,bachelor,south,3.46
+708,18,male,3.4,99,no,none,south,0.0
+194,15,male,0.5,99,no,high school,south,0.0
+1669,17,female,2.1,85,yes,high school,east,17.16
+788,16,female,1.2,88,yes,none,south,0.0
+494,16,male,2.1,54,yes,none,north,3.27
+3015,18,male,2.2,99,yes,master,east,13.13
+4202,15,female,1.7,67,no,high school,east,7.48
+1930,15,female,2.5,88,no,bachelor,south,2.19
+2998,15,male,1.1,54,yes,master,north,47.74
+3014,16,male,1.5,61,no,bachelor,north,12.07
+1663,18,male,1.0,89,no,none,east,2.38
+4198,15,female,1.4,92,yes,master,south,4.2
+996,15,male,0.5,86,yes,high school,east,9.59
+2853,15,male,0.8,66,no,bachelor,south,3.5
+2343,16,male,2.4,64,yes,none,south,0.0
+3213,16,female,0.4,96,yes,bachelor,east,25.57
+793,15,male,0.5,89,no,high school,north,4.06
+1890,18,female,1.7,64,no,bachelor,west,11.83
+2523,15,female,4.8,87,no,high school,east,40.8
+1045,18,male,1.2,93,yes,master,south,18.67
+509,17,male,7.9,68,yes,bachelor,west,70.18
+3602,15,female,1.9,52,no,high school,south,0.53
+1766,15,female,1.7,96,no,high school,south,7.75
+3755,16,male,2.2,92,yes,high school,south,15.51
+2777,18,female,2.5,97,no,bachelor,north,20.08
+3752,16,female,0.2,80,yes,bachelor,west,1.48
+687,16,male,0.6,90,yes,none,south,6.25
+1329,18,female,1.7,92,no,none,south,0.0
+2728,18,female,0.8,67,yes,high school,east,24.25
+4122,17,female,2.3,62,no,high school,east,15.72
+3850,17,male,1.2,91,yes,none,south,0.0
+3195,16,female,0.9,60,yes,none,east,12.92
+1638,16,female,1.3,82,no,high school,south,10.24
+2491,15,female,1.5,95,no,none,south,0.31
+1662,15,female,3.8,88,yes,high school,north,16.24
+1400,17,female,1.7,64,no,master,south,12.36
+598,17,female,4.3,99,yes,none,south,9.75
+952,16,male,1.3,57,no,high school,north,16.13
+1962,16,male,1.3,81,yes,high school,south,7.16
+1858,15,male,0.4,66,yes,high school,east,0.0
+2214,17,male,1.0,88,no,none,south,0.0
+1557,17,female,7.0,97,no,high school,north,21.7
+4029,16,female,1.2,58,no,none,south,0.0
+1761,17,female,8.0,95,no,none,west,12.1
+2378,18,female,1.3,93,yes,high school,east,16.5
+753,17,male,1.2,67,yes,high school,east,1.2
+3571,18,female,1.6,69,no,none,south,0.0
+3339,16,female,3.6,93,no,none,south,2.27
+3960,16,male,1.6,90,yes,high school,north,13.72
+3132,18,male,1.2,87,yes,none,south,0.0
+1530,15,male,2.3,86,yes,none,east,0.87
+1726,15,male,4.4,54,yes,high school,west,22.27
+3516,17,male,0.3,62,yes,bachelor,east,11.6
+3138,18,male,1.6,97,no,master,south,14.88
+3634,18,male,4.0,99,yes,high school,north,19.37
+570,17,male,1.7,88,yes,high school,north,16.5
+452,15,female,0.4,56,yes,high school,north,13.78
+3701,16,female,0.7,87,no,high school,east,2.63
+3507,16,female,0.7,80,no,none,east,0.0
+225,15,male,1.0,59,no,none,south,0.0
+3916,15,male,1.8,56,yes,bachelor,east,7.32
+1809,17,male,1.7,87,no,none,south,0.0
+359,17,female,1.2,95,no,bachelor,east,10.76
+3388,15,female,1.8,97,yes,high school,east,29.37
+1671,18,female,3.4,95,no,none,east,2.57
+2509,18,female,9.1,82,no,master,south,24.8
+2785,17,male,0.9,95,yes,none,south,11.54
+2848,15,female,0.3,86,no,high school,east,0.05
+3286,15,female,0.4,86,no,master,east,3.17
+2063,17,male,1.3,55,no,high school,east,6.18
+116,15,female,0.8,62,yes,bachelor,south,12.06
+517,17,female,3.9,89,yes,bachelor,east,11.4
+3895,17,male,1.2,55,no,bachelor,east,5.97
+2974,17,female,1.8,50,no,high school,south,0.1
+1823,18,male,1.4,85,no,high school,north,28.73
+2199,16,male,9.5,84,no,none,south,7.79
+2999,16,female,1.0,53,yes,master,north,32.42
+3533,15,female,3.0,89,no,bachelor,east,41.48
+0,18,female,0.3,90,no,none,east,0.0
+3627,17,male,0.1,65,no,none,south,0.0
+2322,18,female,3.3,55,yes,high school,east,6.34
+1052,17,male,1.2,63,no,master,east,15.55
+508,15,female,0.2,85,yes,high school,west,5.98
+495,16,female,4.3,87,no,high school,east,39.8
+3425,17,male,1.0,98,no,master,east,22.21
+2504,15,female,7.8,55,yes,high school,south,41.61
+1299,17,male,2.0,80,no,high school,north,13.07
+817,15,male,1.4,52,no,bachelor,south,6.96
+844,17,female,1.1,80,no,high school,east,0.0
+3632,18,male,0.8,54,no,none,south,0.0
+3585,17,male,0.6,87,no,high school,east,3.06
+269,16,male,4.0,86,no,high school,west,31.83
+2060,17,male,6.8,93,no,high school,east,21.04
+3557,16,female,0.2,96,no,master,south,9.04
+3063,17,female,3.6,88,no,high school,east,7.06
+1599,18,male,0.7,90,no,none,east,0.0
+3536,17,male,1.4,85,yes,bachelor,east,2.62
+1818,15,male,8.9,64,yes,bachelor,east,100.0
+2670,17,female,0.7,67,no,master,south,3.97
+2773,17,female,1.4,67,yes,high school,west,5.64
+1147,18,female,0.2,94,no,high school,north,13.08
+3681,17,male,1.9,67,no,none,south,4.93
+285,18,female,8.3,84,no,bachelor,east,28.4
+4071,15,female,0.7,60,yes,high school,west,3.18
+3217,16,female,6.8,86,no,high school,east,24.44
+3282,15,female,3.0,96,yes,master,east,55.26
+2730,17,female,4.0,81,no,bachelor,south,7.65
+1738,15,male,1.5,57,no,none,south,0.0
+1967,17,male,1.2,60,no,none,east,0.0
+1160,18,male,1.1,61,no,none,south,0.0
+1971,16,female,5.3,85,no,bachelor,east,55.7
+2881,17,male,4.3,90,no,none,south,9.48
+4012,17,female,1.9,83,no,high school,east,4.68
+3727,17,female,0.9,99,no,none,south,0.0
+3833,17,female,2.0,94,yes,none,south,0.0
+112,17,female,1.0,89,no,none,east,7.65
+3655,18,male,0.5,59,no,high school,east,4.83
+1325,16,female,4.3,59,yes,high school,south,14.86
+472,15,female,1.7,81,yes,bachelor,south,3.61
+2981,17,male,1.8,50,no,none,north,3.37
+733,18,male,6.4,56,yes,high school,south,24.33
+116,15,female,0.8,62,yes,bachelor,south,12.06
+1251,15,male,1.8,50,no,none,west,0.0
+3660,17,male,0.3,69,yes,master,east,31.54
+2895,17,male,3.7,80,no,high school,east,5.95
+2071,17,female,1.2,88,yes,bachelor,south,3.31
+3456,15,female,0.6,98,no,high school,south,4.37
+567,16,male,1.6,53,yes,none,east,22.07
+611,15,male,0.1,53,no,high school,north,5.87
+352,16,male,4.1,99,no,high school,south,15.31
+3904,18,male,1.9,85,yes,bachelor,west,6.65
+3644,18,female,1.2,85,no,high school,south,0.12
+2134,17,female,1.6,81,no,none,west,0.0
+11,15,female,2.1,86,no,none,east,0.0
+1996,18,male,1.9,67,yes,none,west,7.78
+89,15,male,1.8,60,yes,none,west,2.91
+2649,15,male,6.2,60,no,master,south,40.93
+3356,15,female,0.4,59,yes,none,south,0.0
+3234,16,male,3.7,98,yes,high school,south,5.08
+2946,16,female,6.3,93,no,high school,west,21.5
+908,17,male,1.5,58,no,high school,south,0.0
+2795,18,male,3.6,62,no,high school,south,13.95
+965,15,male,0.5,86,yes,high school,east,6.09
+383,16,male,0.9,85,no,none,east,3.87
+2093,15,female,4.7,57,no,high school,south,17.42
+3441,16,male,1.2,89,no,high school,south,16.07
+621,17,male,0.6,93,no,high school,south,3.17
+2233,15,male,0.1,84,no,none,east,7.92
+3254,18,female,1.9,83,no,bachelor,east,23.46
+1587,15,female,0.2,89,yes,high school,south,5.84
+2586,18,male,0.7,69,no,none,south,0.0
+3226,16,male,0.9,96,yes,none,west,1.05
+181,17,female,1.7,63,no,none,west,0.0
+549,18,female,0.2,61,no,none,south,0.0
+1773,15,male,1.1,53,yes,bachelor,east,4.0
+70,16,female,1.4,97,no,high school,east,10.21
+4074,17,male,1.9,59,yes,none,south,0.11
+3686,15,female,4.8,59,yes,none,east,6.42
+3059,17,male,1.4,67,yes,none,south,0.0
+368,17,male,0.3,94,yes,none,east,1.71
+1055,18,female,3.0,95,no,none,east,17.42
+870,15,male,1.5,63,no,none,west,0.0
+2746,15,female,1.9,59,no,bachelor,east,26.11
+2874,16,male,2.1,95,no,none,east,0.0
+3982,17,male,1.5,85,yes,high school,west,9.67
+4190,18,female,1.3,93,yes,high school,east,18.51
+3672,15,female,2.0,99,yes,bachelor,west,57.02
+3840,16,male,0.4,66,no,none,south,0.0
+3437,15,female,1.8,60,no,bachelor,east,35.76
+2934,15,female,1.9,82,no,none,west,0.0
+3926,18,female,9.6,91,yes,high school,south,61.08
+2139,16,male,4.5,99,yes,none,south,5.47
+1267,16,female,4.5,83,no,none,north,48.39
+1680,16,female,0.4,54,no,bachelor,south,0.0
+4164,16,male,1.5,54,no,bachelor,south,7.29
+3066,17,male,7.0,90,yes,none,south,26.1
+1560,18,female,2.0,67,no,high school,east,28.18
+3678,15,male,1.7,90,yes,bachelor,north,21.64
+1748,17,female,0.4,65,no,high school,north,11.14
+2322,18,female,3.3,55,yes,high school,east,6.34
+1461,18,male,1.5,52,yes,master,east,35.71
+4159,15,female,1.7,56,no,bachelor,south,0.0
+420,16,male,1.5,81,no,bachelor,south,0.0
+75,18,male,2.2,84,no,master,north,62.14
+1290,17,male,3.9,51,no,master,north,23.34
+1834,17,male,9.9,59,yes,none,south,48.98
+3041,17,female,1.4,50,yes,bachelor,east,9.34
+2537,17,male,1.1,98,yes,high school,west,6.82
+1745,15,male,0.9,82,yes,high school,east,9.56
+3025,15,female,1.5,57,yes,bachelor,north,14.65
+2338,15,male,1.2,93,no,high school,north,38.45
+358,15,male,3.2,84,yes,master,south,15.75
+162,15,female,0.2,86,no,none,east,3.16
+3364,18,female,1.8,80,no,none,south,0.0
+2857,15,male,1.6,87,no,none,north,9.34
+95,16,female,2.0,60,no,high school,south,0.0
+3288,16,male,9.1,64,no,high school,south,23.51
+1733,15,female,3.1,66,no,none,east,0.0
+1743,17,female,1.1,55,no,high school,east,0.0
+186,17,female,3.4,91,yes,high school,south,4.79
+1894,17,male,0.2,84,no,none,north,1.34
+2725,17,male,5.0,98,no,high school,east,47.05
+1051,18,male,1.2,95,no,bachelor,south,9.8
+3291,15,male,0.3,83,yes,high school,south,0.0
+763,15,male,8.0,54,no,high school,east,56.31
+2336,16,male,0.7,52,no,master,south,7.14
+2409,15,female,6.8,84,no,none,south,1.46
+1407,16,male,3.3,62,no,none,north,1.71
+638,18,male,1.7,88,no,high school,east,0.0
+624,15,male,0.5,51,no,bachelor,south,0.0
+265,16,female,2.0,90,no,none,south,6.12
+434,17,male,3.7,94,no,high school,south,0.0
+2744,15,male,1.5,94,no,high school,south,9.28
+3678,15,male,1.7,90,yes,bachelor,north,21.64
+3958,15,male,0.7,66,no,bachelor,south,2.92
+1507,15,male,2.8,91,no,bachelor,south,23.4
+3640,18,male,0.9,96,no,none,south,0.0
+3427,18,female,1.0,87,yes,high school,east,9.3
+2578,16,male,0.9,94,yes,bachelor,west,6.2
+1024,16,female,1.9,51,yes,none,south,0.0
+2385,16,male,1.1,54,yes,master,south,1.99
+2290,16,female,3.8,69,no,high school,west,9.8
+1410,18,male,4.6,66,yes,high school,north,51.49
+1889,16,male,0.3,51,no,high school,west,0.0
+3937,17,male,1.8,89,no,none,east,1.15
+3287,15,female,0.5,88,yes,bachelor,south,0.38
+2543,15,female,0.5,54,no,high school,south,0.0
+4156,17,female,1.8,93,yes,high school,south,11.49
+917,16,female,0.9,93,no,high school,south,3.98
+1938,18,male,0.5,94,no,high school,east,5.45
+3305,17,male,0.7,87,yes,high school,south,0.0
+2328,17,male,4.9,53,no,high school,south,1.2
+317,16,male,1.2,61,yes,master,south,16.25
+3543,18,female,0.2,96,yes,high school,east,0.17
+1872,18,male,3.0,65,yes,master,east,15.31
+3324,17,female,0.6,83,yes,none,west,0.0
+4026,16,female,0.8,88,no,master,south,29.49
+2576,17,male,1.6,92,no,none,south,5.2
+442,17,male,1.7,95,no,bachelor,south,5.18
+3115,15,female,1.6,62,yes,high school,east,17.23
+2455,16,female,1.0,83,yes,none,south,0.0
+1016,18,female,4.8,82,no,high school,south,3.74
+3604,15,female,1.8,50,no,none,east,1.53
+1542,17,male,0.6,54,no,master,west,3.69
+1303,16,male,1.8,84,no,none,east,6.92
+1558,16,female,3.6,99,yes,bachelor,south,6.5
+1314,17,male,4.4,66,no,high school,east,12.06
+1049,15,female,0.3,62,no,none,west,0.0
+4098,18,male,7.4,99,no,high school,south,29.68
+2139,16,male,4.5,99,yes,none,south,5.47
+3715,16,male,1.9,87,no,high school,east,18.14
+2379,16,female,0.2,99,yes,none,east,3.94
+1544,18,female,1.8,56,yes,none,south,0.0
+40,18,male,2.2,94,no,high school,south,5.02
+319,17,female,4.1,88,yes,none,north,13.93
+845,17,female,9.0,89,yes,high school,south,21.03
+3232,15,female,8.6,80,no,bachelor,south,27.65
+3817,18,male,5.6,64,no,high school,south,11.88
+3480,18,male,2.0,89,no,master,south,32.98
+1592,16,female,4.9,55,no,none,south,0.0
+1410,18,male,4.6,66,yes,high school,north,51.49
+3936,15,female,5.3,83,no,master,east,17.04
+1350,15,male,1.1,93,no,none,south,0.0
+3281,18,female,1.2,89,yes,none,east,6.46
+428,17,female,9.6,84,no,none,south,42.16
+3888,15,male,9.4,63,yes,bachelor,south,20.2
+238,17,female,2.4,85,no,none,south,1.45
+3121,16,male,1.0,89,no,high school,north,12.71
+2466,15,female,0.1,96,no,high school,east,3.62
+491,16,male,2.0,66,yes,master,south,15.25
+2306,17,male,0.6,82,yes,high school,north,1.71
+2582,15,male,0.8,50,no,high school,east,3.82
+571,17,female,0.1,58,no,bachelor,south,3.59
+2618,17,male,0.8,83,no,none,south,1.17
+2941,18,male,1.3,88,no,high school,south,3.66
+596,18,female,1.0,99,no,none,south,0.0
+163,15,female,0.3,60,no,master,north,16.28
+928,15,female,1.9,52,no,bachelor,south,3.31
+2090,15,female,1.5,90,yes,high school,east,13.21
+823,18,female,2.8,93,no,none,east,0.0
+2998,15,male,1.1,54,yes,master,north,47.74
+1879,16,female,1.7,93,no,none,south,0.0
+4,17,female,7.1,93,yes,bachelor,south,21.11
+2804,15,male,2.9,93,no,high school,south,14.31
+1995,18,male,1.0,89,yes,high school,south,0.0
+1535,15,male,0.6,82,yes,bachelor,south,0.0
+115,15,male,0.7,92,no,none,south,0.0
+2989,18,male,0.1,65,yes,bachelor,north,4.47
+109,15,male,1.5,99,yes,bachelor,south,12.64
+2120,15,male,2.1,83,yes,none,north,6.33
+2172,15,female,1.7,82,yes,none,west,4.72
+1202,18,female,0.7,58,no,none,north,0.0
+1376,18,female,1.8,60,no,none,south,0.0
+3154,15,male,4.9,82,yes,high school,east,19.88
+346,18,female,1.6,69,yes,none,east,0.0
+3924,15,female,9.7,80,no,none,south,29.28
+4182,15,female,0.3,66,yes,none,south,0.0
+4213,17,female,5.7,83,yes,high school,south,23.61
+3913,17,female,4.4,53,no,none,south,6.8
+4025,17,female,2.4,86,yes,none,south,29.32
+3787,18,female,1.3,97,yes,high school,east,12.63
+1722,18,male,1.1,97,yes,bachelor,east,36.47
+3213,16,female,0.4,96,yes,bachelor,east,25.57
+3170,17,female,3.7,52,no,none,south,5.05
+4071,15,female,0.7,60,yes,high school,west,3.18
+2892,18,male,1.7,86,no,bachelor,south,10.58
+1580,15,male,8.5,64,no,none,west,14.08
+2220,15,female,2.3,91,no,master,east,18.92
+1482,18,female,4.8,87,yes,none,east,17.43
+3626,17,female,1.9,67,no,high school,east,9.96
+2311,15,male,1.7,58,no,high school,south,3.07
+2921,16,male,2.6,59,no,bachelor,south,9.16
+3494,15,male,3.4,62,yes,bachelor,north,15.35
+3112,17,male,1.5,80,no,none,south,0.0
+3035,18,female,1.5,80,yes,none,south,0.0
+3603,17,female,0.4,86,yes,master,north,19.27
+148,18,male,0.3,84,no,high school,north,12.84
+1466,16,female,3.8,65,no,master,south,21.11
+2254,18,female,9.5,82,yes,none,south,25.86
+1258,18,female,1.5,84,no,none,south,0.0
+3165,15,male,7.7,85,yes,master,north,93.38
+1082,17,male,1.5,94,no,bachelor,north,12.53
+744,16,female,0.5,66,no,bachelor,north,17.18
+1742,17,male,0.3,58,no,high school,south,0.0
+3169,18,female,1.4,90,no,high school,north,10.97
+147,15,male,2.7,87,yes,high school,west,6.25
+894,17,female,0.6,81,yes,none,east,0.19
+2371,15,female,3.5,69,yes,bachelor,west,7.25
+3413,16,male,1.2,90,yes,high school,south,2.1
+2131,15,female,2.4,99,no,bachelor,west,3.62
+333,18,male,1.6,68,yes,high school,east,6.62
+2913,17,female,1.5,85,yes,bachelor,south,10.26
+944,17,male,0.2,87,no,none,east,0.26
+3072,15,male,2.8,81,no,high school,east,9.54
+2325,17,male,0.5,82,no,none,south,0.0
+924,18,male,0.9,59,yes,none,north,2.65
+124,15,male,0.7,67,no,master,east,8.75
+1753,17,female,0.6,50,no,high school,east,7.03
+1991,16,male,1.9,62,yes,bachelor,south,21.21
+87,18,female,3.4,84,no,high school,north,9.19
+2584,17,female,4.2,58,no,bachelor,west,15.39
+419,18,female,2.0,82,yes,none,south,1.24
+1924,15,male,1.9,83,yes,bachelor,west,0.0
+2510,15,male,0.7,54,yes,high school,north,22.43
+89,15,male,1.8,60,yes,none,west,2.91
+2461,15,male,0.4,54,no,high school,east,2.87
+2186,17,male,1.9,90,yes,high school,east,16.34
+2769,17,male,0.2,55,yes,master,east,16.09
+2358,17,female,1.9,85,no,bachelor,east,21.72
+2046,16,female,1.2,98,no,high school,west,0.67
+2273,17,male,2.7,89,no,none,south,6.75
+1775,18,male,1.8,56,yes,bachelor,south,1.13
+1929,17,male,1.6,56,no,high school,south,0.0
+519,16,female,3.0,95,no,master,north,47.1
+3776,16,female,1.8,95,no,master,south,43.17
+3239,15,female,0.2,56,no,high school,east,14.41
+3319,18,female,0.7,68,no,high school,south,0.0
+2299,17,female,8.9,68,yes,high school,north,29.22
+1777,17,male,1.9,84,no,bachelor,east,9.41
+877,15,female,0.7,68,no,master,south,28.74
+3417,16,female,8.0,94,yes,none,south,17.26
+2218,18,male,6.6,98,yes,none,north,15.84
+3677,18,female,6.9,89,yes,high school,east,59.89
+229,16,male,8.2,69,yes,none,south,9.71
+2482,15,male,0.2,95,yes,high school,south,6.25
+2792,18,male,1.2,95,no,none,south,0.0
+2639,17,female,4.5,88,no,bachelor,north,20.99
+3331,17,male,1.9,54,no,master,north,37.06
+1790,17,female,3.8,82,no,none,south,0.0
+2110,16,female,1.8,90,no,none,south,0.0
+3055,16,female,1.2,58,no,high school,west,14.92
+1341,15,female,1.4,52,yes,none,south,0.0
+2415,16,female,6.1,96,no,high school,east,15.75
+3850,17,male,1.2,91,yes,none,south,0.0
+2741,16,male,0.4,50,yes,high school,south,2.12
+1282,16,female,1.6,97,yes,bachelor,south,11.78
+3903,17,female,0.2,68,no,high school,west,0.0
+2024,15,female,1.5,89,yes,bachelor,south,10.27
+333,18,male,1.6,68,yes,high school,east,6.62
+759,15,male,3.3,50,no,high school,west,0.0
+2433,15,male,1.4,58,no,master,east,8.01
+2689,17,female,1.6,93,no,high school,south,0.0
+3847,15,female,1.1,55,no,bachelor,south,4.61
+2933,16,male,1.0,63,no,none,east,0.37
+1614,17,female,2.3,80,yes,high school,east,4.93
+3674,18,male,0.8,68,yes,high school,east,0.77
+2428,16,male,7.3,99,no,high school,north,26.3
+2998,15,male,1.1,54,yes,master,north,47.74
+1721,16,female,5.9,95,no,high school,south,11.98
+2803,17,male,1.0,86,no,master,east,22.04
+1287,16,male,8.3,87,yes,high school,east,25.63
+3066,17,male,7.0,90,yes,none,south,26.1
+1883,16,male,1.7,84,no,high school,east,35.59
+101,15,female,0.5,52,no,bachelor,south,0.91
+3884,16,male,0.3,93,no,bachelor,south,0.0
+925,18,male,2.2,66,yes,high school,south,16.5
+3748,17,male,3.9,52,yes,none,east,8.3
+920,17,male,1.7,66,yes,high school,south,0.0
+497,17,male,1.9,66,yes,none,south,0.0
+55,16,female,0.9,84,no,high school,east,1.5
+3449,15,male,0.5,87,yes,none,south,0.0
+2521,18,male,3.8,89,yes,bachelor,south,29.88
+2833,15,male,1.4,99,yes,high school,south,0.0
+1927,18,female,1.2,90,no,high school,south,0.03
+3690,17,male,1.5,98,yes,bachelor,south,9.99
+3745,18,male,0.6,86,no,master,east,6.92
+3721,18,male,2.9,99,no,high school,south,18.54
+697,17,female,6.4,89,no,none,south,22.94
+2972,16,female,1.4,83,no,master,north,16.91
+274,15,male,0.8,87,no,bachelor,south,1.91
+561,17,female,0.8,84,yes,bachelor,west,43.1
+372,18,female,1.7,53,no,none,south,0.0
+1167,15,male,4.3,64,yes,bachelor,east,16.72
+619,18,male,2.0,51,yes,high school,north,19.48
+3498,16,female,4.7,98,no,bachelor,north,29.39
+1885,15,female,1.7,57,no,high school,south,0.0
+1801,17,male,0.5,67,no,none,east,3.3
+1087,15,male,1.1,62,no,none,south,0.0
+2666,17,male,7.3,94,yes,high school,south,46.75
+3848,17,female,1.3,63,no,high school,north,12.26
+4162,16,female,4.0,87,no,none,east,8.01
+2394,16,female,4.8,55,yes,none,east,6.27
+2264,16,male,4.2,84,yes,none,east,25.17
+1366,15,female,0.4,84,no,none,south,0.0
+1696,16,male,1.2,94,no,high school,north,44.38
+1127,16,female,2.1,68,no,none,east,9.34
+4047,17,female,6.0,90,yes,high school,north,17.7
+4229,15,male,4.3,88,no,bachelor,west,18.84
+590,16,male,0.4,87,no,none,south,6.03
+3376,17,female,0.5,85,no,none,south,0.0
+457,16,male,3.5,89,yes,high school,south,9.49
+2486,15,female,3.9,84,no,bachelor,east,14.08
+4033,15,female,0.2,63,no,master,south,5.37
+583,16,female,3.9,98,yes,high school,south,7.11
+8,17,female,7.4,60,no,high school,south,42.87
+138,15,female,0.3,67,yes,bachelor,south,0.0
+2350,18,male,0.4,83,no,high school,east,14.98
+1726,15,male,4.4,54,yes,high school,west,22.27
+2283,17,female,0.6,51,no,high school,south,0.0
+2821,16,female,1.5,85,yes,none,east,3.89
+3078,15,female,1.9,98,no,bachelor,south,14.69
+2756,18,male,1.4,87,no,bachelor,west,1.4
+783,16,male,0.3,96,yes,high school,south,1.61
+3454,15,male,0.8,95,yes,high school,south,0.0
+610,18,male,0.6,99,yes,none,north,7.78
+1403,18,male,9.0,98,yes,high school,east,25.79
+3807,16,male,1.3,84,yes,bachelor,east,13.73
+3095,17,male,1.9,91,no,none,east,0.0
+1434,15,male,2.0,81,no,bachelor,north,10.2
+17,16,male,0.9,93,yes,none,south,0.0
+2472,17,male,9.4,87,no,master,east,95.17
+3926,18,female,9.6,91,yes,high school,south,61.08
+1283,15,male,0.5,58,no,high school,south,0.0
+1501,15,male,3.1,69,no,none,south,0.0
+104,17,female,0.6,93,yes,bachelor,east,7.09
+421,15,male,0.9,85,no,high school,south,0.0
+690,16,female,1.6,81,no,high school,north,16.15
+3224,17,male,2.2,97,yes,high school,south,7.09
+2190,16,female,1.6,68,no,high school,south,14.95
+3226,16,male,0.9,96,yes,none,west,1.05
+2432,15,male,2.3,90,no,high school,south,7.8
+1154,16,female,2.4,53,no,none,east,0.0
+4181,16,female,3.3,65,yes,high school,west,13.51
+1214,18,male,1.1,51,no,high school,north,5.77
+748,15,male,1.4,96,yes,high school,east,13.66
+766,15,male,2.3,80,no,high school,south,2.86
+2245,15,female,0.7,90,no,high school,south,0.0
+4080,17,female,2.7,99,no,high school,south,8.52
+2120,15,male,2.1,83,yes,none,north,6.33
+1707,15,male,8.4,91,yes,none,south,27.7
+3137,17,female,1.7,66,yes,master,south,34.99
+3904,18,male,1.9,85,yes,bachelor,west,6.65
+2605,17,male,3.4,81,no,high school,east,27.3
+2437,15,female,0.8,83,yes,none,south,0.0
+3658,17,female,1.1,87,no,bachelor,north,38.9
+3494,15,male,3.4,62,yes,bachelor,north,15.35
+2623,18,female,0.6,57,yes,high school,south,6.43
+137,15,female,0.3,55,yes,none,east,0.0
+699,16,female,0.3,90,no,high school,south,0.0
+3340,18,male,1.9,55,no,none,west,0.0
+335,16,male,2.6,80,yes,high school,south,0.0
+2851,16,male,3.8,54,no,bachelor,south,7.83
+2232,18,female,1.7,87,yes,master,north,60.04
+452,15,female,0.4,56,yes,high school,north,13.78
+2643,18,male,4.8,87,no,high school,south,54.16
+459,17,male,1.8,50,yes,none,south,0.0
+2135,18,female,0.5,99,no,master,south,12.52
+3652,18,female,2.2,84,no,master,east,11.55
+2984,18,female,8.3,59,yes,bachelor,east,79.24
+398,16,female,0.8,85,no,bachelor,south,0.0
+2145,18,female,4.8,83,no,high school,south,13.31
+1471,16,male,0.9,99,no,none,south,0.0
+147,15,male,2.7,87,yes,high school,west,6.25
+3445,16,male,0.6,56,yes,none,west,0.0
+3811,16,female,3.3,80,yes,none,south,10.63
+2256,15,male,3.3,90,no,high school,east,6.16
+116,15,female,0.8,62,yes,bachelor,south,12.06
+212,17,male,0.5,60,no,none,south,0.0
+1617,17,male,1.8,91,no,none,east,9.71
+2592,18,male,8.7,69,no,high school,north,20.54
+1144,17,female,0.4,85,no,high school,east,0.0
+4001,17,female,1.5,85,yes,high school,south,8.89
+2050,18,female,9.5,66,no,high school,north,50.53
+1222,15,male,2.9,60,yes,none,south,11.9
+747,15,female,4.3,91,no,master,east,58.33
+358,15,male,3.2,84,yes,master,south,15.75
+2447,15,male,1.1,67,yes,none,north,2.99
+1523,16,female,0.9,81,no,bachelor,west,0.0
+1469,16,female,0.8,53,no,master,south,7.4
+3128,18,female,1.7,88,no,high school,east,23.02
+1348,17,female,4.7,98,yes,master,east,24.17
+1128,18,female,1.5,83,no,none,east,0.0
+2728,18,female,0.8,67,yes,high school,east,24.25
+1588,16,male,0.4,50,no,high school,north,9.37
+1307,16,female,1.7,90,no,high school,south,0.28
+1683,18,male,1.9,88,yes,none,north,9.43
+4213,17,female,5.7,83,yes,high school,south,23.61
+831,18,male,1.1,99,yes,bachelor,east,12.55
+645,16,female,5.2,90,no,bachelor,south,8.4
+2442,18,male,1.7,96,no,none,west,0.0
+953,16,male,8.4,55,yes,bachelor,south,18.03
+1085,15,male,1.0,81,no,master,west,37.86
+3213,16,female,0.4,96,yes,bachelor,east,25.57
+4146,18,female,2.4,92,yes,none,east,0.0
+1067,17,male,2.2,87,no,high school,south,0.0
+3013,16,male,1.7,94,no,none,south,7.78
+2044,18,male,0.8,92,no,bachelor,east,11.94
+1375,16,female,1.5,91,yes,high school,east,7.36
+2869,18,female,2.2,87,yes,high school,east,19.85
+2615,16,female,1.1,54,yes,bachelor,east,14.04
+3744,17,male,1.6,99,no,high school,south,4.22
+1648,17,male,3.1,98,yes,high school,east,14.7
+2142,17,female,1.3,83,yes,none,east,5.57
+1066,15,female,0.8,87,yes,none,south,0.95
+2696,18,female,2.0,84,no,none,south,0.0
+4130,17,male,1.1,94,yes,high school,north,16.85
+4095,15,female,3.2,81,yes,none,north,10.41
+4014,16,female,5.7,54,no,high school,east,9.06
+2606,15,female,0.4,83,no,bachelor,north,12.58
+2069,16,female,0.1,65,no,high school,north,0.0
+1180,18,male,5.2,51,no,high school,east,8.31
+3003,15,female,6.0,89,no,none,east,19.02
+1807,16,female,2.0,96,no,bachelor,east,27.09
+2001,17,male,1.3,86,no,bachelor,east,10.82
+76,15,female,2.1,95,no,none,east,7.97
+3180,15,female,1.5,65,no,high school,east,24.19
+3543,18,female,0.2,96,yes,high school,east,0.17
+438,17,female,7.1,58,no,bachelor,north,50.16
+649,17,male,1.6,91,no,none,south,0.0
+760,18,male,4.2,53,yes,none,north,1.1
+1577,16,female,4.5,82,no,high school,west,16.78
+2528,17,male,6.3,93,yes,none,north,14.64
+995,17,female,1.5,80,no,bachelor,south,14.55
+2977,15,male,4.4,60,yes,high school,east,28.5
+1077,17,male,1.5,84,no,bachelor,east,11.36
+384,18,male,1.4,81,no,high school,west,2.71
+491,16,male,2.0,66,yes,master,south,15.25
+3567,16,female,0.5,65,no,none,south,0.0
+1785,15,female,0.2,82,no,master,south,4.04
+204,18,female,2.0,63,no,none,east,0.73
+2261,16,female,4.5,54,no,bachelor,south,18.2
+801,18,male,2.4,65,no,high school,north,37.95
+1882,15,male,4.7,93,yes,none,south,6.94
+2446,17,female,2.9,93,no,none,south,7.34
+2838,15,male,0.6,54,yes,high school,east,1.6
+2812,17,female,0.5,87,yes,high school,east,0.02
+3281,18,female,1.2,89,yes,none,east,6.46
+1429,17,male,1.7,89,no,bachelor,west,3.84
+1031,18,male,1.4,55,no,none,south,1.49
+2346,15,female,3.3,80,no,high school,east,13.47
+4038,17,male,2.9,88,yes,none,south,3.16
+1338,16,male,0.4,80,yes,high school,south,0.0
+1476,18,female,1.2,51,yes,high school,north,15.93
+2146,15,female,0.7,99,yes,bachelor,south,0.0
+2138,18,female,0.8,95,yes,master,east,46.59
+497,17,male,1.9,66,yes,none,south,0.0
+3928,18,female,1.6,56,no,none,south,3.97
+491,16,male,2.0,66,yes,master,south,15.25
+3803,16,male,1.7,58,no,none,west,0.0
+3088,15,female,1.2,69,no,none,north,0.21
+3107,17,female,1.9,59,no,bachelor,south,23.86
+3161,17,female,0.6,58,no,high school,south,2.29
+2114,16,male,4.3,81,no,high school,south,1.41
+1076,18,female,1.0,90,no,none,north,0.0
+1899,18,male,4.0,91,yes,high school,south,13.87
+4078,17,male,0.1,96,yes,bachelor,south,0.0
+1450,18,male,0.9,88,no,high school,south,0.0
+375,15,female,2.1,95,yes,high school,east,9.9
+2805,18,female,0.9,50,yes,high school,north,16.54
+3713,18,female,9.6,96,yes,bachelor,east,30.8
+2542,15,female,4.6,57,no,none,east,12.62
+2948,18,female,1.9,81,no,bachelor,east,11.71
+1934,18,female,4.5,96,yes,high school,south,36.37
+1806,15,female,0.8,54,no,high school,south,0.0
+563,15,male,8.8,88,yes,high school,south,38.55
+2201,17,female,4.4,67,yes,high school,north,26.33
+183,17,female,0.9,83,no,none,north,0.0
+2087,15,male,1.4,94,yes,none,west,6.33
+4017,15,male,4.8,80,yes,master,south,34.76
+234,16,female,1.9,95,no,none,south,0.0
+648,18,female,1.7,89,no,bachelor,south,4.62
+3007,17,female,2.0,99,yes,high school,north,12.23
+767,18,female,0.5,92,yes,high school,south,12.95
+1897,16,male,0.3,60,yes,none,south,0.0
+3763,16,female,3.3,50,no,none,east,3.06
+4205,18,male,1.7,69,yes,bachelor,east,35.99
+580,18,female,0.7,97,no,bachelor,north,10.58
+1576,15,male,4.6,84,yes,high school,south,21.01
+3976,18,male,1.9,50,no,high school,south,0.0
+3962,16,male,0.1,61,no,high school,south,0.0
+339,17,male,0.8,96,no,high school,south,0.0
+3296,17,female,6.0,52,yes,high school,east,43.94
+1098,18,female,3.7,83,yes,none,north,6.09
+1783,15,female,1.5,52,yes,high school,south,8.76
+2771,17,female,0.3,93,yes,none,south,4.62
+2800,16,female,3.3,68,yes,bachelor,east,31.42
+1644,16,female,2.4,91,no,high school,south,1.0
+4210,15,female,1.6,64,yes,high school,north,13.77
+742,17,female,3.6,80,no,bachelor,south,10.66
+2157,18,female,3.9,55,no,high school,south,0.72
+2580,16,male,1.2,69,yes,bachelor,east,21.79
+2508,16,male,0.2,93,no,high school,east,18.56
+2785,17,male,0.9,95,yes,none,south,11.54
+1847,16,male,1.6,64,no,bachelor,south,3.59
+1846,17,female,1.5,98,no,none,north,8.01
+2073,18,male,4.1,55,no,high school,east,7.46
+2589,17,male,0.4,57,no,none,east,0.14
+2435,15,female,1.7,83,no,bachelor,south,0.0
+3094,18,female,3.6,81,yes,none,east,42.04
+3819,15,female,1.9,82,yes,bachelor,south,4.88
+3159,17,male,1.5,51,no,bachelor,east,8.63
+3768,18,male,6.7,57,no,high school,north,24.9
+3090,16,male,1.8,91,yes,high school,south,13.58
+1331,17,female,1.0,88,no,none,north,8.77
+2627,17,female,6.7,99,no,none,east,32.99
+3473,18,female,0.8,83,no,high school,south,0.0
+2193,17,female,2.3,81,yes,high school,south,14.24
+2695,16,female,0.3,99,yes,none,south,4.69
+1039,17,male,1.5,89,no,none,west,0.0
+2873,18,male,1.4,86,yes,none,south,4.43
+2599,15,male,1.6,84,no,bachelor,south,2.53
+3747,15,female,1.4,93,no,none,east,0.94
+2251,17,male,0.8,60,yes,none,south,0.0
+3864,16,male,1.0,94,yes,none,east,7.74
+2834,18,female,0.2,66,no,high school,south,0.0
+3641,15,female,2.8,94,yes,high school,south,5.32
+2979,18,male,0.6,62,yes,high school,west,1.43
+43,18,male,0.8,89,no,high school,south,0.0
+215,17,male,1.9,80,no,none,south,0.0
+3772,17,female,2.6,51,no,high school,west,5.83
+2365,15,female,1.7,64,no,bachelor,east,8.83
+4149,18,male,7.3,88,no,none,east,17.08
+3887,18,male,0.8,80,no,master,west,9.9
+1048,18,male,1.4,52,no,none,south,0.0
+2291,17,female,1.8,65,no,high school,west,8.79
+3122,18,male,6.5,68,no,high school,south,20.51
+4194,16,male,1.1,94,no,bachelor,south,1.93
+1268,15,female,0.9,82,no,none,south,10.07
+3465,17,female,0.6,60,no,high school,south,0.0
+1464,16,female,0.1,82,no,none,east,0.0
+2202,16,female,0.1,59,no,master,west,12.89
+3504,17,female,4.8,60,no,high school,east,6.65
+1945,17,female,3.2,69,no,high school,east,17.99
+38,16,female,3.2,95,yes,none,east,0.0
+2621,17,female,2.8,87,no,none,south,0.0
+3686,15,female,4.8,59,yes,none,east,6.42
+3547,17,male,1.4,81,no,none,south,0.0
+548,18,female,4.3,94,yes,high school,south,31.04
+860,17,female,4.3,99,no,high school,north,8.7
+3027,16,male,0.8,92,yes,high school,south,3.51
+3277,15,female,0.1,96,yes,none,north,9.6
+1491,17,female,5.0,63,no,high school,north,21.38
+3679,15,female,7.0,62,no,none,south,0.02
+60,17,female,1.8,96,no,high school,south,0.0
+3780,16,female,0.3,93,no,none,south,0.0
+270,15,female,0.3,92,no,bachelor,south,26.21
+2673,15,female,1.9,62,no,bachelor,east,17.25
+609,17,male,0.5,90,yes,high school,north,7.15
+659,18,male,9.6,51,no,none,south,47.26
+198,15,female,1.0,82,no,none,east,0.0
+1922,15,male,2.3,60,no,high school,south,7.6
+698,18,male,0.8,94,no,bachelor,south,0.0
+50,16,female,3.0,90,yes,high school,south,1.81
+3274,15,female,1.8,98,no,high school,east,6.19
+3344,17,male,1.1,54,yes,high school,south,0.0
+279,15,female,3.9,91,yes,none,east,21.15
+3808,18,female,1.9,87,yes,high school,north,6.76
+1632,15,female,0.3,53,yes,none,east,0.0
+208,18,male,2.9,55,yes,high school,south,5.76
+1418,17,male,9.4,64,yes,high school,south,22.91
+2967,16,female,4.8,52,no,none,south,0.0
+3918,16,male,0.9,53,no,none,south,0.0
+3880,16,male,0.7,90,no,bachelor,east,14.19
+3814,18,female,4.7,90,no,high school,south,14.21
+3483,17,male,5.9,98,no,none,east,9.68
+2439,15,male,5.0,53,yes,high school,east,16.44
+3279,16,female,0.7,52,no,none,west,0.0
+831,18,male,1.1,99,yes,bachelor,east,12.55
+807,16,male,1.6,92,no,high school,east,6.46
+2759,17,male,2.2,90,yes,none,north,9.35
+2747,16,female,4.3,56,yes,bachelor,east,27.65
+407,16,male,2.8,87,yes,none,east,15.99
+1963,17,male,0.6,88,no,bachelor,east,25.08
+3853,16,male,3.7,67,no,none,north,8.11
+977,16,female,0.4,86,no,bachelor,west,0.0
+2024,15,female,1.5,89,yes,bachelor,south,10.27
+3849,15,male,1.9,93,no,none,east,3.71
+2493,17,male,3.7,62,no,none,south,0.0
+1641,16,female,5.0,93,yes,high school,south,12.51
+1657,17,male,9.0,93,yes,high school,north,25.19
+374,16,male,4.7,82,yes,high school,east,9.92
+3305,17,male,0.7,87,yes,high school,south,0.0
+1246,15,male,3.4,64,no,none,south,9.54
+3123,18,female,3.6,89,no,high school,south,4.05
+2833,15,male,1.4,99,yes,high school,south,0.0
+2870,15,male,1.4,56,no,none,south,0.0
+3581,18,female,3.3,85,no,bachelor,east,13.52
+2977,15,male,4.4,60,yes,high school,east,28.5
+3017,15,female,4.5,69,yes,master,south,16.27
+290,16,male,0.8,67,yes,none,east,1.42
+38,16,female,3.2,95,yes,none,east,0.0
+2563,17,female,1.8,55,no,master,south,5.14
+439,16,male,0.8,64,no,high school,east,0.63
+1903,18,female,1.9,53,no,high school,north,6.21
+3062,18,male,0.9,53,no,high school,south,0.0
+3149,16,male,9.4,68,yes,master,south,54.62
+50,16,female,3.0,90,yes,high school,south,1.81
+3972,18,male,4.9,84,no,bachelor,south,20.44
+2362,15,male,1.5,83,no,bachelor,west,9.36
+525,18,male,1.5,65,yes,high school,east,6.34
+2076,16,female,6.5,99,no,high school,south,57.04
+3738,17,male,1.0,87,no,high school,south,0.0
+2082,16,male,5.2,90,yes,high school,east,35.96
+2957,15,male,1.4,91,no,high school,east,9.85
+2379,16,female,0.2,99,yes,none,east,3.94
+3795,15,female,0.5,65,yes,bachelor,north,11.22
+2342,17,male,2.6,98,yes,high school,east,19.45
+386,17,female,6.2,90,no,none,south,5.98
+2876,15,male,0.7,58,yes,none,south,0.0
+1672,15,male,1.4,84,no,high school,south,0.0
+3807,16,male,1.3,84,yes,bachelor,east,13.73
+2667,15,male,4.3,93,no,master,north,59.52
+3558,16,male,8.5,81,no,high school,east,17.98
+2,17,female,0.6,92,no,bachelor,south,0.0
+20,18,male,1.0,50,yes,bachelor,south,6.75
+2806,17,male,0.6,62,yes,none,south,0.0
+1789,15,male,1.1,98,no,high school,north,1.81
+3211,18,male,8.7,64,no,high school,west,23.98
+607,16,male,1.8,64,no,high school,south,0.0
+630,18,male,4.8,61,yes,high school,south,4.47
+1132,18,female,1.0,84,no,high school,east,0.0
+2863,16,female,1.3,89,no,high school,south,2.9
+1744,15,male,5.8,63,no,bachelor,south,8.7
+17,16,male,0.9,93,yes,none,south,0.0
+2492,17,female,1.1,92,no,none,south,0.0
+3019,17,male,1.1,67,no,high school,south,0.0
+2805,18,female,0.9,50,yes,high school,north,16.54
+3275,15,male,7.3,53,no,none,south,32.09
+311,17,female,1.7,82,yes,master,east,20.4
+2059,16,male,3.8,89,no,none,north,18.02
+2422,16,male,1.7,87,no,high school,north,11.49
+1923,18,female,0.7,87,no,high school,north,23.93
+4174,15,female,1.5,52,no,bachelor,south,7.64
+2840,17,female,4.4,55,yes,none,west,4.98
+3324,17,female,0.6,83,yes,none,west,0.0
+2813,18,female,4.1,58,no,none,west,3.78
+567,16,male,1.6,53,yes,none,east,22.07
+1616,15,female,4.5,64,no,high school,east,12.77
+1218,16,male,1.8,57,no,high school,north,33.82
+1186,15,male,9.1,63,no,bachelor,east,29.55
+778,17,male,0.4,82,yes,none,west,0.96
+2989,18,male,0.1,65,yes,bachelor,north,4.47
+3828,17,female,1.1,55,no,bachelor,south,7.28
+3643,18,female,3.1,91,no,high school,east,7.68
+2322,18,female,3.3,55,yes,high school,east,6.34
+3017,15,female,4.5,69,yes,master,south,16.27
+2880,18,male,4.2,86,no,high school,south,12.53
+4198,15,female,1.4,92,yes,master,south,4.2
+1629,15,male,0.2,91,no,master,south,16.33
+2197,18,female,4.1,80,yes,high school,west,36.18
+2793,16,female,2.2,84,yes,bachelor,east,40.6
+3058,15,female,5.7,94,yes,master,south,34.91
+2826,15,male,1.5,65,no,bachelor,south,3.46
+1767,15,male,1.0,86,no,high school,east,5.03
+472,15,female,1.7,81,yes,bachelor,south,3.61
+3878,15,male,0.9,88,no,high school,south,0.0
+3728,15,female,9.2,82,yes,high school,south,26.26
+3845,18,female,1.1,55,yes,high school,south,0.0
+3389,16,female,3.9,59,yes,none,east,17.21
+1449,18,female,1.9,53,no,none,south,0.0
+3672,15,female,2.0,99,yes,bachelor,west,57.02
+915,16,male,1.6,88,no,none,south,0.0
+1203,17,female,1.4,64,no,high school,east,2.2
+2993,16,female,1.5,55,no,none,south,0.0
+102,18,male,1.1,89,no,high school,south,19.23
+51,18,female,1.9,82,no,none,north,14.14
+3926,18,female,9.6,91,yes,high school,south,61.08
+1815,18,female,4.5,82,no,bachelor,west,8.64
+3023,17,female,0.9,65,yes,high school,south,5.54
+1656,17,female,8.0,81,no,master,east,71.25
+3592,15,female,6.0,62,yes,high school,east,18.74
+200,18,male,8.5,60,yes,bachelor,south,25.25
+2160,16,female,2.9,67,no,high school,east,12.35
+3066,17,male,7.0,90,yes,none,south,26.1
+2391,15,male,0.6,53,no,high school,north,0.0
+1624,16,female,1.0,64,no,master,south,8.68
+3648,18,female,4.1,80,no,none,south,5.29
+4009,16,female,1.4,88,no,bachelor,south,6.59
+3743,18,female,2.8,88,yes,none,south,7.45
+749,17,female,8.7,57,yes,none,south,36.09
+282,15,male,1.7,95,no,none,east,3.51
+311,17,female,1.7,82,yes,master,east,20.4
+114,16,female,2.0,94,no,high school,north,36.49
+223,18,female,1.5,99,no,master,south,13.21
+2969,18,male,1.9,53,no,high school,south,8.33
+4030,16,male,2.4,61,no,high school,north,12.1
+3525,15,male,2.0,56,no,high school,south,1.88
+291,17,male,0.2,93,no,high school,east,10.03
+3451,16,male,4.8,56,yes,bachelor,east,14.04
+1006,15,female,0.8,81,yes,bachelor,east,12.26
+1428,16,male,1.6,60,no,high school,south,5.2
+3343,15,female,0.5,63,no,high school,north,8.78
+594,17,female,1.0,55,no,none,south,0.0
+4155,15,female,1.8,68,no,high school,south,0.0
+3162,16,male,3.0,98,no,bachelor,north,22.88
+126,15,female,8.0,58,no,high school,east,37.06
+2367,17,male,8.3,93,yes,high school,south,27.27
+2583,15,female,4.2,90,no,bachelor,west,17.5
+800,18,female,1.4,96,no,high school,east,10.04
+1286,17,male,0.3,86,no,none,north,0.0
+69,16,female,1.7,80,no,none,south,0.0
+2130,16,female,4.0,56,yes,master,west,54.26
+2153,18,male,0.8,84,yes,none,north,36.21
+3135,17,female,1.9,59,no,master,east,11.2
+1917,16,female,1.9,52,no,high school,west,0.0
+529,15,female,1.0,50,no,high school,south,7.27
+3973,18,female,2.0,91,no,none,south,0.0
+1737,16,male,0.5,69,no,high school,north,4.58
+1646,18,female,1.6,50,no,none,south,0.0
+2568,18,female,2.0,92,yes,none,east,5.04
+3708,17,female,1.7,90,no,bachelor,south,24.08
+3712,17,female,1.2,90,yes,none,south,0.03
+2904,16,male,4.1,84,yes,master,south,15.9
+3469,18,male,0.7,81,yes,high school,north,28.82
+443,15,male,4.7,84,no,bachelor,east,33.55
+3309,18,male,1.9,86,yes,high school,west,10.78
+31,15,female,4.8,92,yes,high school,east,17.29
+3408,17,male,2.9,51,no,none,east,0.0
+2373,16,female,0.6,63,yes,master,south,12.9
+2992,18,male,1.0,96,yes,none,east,2.01
+559,15,male,1.1,91,no,bachelor,east,7.27
+953,16,male,8.4,55,yes,bachelor,south,18.03
+3982,17,male,1.5,85,yes,high school,west,9.67
+570,17,male,1.7,88,yes,high school,north,16.5
+3053,16,male,1.3,89,no,bachelor,east,35.43
+1036,16,female,3.8,60,yes,bachelor,south,13.4
+2719,18,male,1.9,97,yes,high school,south,4.44
+2294,15,male,7.1,92,yes,none,south,5.75
+4130,17,male,1.1,94,yes,high school,north,16.85
+3900,18,male,4.5,95,no,high school,south,5.62
+3517,16,male,0.4,54,yes,bachelor,east,3.88
+1142,18,female,1.9,82,yes,high school,south,1.4
+2066,18,female,0.2,52,no,bachelor,south,4.94
+2697,16,female,1.5,61,no,high school,south,0.0
+2653,16,male,0.7,61,no,none,east,0.0
+902,17,female,0.4,88,no,bachelor,west,6.55
+284,15,female,9.2,90,yes,none,south,26.3
+1357,16,male,1.0,62,yes,high school,south,12.25
+3865,17,male,1.2,99,yes,none,east,3.55
+1740,17,male,2.0,55,yes,bachelor,east,17.65
+3154,15,male,4.9,82,yes,high school,east,19.88
+3371,17,male,7.4,93,no,high school,east,51.53
+3954,15,male,1.1,86,no,high school,east,10.16
+229,16,male,8.2,69,yes,none,south,9.71
+852,15,female,1.2,88,yes,bachelor,north,18.91
+2680,17,male,9.2,93,yes,high school,west,86.22
+459,17,male,1.8,50,yes,none,south,0.0
+1768,16,male,2.0,99,no,bachelor,south,13.4
+3210,17,male,1.9,93,no,high school,south,16.37
+2893,16,female,0.8,90,yes,none,east,0.0
+2659,16,male,1.4,94,no,high school,east,32.42
+1259,18,female,8.9,81,no,bachelor,south,66.85
+953,16,male,8.4,55,yes,bachelor,south,18.03
+3985,17,male,1.2,50,yes,high school,south,4.74
+940,17,female,2.9,57,yes,bachelor,north,41.95
+3313,18,male,2.0,99,yes,none,south,12.57
+1641,16,female,5.0,93,yes,high school,south,12.51
+1561,16,male,0.5,66,no,none,west,0.0
+619,18,male,2.0,51,yes,high school,north,19.48
+1900,15,female,4.4,84,yes,high school,north,21.95
+2684,18,male,2.1,67,yes,high school,north,10.7
+3131,18,female,5.0,80,no,none,south,0.0
+2573,18,female,2.0,67,no,high school,south,0.0
+3529,15,male,2.9,85,no,bachelor,south,6.06
+2286,17,female,1.0,92,no,master,east,10.1
+4130,17,male,1.1,94,yes,high school,north,16.85
+2524,15,female,1.1,60,no,high school,south,6.46
+743,16,male,9.1,98,yes,bachelor,east,72.01
+1217,17,male,1.4,51,no,bachelor,west,13.82
+1636,17,female,0.7,90,no,high school,east,11.36
+2630,18,female,0.3,62,yes,high school,south,4.12
+3751,15,male,1.9,69,yes,none,south,0.0
+3875,17,male,1.8,81,yes,none,north,10.07
+3663,15,male,2.5,80,no,high school,east,8.37
+1328,18,female,0.2,50,yes,high school,north,27.58
+1537,18,male,0.5,90,yes,none,south,3.78
+3266,18,female,6.4,94,no,high school,west,8.04
+36,17,female,7.2,92,yes,high school,south,22.54
+3787,18,female,1.3,97,yes,high school,east,12.63
+4025,17,female,2.4,86,yes,none,south,29.32
+3040,15,female,1.5,84,no,bachelor,west,5.13
+3460,16,female,3.1,52,no,none,south,0.0
+1145,16,female,0.3,86,no,high school,south,3.65
+3409,16,male,0.3,85,no,none,south,0.0
+3400,17,male,0.6,67,no,high school,south,0.0
+4008,17,female,0.3,90,no,high school,west,0.0
+1375,16,female,1.5,91,yes,high school,east,7.36
+1619,15,female,0.1,87,yes,none,south,21.2
+2985,16,female,1.1,81,no,none,east,8.94
+424,16,female,3.3,57,yes,bachelor,east,19.79
+1363,16,female,5.7,59,yes,high school,south,29.64
+3543,18,female,0.2,96,yes,high school,east,0.17
+1310,17,female,2.5,50,no,high school,south,6.31
+788,16,female,1.2,88,yes,none,south,0.0
+3740,18,female,3.3,66,no,high school,south,6.0
+2288,17,female,4.7,94,no,master,east,32.69
+187,16,male,0.4,55,no,high school,south,0.0
+1418,17,male,9.4,64,yes,high school,south,22.91
+3756,18,male,4.9,89,no,high school,south,7.0
+1751,15,male,4.1,86,no,high school,west,14.7
+3070,15,male,3.1,83,yes,high school,south,8.09
+477,16,male,1.8,83,no,high school,south,3.35
+2785,17,male,0.9,95,yes,none,south,11.54
+1678,16,female,2.1,69,no,none,south,0.0
+1664,16,male,0.6,69,no,high school,south,0.3
+3091,16,female,0.6,82,yes,none,north,8.9
+3950,15,male,1.1,95,yes,none,south,0.0
+2913,17,female,1.5,85,yes,bachelor,south,10.26
+3224,17,male,2.2,97,yes,high school,south,7.09
+3810,16,male,1.8,95,yes,high school,south,6.06
+2352,18,male,4.9,55,yes,none,south,5.95
+2712,18,male,4.7,69,yes,bachelor,east,25.83
+447,17,male,2.9,68,no,none,west,4.34
+2460,18,female,1.7,95,no,high school,west,7.32
+4168,15,female,4.7,81,no,none,south,0.0
+480,15,female,0.8,87,yes,none,east,2.05
+2611,16,female,0.3,53,yes,bachelor,south,2.07
+463,17,female,2.0,61,no,none,south,3.07
+3132,18,male,1.2,87,yes,none,south,0.0
+2528,17,male,6.3,93,yes,none,north,14.64
+1627,16,female,7.0,80,no,bachelor,east,54.73
+2517,16,male,1.8,81,yes,none,north,9.1
+3453,17,male,1.9,56,no,bachelor,south,4.7
+1061,16,male,1.8,93,yes,bachelor,north,14.74
+3435,16,female,1.3,59,yes,bachelor,north,8.05
+2555,16,female,1.6,89,yes,bachelor,north,60.6
+610,18,male,0.6,99,yes,none,north,7.78
+776,18,male,0.5,83,yes,bachelor,north,14.65
+4034,17,female,1.8,83,no,high school,south,0.0
+91,16,male,3.3,63,yes,none,east,0.0
+3185,18,female,3.2,80,no,none,south,0.0
+1830,17,female,0.2,84,no,bachelor,east,8.55
+2788,17,male,1.2,67,no,none,south,0.0
+1342,16,female,9.9,65,no,high school,north,30.14
+3417,16,female,8.0,94,yes,none,south,17.26
+1858,15,male,0.4,66,yes,high school,east,0.0
+1482,18,female,4.8,87,yes,none,east,17.43
+2376,15,male,1.7,91,no,high school,west,4.59
+219,16,female,0.4,98,yes,high school,north,16.92
+2516,17,female,1.9,67,no,high school,south,1.25
+2728,18,female,0.8,67,yes,high school,east,24.25
+1289,17,female,9.0,59,no,high school,west,38.66
+945,17,male,0.1,86,yes,none,south,0.6
+1235,18,male,7.1,89,yes,high school,south,55.7
+1054,18,male,4.0,66,yes,master,north,29.02
+3445,16,male,0.6,56,yes,none,west,0.0
+227,17,male,1.4,96,no,high school,north,8.05
+1278,18,male,4.0,56,no,bachelor,south,9.95
+3934,16,female,1.7,80,no,none,south,0.0
+2959,16,female,0.3,99,no,bachelor,south,11.04
+1282,16,female,1.6,97,yes,bachelor,south,11.78
+1513,18,male,9.3,93,yes,none,north,29.1
+330,18,female,0.3,97,yes,none,east,0.0
+424,16,female,3.3,57,yes,bachelor,east,19.79
+2962,16,male,0.4,95,yes,high school,north,5.48
+2238,15,male,8.8,80,yes,high school,west,67.63
+3522,15,female,1.3,51,yes,none,east,0.0
+1575,16,female,0.1,99,no,bachelor,west,4.26
+67,18,female,1.0,86,yes,bachelor,south,5.6
+2721,15,female,4.1,52,no,none,south,0.0
+1285,18,female,0.8,69,yes,none,east,7.19
+2528,17,male,6.3,93,yes,none,north,14.64
+1025,18,female,1.8,63,no,none,east,8.38
+2421,17,female,4.3,93,no,none,south,13.59
+14,15,female,0.2,80,yes,none,west,0.0
+426,16,male,0.3,97,no,high school,south,0.22
+2538,17,female,0.9,68,no,high school,south,0.0
+3104,17,male,2.5,57,yes,high school,south,4.34
+2928,17,male,2.0,87,no,high school,north,54.56
+2936,16,male,0.3,91,yes,high school,south,0.0
+2196,18,male,1.7,53,no,high school,south,0.0
+400,18,male,0.6,69,no,bachelor,east,13.97
+3314,15,male,1.7,87,yes,high school,south,5.92
+1386,15,male,1.5,97,yes,high school,south,5.16
+790,16,female,0.4,93,no,none,south,0.0
+3228,16,female,1.4,66,yes,none,south,0.0
+913,15,female,9.6,58,yes,high school,east,63.81
+3244,18,male,2.5,99,yes,high school,north,44.17
+2590,16,male,0.9,96,no,high school,south,0.0
+4134,17,female,0.4,90,yes,high school,east,2.38
+3034,16,female,0.9,81,no,none,east,0.0
+1539,18,female,8.9,89,no,high school,east,30.45
+2679,15,male,0.8,93,no,master,east,39.77
+3166,16,male,1.8,54,no,high school,south,0.0
+2075,17,male,0.9,86,no,bachelor,south,8.93
+3201,18,male,0.9,54,yes,bachelor,south,14.5
+23,15,female,1.1,86,no,high school,south,3.21
+1919,17,female,0.9,54,yes,high school,north,7.0
+3016,17,female,1.8,97,yes,none,west,1.4
+3261,17,male,2.5,91,no,high school,south,0.0
+151,18,male,1.0,94,no,none,south,0.0
+1832,17,male,6.8,85,no,high school,west,13.36
+3608,17,male,1.2,64,no,none,south,0.0
+1711,16,male,0.2,58,no,high school,south,12.04
+4192,18,male,1.6,52,no,high school,east,0.0
+3433,18,male,9.2,60,no,none,east,33.02
+202,18,female,0.4,51,no,high school,east,0.0
+672,16,female,4.6,81,no,none,south,0.0
+1566,18,female,1.5,97,no,high school,east,3.23
+535,17,male,0.8,57,yes,none,east,0.0
+4007,18,female,0.6,82,no,master,south,0.0
+673,17,female,1.4,97,no,bachelor,south,0.76
+1859,16,male,2.1,94,yes,master,north,27.18
+964,18,male,1.8,69,no,high school,south,0.0
+2268,17,female,1.2,91,no,high school,south,0.0
+2836,16,female,1.2,83,yes,none,south,5.29
+3705,16,male,0.3,50,no,high school,south,0.0
+405,16,female,6.1,93,no,high school,west,15.49
+3080,15,male,4.1,56,yes,none,south,14.29
+121,17,male,4.0,58,no,none,south,0.0
+362,15,female,2.5,84,no,bachelor,east,22.77
+842,17,female,4.8,87,no,none,south,5.32
+3538,16,male,2.0,50,no,high school,west,4.23
+3435,16,female,1.3,59,yes,bachelor,north,8.05
+3296,17,female,6.0,52,yes,high school,east,43.94
+3155,18,female,1.0,85,no,none,east,0.51
+2811,17,male,4.0,94,no,none,west,4.85
+3223,18,female,3.7,67,no,high school,east,14.81
+2035,16,female,0.2,67,yes,high school,north,2.77
+31,15,female,4.8,92,yes,high school,east,17.29
+3133,17,female,1.4,66,no,none,south,0.0
+1027,15,female,1.4,88,no,none,east,0.0
+3245,18,male,1.6,98,no,none,south,0.0
+3777,16,female,1.2,63,no,bachelor,south,0.69
+393,15,female,6.5,53,no,none,south,2.04
+370,18,male,1.4,67,no,high school,south,1.0
+3090,16,male,1.8,91,yes,high school,south,13.58
+3328,18,female,0.4,54,yes,none,south,0.0
+2242,17,male,1.0,99,no,high school,south,0.0
+3174,15,male,1.9,50,no,high school,east,0.0
+3865,17,male,1.2,99,yes,none,east,3.55
+3820,17,male,1.3,81,yes,none,east,1.22
+335,16,male,2.6,80,yes,high school,south,0.0
+746,18,male,0.8,88,no,bachelor,west,14.03
+1962,16,male,1.3,81,yes,high school,south,7.16
+2553,15,female,4.8,67,no,master,north,23.46
+2954,17,male,2.8,97,yes,bachelor,south,40.0
+303,15,male,1.3,91,yes,none,east,14.4
+3811,16,female,3.3,80,yes,none,south,10.63
+403,17,female,0.4,95,no,none,east,0.0
+401,15,female,2.2,88,no,bachelor,west,3.02
+3564,17,female,3.4,60,no,none,north,22.01
+2218,18,male,6.6,98,yes,none,north,15.84
+2238,15,male,8.8,80,yes,high school,west,67.63
+2378,18,female,1.3,93,yes,high school,east,16.5
+2289,16,male,0.6,56,no,bachelor,west,0.0
+2192,17,male,8.0,94,no,none,east,68.6
+1975,17,female,3.6,67,no,master,west,20.38
+2500,15,male,0.7,51,yes,bachelor,south,3.93
+419,18,female,2.0,82,yes,none,south,1.24
+1338,16,male,0.4,80,yes,high school,south,0.0
+45,18,female,0.8,57,yes,high school,east,0.0
+656,16,female,1.6,85,no,high school,east,11.8
+25,16,male,7.4,62,no,none,north,10.19
+584,18,female,0.2,55,yes,high school,east,4.31
+68,16,female,3.1,89,no,high school,south,9.65
+2780,16,female,1.2,69,no,bachelor,west,13.59
+2713,15,female,9.2,60,no,none,south,29.54
+3750,18,female,5.6,69,no,bachelor,east,15.75
+658,15,male,2.0,95,no,high school,east,4.09
+712,17,male,1.6,88,no,none,east,0.0
+674,16,female,0.5,99,yes,high school,south,0.0
+2614,15,female,0.7,89,no,none,north,11.9
+3191,15,female,3.7,62,no,high school,east,1.17
+1111,15,female,6.0,81,no,none,west,5.77
+3620,15,female,2.0,94,yes,none,south,0.33
+2351,18,male,2.1,96,no,high school,south,8.37
+2735,17,female,3.2,90,yes,none,south,9.16
+1204,18,female,1.2,64,yes,high school,south,4.97
+3761,18,female,3.5,69,no,high school,south,2.32
+2098,16,female,2.7,93,yes,master,south,6.68
+59,17,male,2.0,54,no,high school,south,0.0
+3707,17,male,1.3,63,no,high school,east,0.0
+3214,15,male,0.7,66,yes,none,east,24.18
+2772,18,male,0.8,99,no,bachelor,south,0.0
+345,18,female,0.3,66,no,high school,south,0.0
+3083,17,male,6.2,91,no,high school,south,37.96
+685,16,female,1.3,64,no,none,west,0.0
+1461,18,male,1.5,52,yes,master,east,35.71
+368,17,male,0.3,94,yes,none,east,1.71
+1166,17,female,4.6,54,yes,none,north,19.8
+2595,16,male,3.4,60,no,none,north,15.55
+3890,15,male,0.2,56,no,none,south,0.0
+3963,15,male,3.5,99,no,high school,east,50.81
+1992,16,male,0.6,63,yes,bachelor,east,30.79
+2577,15,male,4.7,88,no,none,north,0.0
+3888,15,male,9.4,63,yes,bachelor,south,20.2
+1184,18,male,4.1,57,no,none,east,7.46
+565,17,female,1.4,59,no,none,north,7.29
+220,15,female,4.0,84,no,none,south,3.4
+1208,15,female,0.2,82,no,high school,south,5.49
+1762,18,female,1.9,87,no,high school,south,1.07
+2899,16,female,7.0,81,no,none,east,13.84
+2267,15,male,2.7,98,yes,none,east,10.34
+2030,18,male,1.6,80,no,master,south,6.22
+1167,15,male,4.3,64,yes,bachelor,east,16.72
+1698,18,male,3.1,51,yes,none,south,0.0
+2297,18,male,0.6,88,no,none,east,0.0
+2636,15,male,0.3,84,no,none,south,0.0
+3201,18,male,0.9,54,yes,bachelor,south,14.5
+155,16,male,1.9,87,yes,none,south,2.86
+922,15,female,1.2,67,no,high school,south,0.0
+14,15,female,0.2,80,yes,none,west,0.0
+2497,16,female,1.3,99,no,high school,south,2.56
+1332,16,female,9.9,83,yes,high school,east,79.17
+3285,18,female,2.5,94,no,high school,south,2.86
+217,17,female,3.7,63,no,master,east,15.89
+2402,17,female,0.9,90,yes,bachelor,south,13.34
+3739,18,male,1.2,60,yes,none,south,0.0
+3883,17,male,3.2,92,no,none,west,0.0
+3729,18,female,0.3,80,no,high school,east,35.81
+2120,15,male,2.1,83,yes,none,north,6.33
+3995,16,female,0.5,90,yes,high school,south,2.99
+1297,17,female,1.2,87,no,none,north,0.0
+3730,18,male,1.4,89,yes,high school,south,6.76
+3011,15,male,0.9,86,no,high school,west,0.0
+1013,18,male,0.4,98,yes,none,east,0.0
+3490,17,male,5.0,99,yes,none,east,15.13
+3281,18,female,1.2,89,yes,none,east,6.46
+753,17,male,1.2,67,yes,high school,east,1.2
+1593,15,female,2.8,57,no,none,south,0.0
+2379,16,female,0.2,99,yes,none,east,3.94
+2292,16,female,0.6,97,yes,none,south,0.0
+1042,18,female,3.5,98,no,high school,east,13.13
+2950,17,female,1.9,61,yes,master,south,8.07
+2738,17,male,3.7,54,no,none,east,4.1
+3519,15,male,4.3,81,no,high school,north,7.64
+4085,18,female,1.2,66,yes,high school,south,3.84
+953,16,male,8.4,55,yes,bachelor,south,18.03
+3485,15,female,0.2,60,no,bachelor,east,1.1
+1765,18,female,1.1,50,no,none,south,0.0
+22,16,male,3.1,97,no,high school,south,16.02
+2285,16,female,3.9,58,yes,none,south,16.15
+399,17,female,0.9,53,no,none,south,0.0
+3228,16,female,1.4,66,yes,none,south,0.0
+452,15,female,0.4,56,yes,high school,north,13.78
+2310,18,male,1.9,81,yes,bachelor,south,4.41
+3553,18,male,4.6,93,no,none,south,6.2
+1946,15,female,1.3,83,no,none,south,0.0
+1867,15,female,0.6,67,no,high school,north,1.71
+3754,15,female,1.8,66,no,high school,south,16.0
+2781,18,female,1.2,51,no,master,east,11.04
+2378,18,female,1.3,93,yes,high school,east,16.5
+3235,17,male,4.7,92,yes,none,north,40.31
+1204,18,female,1.2,64,yes,high school,south,4.97
+785,16,female,1.1,82,yes,high school,south,13.07
+2686,17,male,1.5,90,yes,none,east,9.29
+1106,16,male,2.8,67,no,bachelor,north,13.02
+2640,16,male,3.9,67,no,none,north,10.82
+2278,15,male,1.2,52,yes,bachelor,north,14.8
+1791,16,female,0.8,90,no,none,east,0.0
+3879,16,female,0.4,95,yes,none,south,6.28
+3236,18,male,6.0,66,yes,bachelor,south,20.62
+1814,16,male,0.3,92,no,none,west,0.0
+267,17,male,7.9,68,no,high school,south,52.07
+3499,15,female,0.9,97,yes,none,south,0.0
+1421,18,male,1.4,99,no,none,east,12.34
+2234,17,male,0.5,82,yes,none,north,3.14
+3089,15,female,0.7,56,no,high school,south,0.41
+1836,15,female,3.3,99,yes,none,north,12.91
+94,17,male,7.7,89,no,high school,east,28.32
+3201,18,male,0.9,54,yes,bachelor,south,14.5
+1957,15,female,0.9,51,no,none,east,0.0
+1205,16,male,8.1,87,no,none,south,12.76
+2700,18,female,3.8,89,no,high school,east,19.35
+1328,18,female,0.2,50,yes,high school,north,27.58
+2447,15,male,1.1,67,yes,none,north,2.99
+1760,17,male,3.2,66,no,high school,south,7.39
+802,17,male,4.6,56,no,none,south,0.0
+379,15,female,4.7,56,yes,bachelor,east,27.27
+2924,18,female,0.5,91,no,none,south,0.0
+875,18,female,9.7,95,no,bachelor,east,35.89
+3892,18,female,0.8,55,yes,bachelor,south,2.54
+1233,15,male,3.5,96,no,master,south,23.49
+3494,15,male,3.4,62,yes,bachelor,north,15.35
+1548,17,male,0.2,88,yes,high school,east,14.13
+1056,15,female,0.1,90,yes,none,south,1.81
+1898,16,male,1.8,87,no,none,west,8.77
+3093,17,female,1.5,66,yes,high school,west,0.0
+1654,16,male,1.2,64,yes,high school,north,9.11
+3076,15,female,3.5,98,no,high school,south,9.93
+2893,16,female,0.8,90,yes,none,east,0.0
+104,17,female,0.6,93,yes,bachelor,east,7.09
+2984,18,female,8.3,59,yes,bachelor,east,79.24
+2703,15,female,3.8,87,no,high school,north,15.66
+4169,15,male,3.3,90,no,high school,south,4.29
+3129,18,female,1.9,91,no,none,south,0.0
+131,15,female,1.3,97,yes,none,south,0.0
+303,15,male,1.3,91,yes,none,east,14.4
+2865,16,female,0.7,66,no,none,south,0.0
+3940,15,male,0.5,59,no,none,north,0.0
+2925,18,female,0.6,80,no,high school,east,14.91
+3372,16,male,0.5,55,no,high school,north,40.34
+3090,16,male,1.8,91,yes,high school,south,13.58
+3280,16,female,0.7,69,no,high school,north,28.18
+141,15,female,2.0,61,yes,master,east,13.44
+3824,15,female,3.6,61,no,bachelor,south,6.48
+3892,18,female,0.8,55,yes,bachelor,south,2.54
+2382,15,male,6.3,56,no,none,east,26.31
+3117,18,female,3.0,60,no,none,south,0.0
+3992,15,female,3.8,96,no,high school,west,4.54
+2477,15,female,1.8,51,no,none,east,1.72
+4186,16,male,1.7,94,yes,master,west,39.82
+2496,18,female,2.2,87,no,bachelor,south,15.37
+250,18,male,0.3,85,yes,master,east,12.3
+558,16,male,3.1,91,no,bachelor,south,27.13
+3297,18,female,0.3,80,no,high school,west,0.0
+3215,16,female,1.6,55,no,none,south,0.0
+2548,17,male,9.6,85,no,high school,south,29.47
+2688,18,female,6.4,67,yes,high school,north,27.74
+2825,15,male,9.1,55,no,high school,south,14.57
+3528,15,female,2.7,53,no,master,south,0.0
+1362,16,male,3.8,53,no,high school,north,14.62
+1901,18,male,2.0,86,no,high school,south,7.04
+2389,16,male,2.7,50,no,high school,south,22.09
+2910,15,female,0.4,96,yes,high school,west,27.6
+1321,15,male,2.9,97,no,high school,west,10.83
+189,16,female,1.1,54,no,none,south,0.0
+3889,15,male,1.3,82,yes,none,south,0.0
+1554,16,female,8.4,61,yes,master,north,92.75
+3935,16,female,0.5,92,no,bachelor,south,0.0
+2828,15,male,0.3,50,yes,high school,south,4.13
+2386,18,male,1.1,87,yes,high school,east,14.57
+3858,15,female,6.6,81,no,high school,south,12.47
+1842,18,female,3.3,83,yes,bachelor,south,15.9
+1816,15,male,1.6,60,yes,high school,east,29.33
+4144,17,female,1.7,89,no,none,east,1.04
+2137,17,male,6.9,56,no,none,east,7.49
+4040,17,male,3.0,60,no,none,east,0.0
+2964,15,male,0.5,80,yes,bachelor,east,13.9
+3612,15,male,3.8,67,no,master,south,13.78
+4093,16,male,3.5,85,no,master,east,15.67
+1357,16,male,1.0,62,yes,high school,south,12.25
+3950,15,male,1.1,95,yes,none,south,0.0
+3338,15,female,2.9,82,no,none,east,5.24
+2158,15,male,0.5,53,no,bachelor,north,12.7
+391,17,female,2.0,86,yes,master,east,47.63
+1816,15,male,1.6,60,yes,high school,east,29.33
+3542,15,male,0.6,55,no,none,north,4.12
+3957,15,female,5.3,89,yes,none,south,6.3
+4187,16,female,1.6,66,no,bachelor,east,7.94
+4185,18,male,2.5,83,no,none,south,0.0
+4163,15,male,1.2,96,yes,none,west,16.64
+2806,17,male,0.6,62,yes,none,south,0.0
+2947,16,female,4.1,82,no,none,east,8.25
+3837,16,female,7.8,82,yes,bachelor,south,28.96
+3119,17,female,0.3,56,yes,none,west,0.0
+38,16,female,3.2,95,yes,none,east,0.0
+2930,18,male,9.5,54,no,bachelor,south,24.15
+3574,16,female,0.2,66,no,none,north,2.08
+1986,15,male,3.1,54,no,high school,south,0.0
+2964,15,male,0.5,80,yes,bachelor,east,13.9
+1944,16,female,4.5,87,no,high school,south,7.67
+3186,18,female,8.7,52,yes,bachelor,east,27.4
+1339,18,female,1.9,81,no,none,south,2.27
+933,17,male,7.7,58,no,high school,south,15.14
+542,17,male,1.6,81,yes,high school,east,34.42
+2671,17,male,0.1,83,no,bachelor,east,6.12
+1700,18,male,2.4,50,no,bachelor,south,12.15
+2184,16,female,0.9,96,no,bachelor,west,23.3
+3235,17,male,4.7,92,yes,none,north,40.31
+1320,18,male,0.6,63,no,high school,west,0.0
+2613,17,female,1.6,80,no,none,west,1.34
+319,17,female,4.1,88,yes,none,north,13.93
+3517,16,male,0.4,54,yes,bachelor,east,3.88
+2552,16,female,3.2,93,no,high school,south,0.0
+3448,17,male,4.4,58,no,none,south,0.0
+3392,18,male,3.8,94,no,high school,north,18.25
+2455,16,female,1.0,83,yes,none,south,0.0
+1282,16,female,1.6,97,yes,bachelor,south,11.78
+2002,15,female,0.6,94,no,high school,north,18.16
+3259,16,female,4.5,53,no,none,east,0.9
+1001,15,male,0.4,58,no,bachelor,south,0.0
+2651,18,male,0.2,69,no,high school,east,13.85
+3989,18,male,0.1,68,no,none,south,0.0
+2626,18,female,0.2,81,no,bachelor,west,4.93
+1707,15,male,8.4,91,yes,none,south,27.7
+3153,18,female,0.8,94,no,high school,north,13.48
+3607,15,female,1.7,63,no,none,east,0.25
+1101,15,female,0.5,99,yes,none,east,0.45
+3225,15,female,0.3,96,no,bachelor,south,2.53
+2436,18,male,4.1,98,no,none,south,0.0
+1126,16,male,0.9,85,no,none,east,0.0
+1498,15,female,3.2,65,yes,none,east,5.51
+2719,18,male,1.9,97,yes,high school,south,4.44
+2082,16,male,5.2,90,yes,high school,east,35.96
+2186,17,male,1.9,90,yes,high school,east,16.34
+3160,15,male,3.9,81,no,high school,east,6.81
+646,17,male,0.7,64,no,high school,south,0.0
+2120,15,male,2.1,83,yes,none,north,6.33
+1787,17,female,0.4,55,no,none,south,0.0
+116,15,female,0.8,62,yes,bachelor,south,12.06
+1026,15,female,2.3,84,yes,high school,south,5.02
+910,15,female,7.7,90,no,none,south,47.61
+1301,16,female,2.6,84,no,none,south,5.81
+2672,15,male,2.9,85,yes,high school,east,17.15
+3277,15,female,0.1,96,yes,none,north,9.6
+3642,15,female,4.5,53,no,high school,south,3.57
+1528,16,male,3.6,96,yes,none,east,10.18
+2827,16,female,0.4,87,no,none,east,0.0
+516,16,female,2.5,97,no,high school,south,24.31
+3345,17,female,2.7,95,yes,none,south,0.0
+3068,18,male,6.1,87,no,high school,east,13.91
+494,16,male,2.1,54,yes,none,north,3.27
+3438,18,male,3.8,90,no,high school,south,6.87
+1341,15,female,1.4,52,yes,none,south,0.0
+758,18,male,0.8,96,no,none,east,10.69
+3273,18,male,9.3,92,no,none,south,40.12
+2529,17,female,3.1,61,yes,none,west,0.0
+3933,17,female,2.8,57,no,high school,south,0.0
+521,16,female,2.1,80,no,bachelor,south,18.23
+2141,18,female,1.1,82,no,high school,south,10.43
+3269,15,male,0.8,62,yes,bachelor,south,27.35
+2894,16,male,1.0,89,no,none,south,0.0
+2483,18,male,1.6,54,no,high school,east,9.42
+4013,17,male,3.8,90,yes,bachelor,east,15.67
+159,16,male,1.8,89,no,none,south,0.0
+3835,15,female,1.3,97,no,none,east,0.0
+2888,18,female,0.2,98,no,high school,south,7.13
+1493,15,male,1.1,91,no,high school,south,0.0
+3334,18,male,0.6,85,no,bachelor,east,10.01
+4017,15,male,4.8,80,yes,master,south,34.76
+3641,15,female,2.8,94,yes,high school,south,5.32
+3278,15,male,2.4,58,no,high school,north,9.56
+2534,15,female,6.2,95,no,none,south,7.84
+1410,18,male,4.6,66,yes,high school,north,51.49
+554,18,male,0.6,65,yes,high school,east,0.0
+536,15,male,1.0,84,yes,high school,east,22.72
+705,17,female,5.0,67,no,master,south,30.03
+2128,17,male,6.4,62,no,high school,south,9.89
+193,18,male,0.5,57,no,none,north,0.0
+3532,18,female,0.3,87,no,high school,south,3.39
+1962,16,male,1.3,81,yes,high school,south,7.16
+3978,16,male,1.0,68,no,bachelor,south,1.95
+2690,16,female,1.8,96,yes,bachelor,east,18.46
+2323,18,male,7.8,84,no,high school,south,14.36
+1148,17,female,8.8,87,yes,high school,south,23.15
+3805,15,female,1.2,96,no,bachelor,north,18.79
+710,18,male,1.2,64,no,high school,south,10.71
+3124,16,male,1.7,95,yes,none,south,0.0
+767,18,female,0.5,92,yes,high school,south,12.95
+1833,15,female,2.0,93,no,none,north,5.41
+1098,18,female,3.7,83,yes,none,north,6.09
+3613,15,male,5.3,84,no,master,west,18.95
+490,16,male,3.1,94,no,none,south,0.0
+3830,17,male,0.9,63,no,master,south,11.58
+100,15,male,0.5,91,yes,high school,south,0.0
+1641,16,female,5.0,93,yes,high school,south,12.51
+846,17,female,1.4,89,no,bachelor,south,14.8
+4028,16,female,1.9,67,yes,high school,south,0.0
+1190,18,female,1.4,89,no,high school,south,5.07
+1687,15,male,0.5,99,no,high school,north,9.85
+478,16,female,3.6,82,no,none,west,1.28
+1512,18,female,0.6,80,no,high school,north,12.74
+4110,17,female,4.7,81,yes,high school,north,16.4
+3856,15,male,0.2,60,yes,high school,south,4.44
+1372,17,female,1.9,57,yes,high school,east,7.63
+1937,18,female,4.3,63,no,high school,east,15.78
+4161,18,female,1.9,80,no,high school,east,15.28
+2092,16,male,1.5,81,no,master,south,7.23
+3234,16,male,3.7,98,yes,high school,south,5.08
+3036,18,male,1.2,91,yes,master,south,8.6
+482,15,male,0.7,83,no,none,east,0.0
+1467,15,male,0.3,68,yes,high school,south,0.44
+1459,15,female,4.1,87,no,none,east,18.69
+966,18,female,1.8,85,no,none,east,4.03
+449,18,male,8.8,85,no,high school,south,51.64
+999,15,male,0.1,94,no,high school,north,0.95
+232,18,male,0.5,56,no,high school,south,0.0
+2973,16,female,1.1,93,no,none,south,0.0
+3523,15,male,8.4,54,yes,none,south,11.48
+976,16,male,4.3,92,yes,none,north,24.28
+1204,18,female,1.2,64,yes,high school,south,4.97
+568,15,female,4.3,81,no,high school,south,10.39
+3264,18,male,1.4,65,no,none,west,0.0
+1165,16,male,0.3,56,no,master,east,26.82
+331,16,male,2.1,53,no,none,south,0.0
+570,17,male,1.7,88,yes,high school,north,16.5
+527,15,male,4.3,59,yes,high school,south,38.64
+1683,18,male,1.9,88,yes,none,north,9.43
+2861,18,male,1.0,83,no,none,north,0.0
+344,17,female,4.0,81,no,none,east,0.0
+453,15,female,1.3,87,yes,bachelor,south,6.51
+4070,16,female,1.3,80,yes,none,north,3.98
+2453,18,female,1.4,88,no,high school,south,10.35
+2072,15,female,1.9,90,no,bachelor,south,8.79
+315,17,male,4.0,99,no,none,east,15.52
+2596,16,female,1.0,63,yes,bachelor,south,8.19
+788,16,female,1.2,88,yes,none,south,0.0
+3059,17,male,1.4,67,yes,none,south,0.0
+138,15,female,0.3,67,yes,bachelor,south,0.0
+3479,15,male,4.1,67,yes,high school,east,9.32
+563,15,male,8.8,88,yes,high school,south,38.55
+1412,15,female,4.3,68,no,none,east,0.56
+2465,17,female,0.6,65,no,bachelor,east,7.2
+394,16,male,1.1,93,yes,high school,south,1.27
+2269,18,male,0.4,54,no,bachelor,south,0.0
+919,15,male,0.9,53,yes,none,south,0.0
+200,18,male,8.5,60,yes,bachelor,south,25.25
+1858,15,male,0.4,66,yes,high school,east,0.0
+3154,15,male,4.9,82,yes,high school,east,19.88
+3196,15,male,0.2,81,no,high school,south,0.0
+2607,16,male,1.6,80,no,high school,south,3.35
+2660,18,male,0.3,93,no,high school,east,30.56
+2326,16,female,5.7,89,yes,high school,south,31.48
+599,16,male,0.4,58,no,high school,west,0.0
+4177,18,female,5.4,91,no,high school,north,17.77
+412,17,male,4.1,82,no,high school,east,9.51
+953,16,male,8.4,55,yes,bachelor,south,18.03
+1044,15,female,2.5,82,no,high school,north,5.85
+1500,17,female,1.3,99,no,high school,east,5.85
+862,17,female,4.3,62,no,none,north,15.81
+3077,15,male,1.4,99,yes,high school,north,37.81
+1013,18,male,0.4,98,yes,none,east,0.0
+583,16,female,3.9,98,yes,high school,south,7.11
+4225,16,male,3.5,88,no,high school,south,12.07
+2008,16,female,0.7,80,yes,bachelor,south,0.28
+4209,18,female,9.9,60,no,none,east,23.51
+828,17,male,2.0,92,no,high school,east,9.27
+1770,16,female,1.2,54,yes,bachelor,east,10.52
+728,17,male,1.8,61,no,high school,north,15.75
+2769,17,male,0.2,55,yes,master,east,16.09
+4180,15,male,0.3,96,yes,none,south,0.0
+1897,16,male,0.3,60,yes,none,south,0.0
+1904,18,female,0.3,93,yes,high school,east,6.45
+2386,18,male,1.1,87,yes,high school,east,14.57
+3995,16,female,0.5,90,yes,high school,south,2.99
+2662,18,male,1.2,64,yes,master,east,9.8
+342,18,female,9.2,85,yes,high school,north,29.49
+3417,16,female,8.0,94,yes,none,south,17.26
+2840,17,female,4.4,55,yes,none,west,4.98
+853,15,female,9.7,69,no,high school,south,71.89
+2226,15,male,4.1,53,yes,high school,west,26.28
+2024,15,female,1.5,89,yes,bachelor,south,10.27
+3706,18,male,7.0,65,no,high school,south,22.81
+1006,15,female,0.8,81,yes,bachelor,east,12.26
+1345,18,female,2.4,54,no,master,south,2.32
+3515,17,female,2.0,99,no,none,north,7.78
+2836,16,female,1.2,83,yes,none,south,5.29
+130,18,male,2.6,81,no,master,south,29.24
+1441,18,female,1.4,64,no,high school,south,3.53
+1878,16,male,0.1,88,no,none,south,0.0
+4135,15,female,1.5,84,no,none,west,0.0
+2526,15,female,3.2,66,no,high school,west,0.0
+1532,15,female,4.5,91,no,bachelor,north,18.76
+2692,18,male,0.4,82,yes,none,east,0.0
+1722,18,male,1.1,97,yes,bachelor,east,36.47
+3766,16,female,1.1,63,no,high school,north,5.6
+2579,17,female,4.7,97,no,high school,south,10.1
+2067,18,male,1.6,68,no,high school,east,5.78
+2520,17,female,0.6,58,no,high school,north,3.89
+643,15,female,0.5,92,no,high school,south,3.14
+3662,15,female,0.3,62,no,bachelor,south,0.56
+1735,16,male,1.0,80,no,high school,north,3.64
+3024,16,female,1.0,58,no,none,south,0.0
+1384,18,female,1.0,91,no,none,south,0.0
+1648,17,male,3.1,98,yes,high school,east,14.7
+2910,15,female,0.4,96,yes,high school,west,27.6
+2034,18,male,1.7,59,no,high school,south,0.0
+2489,16,male,3.3,88,yes,bachelor,south,14.67
+1618,18,male,3.7,68,no,high school,west,25.91
+2620,17,female,2.4,81,no,high school,east,9.57
+2108,16,female,4.9,64,no,high school,south,12.21
+1378,15,male,2.9,93,no,master,south,16.62
+33,15,female,1.5,82,yes,high school,east,10.96
+3991,16,female,2.0,85,no,high school,east,16.93
+2371,15,female,3.5,69,yes,bachelor,west,7.25
+375,15,female,2.1,95,yes,high school,east,9.9
+2309,15,male,3.7,98,no,high school,east,11.3
+4193,16,female,2.4,98,no,high school,east,13.95
+1468,15,male,3.2,86,yes,none,south,5.11
+1207,16,female,2.9,58,no,none,east,3.17
+2098,16,female,2.7,93,yes,master,south,6.68
+3080,15,male,4.1,56,yes,none,south,14.29
+1719,15,female,0.8,80,no,bachelor,west,8.33
+927,18,female,0.6,58,no,master,south,9.53
+1574,16,male,1.7,92,no,high school,east,8.61
+1984,16,male,6.2,89,yes,high school,west,64.2
+216,16,female,2.3,94,no,high school,south,27.68
+2525,16,female,2.1,97,yes,high school,east,5.66
+481,18,male,0.7,56,no,high school,south,0.0
+3826,17,female,1.8,59,yes,bachelor,east,31.08
+848,16,male,3.1,94,no,none,south,12.34
+3799,15,female,0.8,97,no,high school,south,0.0
+2359,18,female,3.7,81,no,master,east,19.17
+2754,17,male,0.6,84,no,high school,south,2.43
+859,17,female,2.2,88,no,high school,south,0.0
+3509,16,male,1.0,85,yes,high school,east,0.0
+1243,16,male,9.9,53,yes,high school,south,21.33
+1880,15,male,0.4,90,no,none,south,0.0
+824,16,female,1.4,80,no,high school,east,6.62
+2965,15,female,6.3,98,no,bachelor,north,35.69
+78,15,male,1.3,58,no,bachelor,south,5.66
+515,18,male,0.7,98,no,high school,east,4.51
+249,18,male,0.8,66,no,high school,south,4.33
+591,17,male,0.6,86,yes,high school,west,6.93
+4188,18,male,1.8,95,no,none,west,0.0
+1734,17,female,0.4,91,no,master,south,3.74
+3751,15,male,1.9,69,yes,none,south,0.0
+3094,18,female,3.6,81,yes,none,east,42.04
+3964,16,female,2.5,99,yes,none,south,2.45
+186,17,female,3.4,91,yes,high school,south,4.79
+4003,18,female,1.6,59,yes,none,east,13.26
+831,18,male,1.1,99,yes,bachelor,east,12.55
+275,15,male,0.7,68,no,none,east,0.0
+1697,16,male,1.4,95,no,none,south,0.0
+2789,15,female,0.2,67,no,bachelor,east,0.0
+358,15,male,3.2,84,yes,master,south,15.75
+1759,15,female,0.5,95,no,none,south,0.0
+2285,16,female,3.9,58,yes,none,south,16.15
+3923,16,female,1.0,94,yes,high school,south,26.35
+4045,15,female,1.0,97,yes,none,north,0.03
+3734,17,female,1.6,85,yes,none,south,0.0
+4044,18,female,4.3,91,yes,none,south,6.23
+4146,18,female,2.4,92,yes,none,east,0.0
+2569,17,male,1.4,51,yes,bachelor,north,12.79
+1238,16,female,0.3,90,no,high school,north,7.0
+1465,18,female,1.9,86,no,high school,north,26.71
+1870,17,female,0.2,54,yes,bachelor,north,38.53
+3618,17,female,4.9,95,no,master,south,25.77
+2942,16,female,1.5,51,yes,bachelor,east,2.68
+1178,15,female,7.9,52,no,master,east,80.59
+2962,16,male,0.4,95,yes,high school,north,5.48
+1639,18,male,5.3,98,no,high school,west,14.11
+4038,17,male,2.9,88,yes,none,south,3.16
+96,15,male,1.9,54,yes,high school,south,9.08
+4133,16,male,0.3,64,yes,high school,south,0.0
+3588,15,male,1.3,97,no,bachelor,south,16.63
+3490,17,male,5.0,99,yes,none,east,15.13
+3891,18,male,1.1,82,no,high school,west,7.64
+1940,16,male,1.0,96,yes,master,east,15.24
+3606,17,female,1.5,98,no,high school,north,8.53
+984,15,female,0.9,86,no,none,north,0.99
+3885,18,female,1.3,61,yes,none,east,0.0
+4106,15,female,4.9,98,no,none,east,13.45
+42,15,female,2.7,90,no,bachelor,south,4.9
+3126,17,female,3.0,51,no,high school,east,38.98
+2054,18,female,0.1,99,no,none,south,0.0
+3451,16,male,4.8,56,yes,bachelor,east,14.04
+2805,18,female,0.9,50,yes,high school,north,16.54
+1641,16,female,5.0,93,yes,high school,south,12.51
+3563,18,male,1.2,91,no,bachelor,west,4.14
+385,15,male,0.3,85,no,high school,south,0.0
+1668,15,male,0.2,96,no,none,north,0.83
+2470,15,male,1.4,66,no,none,south,0.0
+3101,18,male,1.0,94,yes,master,west,6.63
+2187,17,female,1.9,62,no,high school,east,23.83
+261,18,male,0.6,81,no,bachelor,south,0.0
+210,18,female,2.0,58,no,high school,south,0.0
+3482,15,female,1.3,95,yes,high school,east,4.01
+930,18,male,4.8,84,no,bachelor,north,29.89
+3540,18,male,0.7,68,no,none,east,0.0
+2172,15,female,1.7,82,yes,none,west,4.72
+2873,18,male,1.4,86,yes,none,south,4.43
+1199,17,male,1.8,64,no,none,north,0.0
+3100,16,male,0.7,54,no,none,east,0.0
+3530,17,male,2.8,95,no,high school,west,29.61
+1167,15,male,4.3,64,yes,bachelor,east,16.72
+2019,17,female,4.1,96,no,bachelor,east,24.41
+1098,18,female,3.7,83,yes,none,north,6.09
+2962,16,male,0.4,95,yes,high school,north,5.48
+2455,16,female,1.0,83,yes,none,south,0.0
+29,18,male,1.8,86,no,bachelor,north,22.93
+1411,18,male,1.8,53,yes,bachelor,east,10.13
+850,16,male,1.4,89,no,high school,east,4.91
+2306,17,male,0.6,82,yes,high school,north,1.71
+374,16,male,4.7,82,yes,high school,east,9.92
+2807,18,female,1.7,93,no,bachelor,south,5.0
+2028,18,male,4.1,52,yes,bachelor,east,25.31
+3066,17,male,7.0,90,yes,none,south,26.1
+2090,15,female,1.5,90,yes,high school,east,13.21
+3156,15,female,0.2,58,no,none,south,0.0
+156,18,female,8.2,65,no,high school,north,56.52
+327,16,female,3.8,56,no,none,east,10.46
+2685,15,male,0.4,91,no,high school,east,6.75
+2343,16,male,2.4,64,yes,none,south,0.0
+2550,17,female,0.4,86,no,none,east,6.84
+135,15,female,3.3,92,no,none,east,2.2
+3888,15,male,9.4,63,yes,bachelor,south,20.2
+123,15,female,0.1,94,no,high school,north,7.7
+1640,16,female,4.3,67,yes,none,south,0.94
+2716,17,male,1.0,96,yes,high school,east,3.07
+2646,15,male,1.6,84,no,bachelor,south,17.7
+932,18,female,4.6,95,no,high school,east,8.99
+1544,18,female,1.8,56,yes,none,south,0.0
+3368,18,male,1.5,84,no,none,east,2.59
+856,16,male,2.5,68,yes,none,east,1.33
+720,16,female,4.2,89,no,none,north,0.0
+3495,16,female,0.8,84,no,high school,south,0.0
+2395,18,male,1.1,65,no,high school,south,0.0
+14,15,female,0.2,80,yes,none,west,0.0
+1387,18,male,4.4,51,no,bachelor,east,11.59
+96,15,male,1.9,54,yes,high school,south,9.08
+3358,18,female,0.3,84,no,bachelor,west,3.22
+1877,16,male,0.2,90,no,bachelor,south,16.55
+2768,15,female,0.2,54,no,master,south,0.0
+396,16,female,0.9,99,yes,high school,south,8.22
+2736,16,female,4.4,62,yes,high school,south,28.09
+4182,15,female,0.3,66,yes,none,south,0.0
+3167,16,male,3.9,56,no,bachelor,south,26.84
+2330,15,female,8.9,83,no,high school,north,51.97
+1988,18,female,4.3,83,yes,high school,south,11.43
+2306,17,male,0.6,82,yes,high school,north,1.71
+1003,16,female,2.4,93,yes,high school,west,11.83
+3831,17,female,0.7,80,no,none,west,0.0
+3315,16,female,5.9,95,yes,bachelor,west,23.88
+3893,18,male,1.2,99,no,none,north,0.0
+256,18,female,3.0,63,no,master,south,56.5
+2686,17,male,1.5,90,yes,none,east,9.29
+1932,15,male,0.9,89,no,none,east,3.23
+3822,18,female,1.2,61,no,none,east,0.02
+2936,16,male,0.3,91,yes,high school,south,0.0
+2808,18,male,4.5,80,no,none,south,0.0
+4097,17,male,3.8,63,no,high school,north,3.11
+4180,15,male,0.3,96,yes,none,south,0.0
+1979,16,male,0.6,98,no,none,south,0.0
+856,16,male,2.5,68,yes,none,east,1.33
+2360,17,male,4.3,83,no,bachelor,north,16.87
+536,15,male,1.0,84,yes,high school,east,22.72
+2312,16,female,1.8,86,no,none,south,0.0
+513,18,female,8.3,58,no,none,south,35.1
+812,16,female,1.9,85,no,master,south,4.42
+3827,17,male,0.3,59,no,none,south,0.0
+3436,16,female,1.0,87,no,high school,south,1.47
+1033,15,female,4.5,60,no,none,south,0.0
+4123,16,male,2.4,93,no,none,west,0.0
+2690,16,female,1.8,96,yes,bachelor,east,18.46
+2254,18,female,9.5,82,yes,none,south,25.86
+1146,16,male,0.7,59,no,high school,south,0.0
+856,16,male,2.5,68,yes,none,east,1.33
+2024,15,female,1.5,89,yes,bachelor,south,10.27
+3424,16,male,0.6,84,no,none,south,0.0
+255,17,female,0.1,87,no,high school,west,4.08
+1287,16,male,8.3,87,yes,high school,east,25.63
+4045,15,female,1.0,97,yes,none,north,0.03
+1020,15,male,0.3,64,no,none,west,0.0
+635,16,male,1.1,61,yes,bachelor,north,13.61
+2091,15,female,1.9,83,yes,bachelor,south,0.02
+2786,16,female,1.1,92,yes,none,east,0.0
+4132,15,female,4.7,89,no,none,east,27.43
+2267,15,male,2.7,98,yes,none,east,10.34
+2850,18,female,0.1,91,no,high school,east,4.38
+338,17,male,0.7,62,no,high school,west,13.88
+1038,17,female,1.7,80,no,high school,west,10.69
+1091,16,male,9.4,97,no,high school,west,25.83
+1311,16,female,1.7,55,no,none,south,0.0
+3518,18,male,1.0,61,no,none,east,0.0
+4130,17,male,1.1,94,yes,high school,north,16.85
+1530,15,male,2.3,86,yes,none,east,0.87
+37,15,male,3.2,54,yes,none,east,0.0
+2240,17,male,2.0,58,no,bachelor,west,9.15
+2112,15,male,1.7,58,no,high school,east,0.2
+252,18,female,4.5,86,no,high school,east,12.62
+2786,16,female,1.1,92,yes,none,east,0.0
+1228,16,female,1.8,90,no,high school,north,13.79
+1794,16,male,0.8,61,no,high school,south,0.7
+2982,17,female,0.9,94,no,none,north,0.0
+3145,17,female,1.4,90,yes,high school,east,3.89
+4231,16,female,0.7,93,yes,high school,south,1.17
+2731,18,male,0.3,64,no,high school,east,6.45
+3253,15,female,1.1,83,no,bachelor,east,13.96
+3931,15,female,0.6,87,no,none,south,0.0
+466,16,male,0.9,56,no,none,west,0.0
+856,16,male,2.5,68,yes,none,east,1.33
+2094,16,female,0.3,62,no,bachelor,east,9.57
+3837,16,female,7.8,82,yes,bachelor,south,28.96
+2521,18,male,3.8,89,yes,bachelor,south,29.88
+1234,15,male,5.6,87,no,none,south,8.55
+2980,15,male,4.5,59,no,bachelor,north,18.68
+3950,15,male,1.1,95,yes,none,south,0.0
+1567,18,male,3.0,87,yes,high school,east,16.17
+1472,16,female,6.3,57,no,none,west,8.16
+2995,15,male,6.8,54,yes,bachelor,south,16.56
+375,15,female,2.1,95,yes,high school,east,9.9
+791,18,female,3.3,57,no,high school,east,1.82
+3511,16,female,1.7,99,no,none,south,9.51
+1463,16,female,2.3,88,no,bachelor,east,20.65
+3314,15,male,1.7,87,yes,high school,south,5.92
+3378,17,female,4.6,90,no,none,west,10.94
+2608,16,female,2.1,61,yes,master,south,16.26
+2147,15,female,0.3,84,no,none,north,0.0
+3298,18,male,9.4,82,no,master,south,34.11
+3603,17,female,0.4,86,yes,master,north,19.27
+1357,16,male,1.0,62,yes,high school,south,12.25
+577,15,female,7.7,50,no,none,south,16.44
+273,17,male,1.0,95,yes,master,east,24.85
+1731,17,female,1.1,88,no,none,south,0.13
+2683,16,female,4.3,54,no,master,north,11.14
+2107,17,female,1.6,93,yes,high school,east,14.93
+3899,16,female,4.0,98,yes,none,south,7.18
+1426,16,male,2.0,61,no,high school,west,0.0
+3323,17,male,1.9,88,no,none,south,2.25
+1698,18,male,3.1,51,yes,none,south,0.0
+953,16,male,8.4,55,yes,bachelor,south,18.03
+2774,15,male,0.9,88,no,none,east,0.0
+1625,16,female,1.4,92,no,high school,south,3.32
+2200,18,male,1.9,91,no,high school,west,11.32
+2776,18,male,0.7,88,no,bachelor,east,8.97
+1170,15,male,1.7,94,no,high school,west,4.49
+2281,18,male,2.4,92,no,none,south,0.0
+34,16,male,0.2,80,no,none,south,0.0
+1446,18,female,3.9,51,no,high school,north,11.65
+1385,18,female,2.7,58,yes,none,north,12.63
+3720,16,female,1.8,82,no,bachelor,north,15.12
+494,16,male,2.1,54,yes,none,north,3.27
+2352,18,male,4.9,55,yes,none,south,5.95
+358,15,male,3.2,84,yes,master,south,15.75
+3154,15,male,4.9,82,yes,high school,east,19.88
+1046,18,male,1.3,53,no,high school,east,7.76
+4048,15,male,1.2,51,yes,none,north,1.91
+3499,15,female,0.9,97,yes,none,south,0.0
+741,18,male,1.5,63,no,high school,south,0.0
+37,15,male,3.2,54,yes,none,east,0.0
+1813,17,female,1.8,56,no,none,east,8.74
+3020,15,female,5.6,82,yes,high school,south,41.73
+2755,16,female,2.9,64,no,none,east,0.77
+2305,16,male,1.7,85,no,none,south,0.0
+893,16,female,6.0,90,no,high school,south,10.32
+233,16,male,4.3,96,no,bachelor,north,20.87
+4178,17,male,8.9,96,no,none,north,25.54
+3077,15,male,1.4,99,yes,high school,north,37.81
+2062,16,male,4.3,99,no,high school,south,13.79
+4136,16,female,7.0,87,no,none,south,9.82
+2820,15,female,1.8,80,no,high school,south,4.34
+1848,18,female,0.6,87,yes,bachelor,south,8.61
+317,16,male,1.2,61,yes,master,south,16.25
+3677,18,female,6.9,89,yes,high school,east,59.89
+3879,16,female,0.4,95,yes,none,south,6.28
+2498,15,female,0.6,87,no,high school,south,1.56
+589,18,male,2.1,81,yes,high school,south,30.58
+1116,15,female,1.0,81,no,high school,east,20.23
+1069,17,female,1.9,53,no,none,west,1.03
+3411,16,male,0.1,82,no,high school,east,1.76
+2118,16,female,1.8,90,no,bachelor,west,25.55
+1241,18,male,6.8,58,no,none,west,11.12
+3889,15,male,1.3,82,yes,none,south,0.0
+3997,17,male,4.7,62,yes,master,south,12.35
+3127,18,male,0.2,51,yes,high school,east,4.74
+3311,17,male,3.7,50,yes,high school,north,10.65
+2809,16,male,3.1,83,yes,none,east,4.43
+4076,18,male,2.5,63,no,high school,south,0.0
+1632,15,female,0.3,53,yes,none,east,0.0
+657,15,male,2.3,96,yes,high school,south,22.52
+1130,18,female,3.7,54,no,bachelor,south,27.62
+287,17,male,0.7,57,no,high school,east,11.66
+1240,18,male,4.5,89,yes,bachelor,east,53.4
+3982,17,male,1.5,85,yes,high school,west,9.67
+2223,16,female,2.4,66,no,none,east,0.0
+4163,15,male,1.2,96,yes,none,west,16.64
+524,17,male,1.8,68,no,none,east,0.0
+3197,17,female,0.5,96,no,master,west,6.21
+388,17,female,0.7,88,yes,high school,south,0.0
+3177,16,female,3.1,69,no,none,east,5.3
+3165,15,male,7.7,85,yes,master,north,93.38
+3998,16,male,9.8,85,no,high school,east,31.0
+3189,16,female,1.1,98,yes,high school,west,0.0
+1086,15,female,0.8,82,no,high school,south,8.13
+1928,15,female,0.3,61,no,none,south,0.0
+1528,16,male,3.6,96,yes,none,east,10.18
+3134,16,male,4.5,90,no,high school,east,6.8
+1210,18,female,2.7,67,yes,master,west,23.2
+1991,16,male,1.9,62,yes,bachelor,south,21.21
+325,15,male,1.7,95,yes,high school,south,8.47
+3048,15,female,1.6,80,no,master,south,11.38
+1133,15,female,1.1,64,no,high school,south,0.0
+2708,15,female,7.2,68,no,none,east,4.12
+991,18,female,4.2,93,no,none,south,11.51
+919,15,male,0.9,53,yes,none,south,0.0
+755,15,female,1.9,51,yes,bachelor,south,16.12
+4074,17,male,1.9,59,yes,none,south,0.11
+920,17,male,1.7,66,yes,high school,south,0.0
+3580,18,male,1.7,97,no,high school,east,2.77
+993,15,female,4.8,97,no,high school,east,17.81
+4215,17,male,2.9,90,no,high school,south,12.03
+2544,18,female,0.7,91,no,master,north,18.23
+2292,16,female,0.6,97,yes,none,south,0.0
+2998,15,male,1.1,54,yes,master,north,47.74
+3850,17,male,1.2,91,yes,none,south,0.0
+1619,15,female,0.1,87,yes,none,south,21.2
+3310,17,male,6.9,69,yes,high school,east,16.14
+1404,15,female,4.4,97,no,none,south,6.15
+777,15,male,9.8,69,no,high school,east,31.34
+170,15,male,3.1,69,yes,none,south,0.42
+3597,17,female,4.8,91,yes,none,south,1.77
+4141,15,male,3.4,64,yes,none,east,3.97
+349,15,male,9.6,60,no,high school,north,27.65
+740,18,male,0.7,83,no,bachelor,south,0.0
+1340,18,male,4.3,61,no,high school,south,10.87
+2610,16,male,2.3,62,no,bachelor,south,3.92
+3861,17,female,2.2,93,no,high school,south,5.77
+3047,17,female,3.1,65,no,none,south,0.0
+2342,17,male,2.6,98,yes,high school,east,19.45
+3329,17,female,1.6,58,yes,none,west,0.0
+2684,18,male,2.1,67,yes,high school,north,10.7
+3826,17,female,1.8,59,yes,bachelor,east,31.08
+1327,16,female,1.4,83,no,high school,east,0.0
+1959,15,female,3.9,52,yes,none,south,0.0
+1559,17,female,0.6,98,no,high school,south,10.44
+2547,18,male,0.2,62,no,bachelor,south,1.04
+1030,18,female,2.3,60,no,high school,south,0.38
+2177,16,male,0.8,52,yes,master,east,43.25
+583,16,female,3.9,98,yes,high school,south,7.11
+787,15,female,0.8,94,no,master,south,20.6
+2926,15,female,2.1,62,no,none,north,6.19
+3124,16,male,1.7,95,yes,none,south,0.0
+570,17,male,1.7,88,yes,high school,north,16.5
+1026,15,female,2.3,84,yes,high school,south,5.02
+387,15,female,8.3,86,yes,none,north,62.59
+471,17,female,2.0,58,no,high school,south,0.0
+1101,15,female,0.5,99,yes,none,east,0.45
+1072,18,female,2.5,87,no,high school,north,38.67
+2484,16,male,0.9,99,no,high school,south,0.22
+971,17,female,1.2,97,no,high school,north,29.69
+1263,18,male,1.4,58,no,high school,east,6.74
+1080,15,female,2.5,91,no,bachelor,east,50.67
+3512,15,female,0.9,84,no,none,east,0.0
+2913,17,female,1.5,85,yes,bachelor,south,10.26
+2386,18,male,1.1,87,yes,high school,east,14.57
+2568,18,female,2.0,92,yes,none,east,5.04
+2285,16,female,3.9,58,yes,none,south,16.15
+2693,15,female,0.5,85,no,high school,north,0.0
+3444,16,female,2.0,86,yes,high school,south,0.0
+1891,15,female,0.6,62,yes,none,south,0.0
+1851,15,female,8.2,83,yes,none,south,43.71
+2345,15,female,1.8,98,no,high school,south,18.51
+2028,18,male,4.1,52,yes,bachelor,east,25.31
+3043,17,male,1.9,87,yes,high school,east,14.55
+3855,15,female,0.5,68,yes,bachelor,south,3.81
+1695,16,female,2.7,54,no,none,north,0.0
+795,15,female,0.9,61,no,bachelor,south,0.0
+3140,15,male,1.4,98,no,high school,south,11.76
+2931,18,female,6.7,50,no,master,south,13.95
+1677,17,female,4.7,91,yes,none,south,14.46
+1924,15,male,1.9,83,yes,bachelor,west,0.0
+3397,18,male,1.6,86,no,none,north,10.02
+3075,17,male,1.0,96,no,bachelor,west,3.48
+947,18,male,5.1,66,no,none,south,0.0
+109,15,male,1.5,99,yes,bachelor,south,12.64
+1201,17,female,6.9,50,no,none,east,11.69
+3333,15,female,1.9,94,no,none,south,6.78
+1872,18,male,3.0,65,yes,master,east,15.31
+1904,18,female,0.3,93,yes,high school,east,6.45
+4095,15,female,3.2,81,yes,none,north,10.41
+423,15,female,1.5,82,no,bachelor,north,33.41
+2645,18,female,1.5,93,no,high school,south,4.95
+3683,18,male,1.2,56,no,none,south,0.0
+150,16,male,5.7,89,no,bachelor,east,25.83
+311,17,female,1.7,82,yes,master,east,20.4
+1344,18,male,0.4,61,no,high school,north,8.74
+2864,17,male,2.7,88,no,high school,east,17.63
+222,15,female,1.2,81,no,high school,south,12.7
+2322,18,female,3.3,55,yes,high school,east,6.34
+1395,17,female,1.7,63,no,none,south,0.0
+1105,18,female,4.3,89,yes,none,west,0.0
+3775,17,female,1.5,90,yes,none,north,14.16
+1632,15,female,0.3,53,yes,none,east,0.0
+310,18,female,1.8,94,no,none,south,0.0
+894,17,female,0.6,81,yes,none,east,0.19
+3946,17,female,0.5,92,no,none,south,0.0
+1231,18,female,1.5,90,no,high school,south,6.18
+1881,17,female,3.7,53,no,high school,south,5.28
+1714,18,female,1.5,51,no,high school,south,2.59
+760,18,male,4.2,53,yes,none,north,1.1
+3790,18,female,1.5,94,yes,none,south,0.0
+3276,15,male,9.2,82,no,bachelor,north,35.21
+147,15,male,2.7,87,yes,high school,west,6.25
+2438,17,female,2.0,56,no,high school,west,4.05
+3281,18,female,1.2,89,yes,none,east,6.46
+1921,15,male,0.6,51,no,high school,north,0.0
+1401,16,male,4.7,81,no,none,east,22.05
+3145,17,female,1.4,90,yes,high school,east,3.89
+3439,18,female,4.1,92,no,bachelor,south,7.46
+574,15,female,4.6,96,no,high school,south,35.62
+3206,17,female,5.6,94,no,high school,north,22.05
+53,17,male,1.6,85,no,bachelor,south,0.0
+3316,17,female,4.8,96,no,none,south,5.12
+3697,16,male,2.0,87,no,high school,south,10.09
+3865,17,male,1.2,99,yes,none,east,3.55
+976,16,male,4.3,92,yes,none,north,24.28
+2571,16,male,0.3,61,yes,none,east,0.0
+1552,18,male,1.7,94,no,bachelor,east,10.12
+687,16,male,0.6,90,yes,none,south,6.25
+4218,15,male,1.3,67,no,none,east,0.0
+1705,16,male,1.9,98,no,bachelor,south,13.13
+1036,16,female,3.8,60,yes,bachelor,south,13.4
+1770,16,female,1.2,54,yes,bachelor,east,10.52
+4046,18,female,1.5,84,no,none,south,0.0
+138,15,female,0.3,67,yes,bachelor,south,0.0
+1597,17,male,1.2,91,yes,none,south,0.0
+4010,16,female,2.3,60,no,none,west,5.63
+3872,15,female,0.6,81,no,none,west,0.0
+2838,15,male,0.6,54,yes,high school,east,1.6
+2556,18,female,1.7,95,no,master,west,11.51
+1317,16,female,1.2,83,no,none,south,0.0
+1606,15,male,1.1,54,no,none,north,3.22
+3247,18,female,0.7,86,no,master,south,6.96
+4186,16,male,1.7,94,yes,master,west,39.82
+1837,15,male,0.4,69,yes,high school,south,2.68
+3419,18,male,1.6,91,no,high school,north,8.83
+3616,15,male,1.0,88,yes,high school,east,17.53
+2709,15,male,1.8,54,yes,none,east,4.68
+2203,16,female,3.7,59,no,bachelor,south,4.67
+391,17,female,2.0,86,yes,master,east,47.63
+2310,18,male,1.9,81,yes,bachelor,south,4.41
+1129,16,male,0.3,98,yes,high school,south,0.0
+821,18,female,4.7,69,no,high school,south,22.09
+355,17,female,0.2,90,no,high school,north,2.76
+231,17,male,1.0,51,no,high school,east,19.4
+1302,18,male,4.7,68,yes,bachelor,south,13.34
+1571,17,female,0.6,56,no,none,south,0.0
+50,16,female,3.0,90,yes,high school,south,1.81
+3545,17,female,1.7,50,no,none,east,0.0
+140,17,female,1.8,94,no,bachelor,south,4.93
+2938,18,female,0.7,84,no,bachelor,east,8.81
+600,15,male,2.6,55,no,high school,south,0.0
+1581,18,male,2.2,99,no,high school,south,0.0
+497,17,male,1.9,66,yes,none,south,0.0
+1172,15,male,8.0,84,yes,bachelor,east,23.55
+2964,15,male,0.5,80,yes,bachelor,east,13.9
+485,16,male,1.5,99,no,bachelor,east,25.77
+781,17,female,0.2,54,no,bachelor,north,9.46
+602,17,female,7.4,63,no,high school,east,57.19
+3915,16,female,0.7,64,no,none,north,1.01
+1081,17,male,0.5,87,yes,none,west,0.0
+4227,15,female,1.7,53,no,high school,west,5.67
+1410,18,male,4.6,66,yes,high school,north,51.49
+2923,18,female,3.8,68,no,high school,east,0.0
+3975,15,female,6.6,97,no,bachelor,south,19.0
+2810,18,female,1.3,82,no,high school,west,3.75
+1338,16,male,0.4,80,yes,high school,south,0.0
+916,16,male,1.6,58,no,none,east,0.0
+3349,15,male,1.1,81,no,high school,east,6.36
+2304,16,male,1.6,97,yes,master,south,26.24
+487,16,female,8.0,52,no,high school,north,69.72
+3960,16,male,1.6,90,yes,high school,north,13.72
+448,18,male,5.8,98,yes,high school,east,48.55
+762,17,female,3.8,96,no,none,east,3.49
+2301,15,female,9.0,88,yes,none,east,45.18
+1675,15,female,1.1,94,no,high school,west,0.0
+410,18,male,3.4,85,yes,none,south,5.4
+2193,17,female,2.3,81,yes,high school,south,14.24
+2990,18,female,1.0,93,yes,high school,east,29.5
+1604,17,female,0.5,87,no,high school,east,1.61
+3017,15,female,4.5,69,yes,master,south,16.27
+868,16,male,4.1,65,no,bachelor,north,18.54
+2775,18,female,0.7,82,no,high school,south,0.48
+1739,17,male,0.6,68,no,high school,south,0.0
+3234,16,male,3.7,98,yes,high school,south,5.08
+134,18,female,4.4,80,no,bachelor,north,23.73
+3556,16,male,1.9,82,no,none,south,1.13
+3086,16,male,1.9,90,no,none,east,5.64
+2692,18,male,0.4,82,yes,none,east,0.0
+4066,16,female,2.9,60,no,none,south,0.0
+3711,16,female,4.2,98,no,none,south,3.34
+896,16,female,1.5,91,no,none,south,0.0
+4048,15,male,1.2,51,yes,none,north,1.91
+1570,16,female,0.7,58,yes,high school,south,9.99
+2855,17,male,0.3,63,no,none,south,0.0
+4058,17,male,3.0,90,yes,high school,east,50.8
+470,15,male,0.4,67,no,master,west,12.45
+2951,18,female,5.7,86,yes,high school,east,18.43
+2840,17,female,4.4,55,yes,none,west,4.98
+3889,15,male,1.3,82,yes,none,south,0.0
+1389,16,female,1.2,51,no,none,south,0.0
+1755,15,male,2.3,61,no,none,north,5.63
+1248,18,male,0.4,84,no,master,south,2.89
+4199,18,male,1.3,89,no,high school,north,11.42
+1215,16,male,1.9,51,no,high school,east,4.25
+1820,17,female,1.8,98,no,none,south,0.0
+3898,18,female,0.2,59,yes,none,east,3.31
+2122,15,male,0.1,91,no,none,south,0.0
+627,16,female,0.8,80,no,high school,south,5.12
+3113,16,male,1.1,67,no,high school,south,4.92
+1372,17,female,1.9,57,yes,high school,east,7.63
+1129,16,male,0.3,98,yes,high school,south,0.0
+3521,15,male,1.9,98,no,high school,north,19.48
+618,17,female,6.9,96,no,bachelor,south,74.7
+1254,16,female,0.3,83,yes,high school,east,8.83
+3568,17,male,4.6,99,yes,high school,east,19.3
+468,18,female,0.6,57,no,none,north,2.99
+975,18,female,0.6,86,yes,none,south,0.0
+1453,18,male,1.0,81,yes,bachelor,south,0.0
+4090,18,male,1.3,67,no,none,east,0.0
+545,16,female,1.8,50,no,high school,south,0.0
+402,15,female,4.1,87,yes,high school,east,19.36
+335,16,male,2.6,80,yes,high school,south,0.0
+2138,18,female,0.8,95,yes,master,east,46.59
+1868,17,male,0.7,98,no,none,west,3.72
+2884,18,male,6.8,51,yes,high school,south,23.71
+3447,15,male,3.2,68,no,bachelor,east,11.63
+2249,16,female,1.6,83,no,high school,west,2.24
+3190,17,female,2.5,60,no,bachelor,south,11.68
+504,15,male,0.4,88,no,bachelor,south,0.0
+245,16,female,3.8,98,no,high school,south,9.17
+294,15,male,0.9,92,no,high school,south,9.9
+1662,15,female,3.8,88,yes,high school,north,16.24
+3988,16,male,0.5,52,no,bachelor,north,6.22
+2630,18,female,0.3,62,yes,high school,south,4.12
+2740,17,female,2.0,98,no,none,south,5.45
+1129,16,male,0.3,98,yes,high school,south,0.0
+172,17,male,4.0,62,no,high school,south,7.08
+692,17,female,3.2,89,no,high school,east,24.86
+448,18,male,5.8,98,yes,high school,east,48.55
+2096,15,female,3.0,89,yes,master,east,21.77
+1654,16,male,1.2,64,yes,high school,north,9.11
+1333,18,female,3.7,92,no,bachelor,east,46.82
+1439,16,female,4.4,91,no,none,north,32.81
+4189,17,male,1.3,65,no,high school,south,3.63
+3227,17,male,0.3,59,no,none,west,0.0
+1209,15,male,4.4,69,no,master,east,18.74
+1891,15,female,0.6,62,yes,none,south,0.0
+2761,16,male,9.8,86,no,none,east,20.53
+2302,15,female,1.0,90,no,bachelor,east,8.21
+155,16,male,1.9,87,yes,none,south,2.86
+2102,18,male,0.1,94,yes,high school,south,3.56
+937,15,female,7.0,59,no,bachelor,east,30.81
+160,17,male,1.6,84,yes,high school,south,4.23
+809,18,male,1.7,54,no,none,west,0.0
+15,16,female,0.2,86,yes,master,south,19.22
+3464,15,female,3.4,88,no,high school,north,18.64
+2083,15,female,0.6,95,no,none,south,0.0
+3212,17,male,1.9,95,no,bachelor,north,13.49
+3410,15,female,1.3,93,no,none,south,0.0
+3029,15,male,0.2,84,yes,none,west,1.5
+2629,15,female,2.3,55,no,master,north,11.1
+3150,18,female,5.7,66,yes,none,east,18.2
+3985,17,male,1.2,50,yes,high school,south,4.74
+3598,17,female,2.1,59,no,master,west,15.49
+881,15,female,2.6,89,no,none,south,8.64
+1999,17,male,2.6,58,no,bachelor,north,26.29
+2416,16,male,0.5,50,no,bachelor,east,8.47
+3997,17,male,4.7,62,yes,master,south,12.35
+4151,17,female,0.3,50,yes,none,east,4.46
+2159,17,female,8.1,59,yes,none,north,16.27
+3775,17,female,1.5,90,yes,none,north,14.16
+1839,16,female,3.1,99,no,bachelor,east,45.87
+3059,17,male,1.4,67,yes,none,south,0.0
+418,16,male,0.7,57,no,high school,north,10.59
+2032,17,female,1.7,80,yes,bachelor,south,0.0
+2129,17,male,3.8,50,no,none,south,0.0
+3080,15,male,4.1,56,yes,none,south,14.29
+661,17,male,1.5,82,yes,high school,south,3.51
+770,17,male,1.4,89,no,master,south,13.18
+2042,18,male,1.3,97,yes,high school,south,3.75
+1951,16,male,0.2,92,no,high school,south,17.01
+3313,18,male,2.0,99,yes,none,south,12.57
+1482,18,female,4.8,87,yes,none,east,17.43
+796,18,female,9.2,63,no,master,south,22.55
+3979,18,female,8.5,64,yes,high school,north,61.94
+667,15,female,0.1,90,yes,high school,east,11.85
+1893,18,male,2.9,52,yes,high school,west,3.84
+4062,16,male,4.4,62,no,none,south,0.0
+1859,16,male,2.1,94,yes,master,north,27.18
+2490,17,female,0.4,95,no,high school,west,0.65
+2570,18,female,3.3,91,no,bachelor,south,4.73
+2342,17,male,2.6,98,yes,high school,east,19.45
+1691,18,female,0.7,96,no,high school,east,6.55
+2319,15,male,4.6,90,yes,bachelor,south,21.11
+1068,18,female,1.9,81,no,none,south,10.95
+3863,15,female,3.2,93,no,bachelor,south,18.58
+967,18,female,1.3,91,yes,bachelor,west,29.48
+3944,17,male,0.1,60,no,bachelor,east,0.0
+2254,18,female,9.5,82,yes,none,south,25.86
+785,16,female,1.1,82,yes,high school,south,13.07
+4088,15,female,2.8,85,yes,high school,south,3.64
+921,15,male,3.7,58,yes,none,west,10.71
+3390,17,male,1.9,93,no,high school,east,10.12
+44,16,female,0.9,87,no,master,north,16.85
+852,15,female,1.2,88,yes,bachelor,north,18.91
+2142,17,female,1.3,83,yes,none,east,5.57
+1718,18,male,1.6,59,yes,bachelor,south,13.39
+2086,18,female,4.4,99,yes,master,east,16.58
+1171,17,female,0.9,98,no,high school,south,1.37
+3352,17,female,0.9,50,no,high school,north,2.51
+2055,17,female,1.7,99,no,bachelor,east,1.7
+2132,16,male,1.3,87,no,high school,south,0.0
+820,18,male,0.4,85,yes,high school,south,0.94
+2600,17,female,1.6,87,no,bachelor,south,3.17
+441,16,female,2.0,89,no,none,south,0.0
+2504,15,female,7.8,55,yes,high school,south,41.61
+83,15,female,0.5,85,yes,high school,north,6.67
+772,18,male,2.4,52,yes,high school,south,0.0
+1226,15,female,4.3,51,yes,high school,south,3.28
+2805,18,female,0.9,50,yes,high school,north,16.54
+1335,15,male,1.9,61,yes,bachelor,south,6.57
+1280,16,male,0.6,82,no,master,east,17.45
+1674,15,female,1.3,61,no,none,south,0.0
+4025,17,female,2.4,86,yes,none,south,29.32
+1444,16,female,0.8,81,no,bachelor,south,0.0
+1092,17,male,0.7,98,no,bachelor,north,31.97
+1887,16,male,8.8,80,no,high school,north,27.66
+670,18,female,9.6,69,no,none,west,13.82
+146,16,male,1.9,60,no,none,south,0.71
+2559,17,female,2.0,89,no,none,west,0.0
+116,15,female,0.8,62,yes,bachelor,south,12.06
+311,17,female,1.7,82,yes,master,east,20.4
+911,18,female,1.7,88,yes,bachelor,south,13.73
+3189,16,female,1.1,98,yes,high school,west,0.0
+1947,15,male,1.6,64,no,none,south,0.0
+3628,17,female,5.1,96,no,high school,east,34.0
+363,16,male,3.6,64,no,bachelor,south,5.12
+2474,15,male,1.1,55,no,bachelor,north,5.79
+2706,15,male,1.2,57,no,none,south,0.0
+1325,16,female,4.3,59,yes,high school,south,14.86
+1213,18,male,2.9,66,no,high school,east,10.97
+510,16,female,1.0,87,yes,high school,south,3.84
+2440,16,female,1.0,88,no,high school,south,1.17
+337,15,female,1.9,63,no,high school,east,0.55
+2869,18,female,2.2,87,yes,high school,east,19.85
+4058,17,male,3.0,90,yes,high school,east,50.8
+4015,17,female,3.3,96,no,none,north,8.82
+3823,15,female,1.1,96,no,high school,east,0.0
+4156,17,female,1.8,93,yes,high school,south,11.49
+3839,17,male,1.8,88,yes,high school,south,8.16
+260,17,male,1.1,52,no,high school,south,0.0
+3310,17,male,6.9,69,yes,high school,east,16.14
+2308,15,male,1.6,80,yes,none,south,0.0
+713,18,female,0.9,58,no,none,east,0.0
+2024,15,female,1.5,89,yes,bachelor,south,10.27
+1870,17,female,0.2,54,yes,bachelor,north,38.53
+3611,16,female,4.7,93,no,high school,south,29.69
+1837,15,male,0.4,69,yes,high school,south,2.68
+3067,15,female,0.9,93,no,high school,south,0.0
+1481,17,male,8.1,84,no,bachelor,east,64.98
+1925,17,female,0.2,87,yes,none,east,0.0
+28,16,male,0.7,59,yes,high school,south,2.69
+1261,17,male,0.3,51,yes,high school,south,0.0
+836,17,female,0.1,84,no,bachelor,north,5.59
+2084,15,male,6.6,58,no,high school,south,10.42
+2710,16,female,1.1,89,no,high school,north,4.97
+4205,18,male,1.7,69,yes,bachelor,east,35.99
+3492,15,female,0.4,93,no,high school,east,0.62
+322,17,male,3.6,98,yes,master,south,16.59
+335,16,male,2.6,80,yes,high school,south,0.0
+2123,15,female,1.6,90,yes,high school,east,18.5
+131,15,female,1.3,97,yes,none,south,0.0
+625,15,female,1.0,88,no,none,south,0.0
+517,17,female,3.9,89,yes,bachelor,east,11.4
+2353,16,female,2.7,67,no,high school,south,5.3
+1123,15,male,0.4,84,no,high school,south,0.0
+1845,15,male,1.0,97,no,bachelor,south,2.45
+491,16,male,2.0,66,yes,master,south,15.25
+1185,17,female,0.5,89,no,high school,east,29.98
+201,18,male,1.1,89,no,none,west,2.26
+1302,18,male,4.7,68,yes,bachelor,south,13.34
+1548,17,male,0.2,88,yes,high school,east,14.13
+1012,15,male,1.9,85,no,none,south,0.0
+3035,18,female,1.5,80,yes,none,south,0.0
+3546,16,male,1.5,88,no,none,east,3.35
+2591,17,male,0.6,66,no,none,south,0.0
+1462,15,male,4.4,83,yes,high school,south,12.52
+4063,18,male,3.0,66,no,none,west,0.0
+3351,18,female,1.4,53,no,none,east,0.0
+1210,18,female,2.7,67,yes,master,west,23.2
+3209,18,female,3.6,87,no,none,north,22.02
+2449,15,female,4.9,56,no,high school,south,5.82
+1984,16,male,6.2,89,yes,high school,west,64.2
+4089,15,male,1.6,64,yes,none,south,0.0
+3997,17,male,4.7,62,yes,master,south,12.35
+174,17,male,3.9,57,no,high school,south,0.28
+753,17,male,1.2,67,yes,high school,east,1.2
+760,18,male,4.2,53,yes,none,north,1.1
+1715,16,male,1.9,97,no,high school,west,8.26
+2893,16,female,0.8,90,yes,none,east,0.0
+3798,16,male,4.2,67,no,bachelor,east,13.85
+551,18,male,1.9,90,no,none,south,0.0
+873,18,male,2.7,84,no,bachelor,west,6.95
+805,16,female,3.4,69,no,bachelor,east,19.66
+2541,16,female,8.7,93,no,bachelor,south,31.3
+2812,17,female,0.5,87,yes,high school,east,0.02
+2408,16,female,1.3,89,no,high school,north,8.9
+2525,16,female,2.1,97,yes,high school,east,5.66
+3790,18,female,1.5,94,yes,none,south,0.0
+2690,16,female,1.8,96,yes,bachelor,east,18.46
+1305,18,female,0.6,81,yes,bachelor,south,9.58
+4051,17,male,0.5,64,no,none,east,0.0
+921,15,male,3.7,58,yes,none,west,10.71
+3676,17,male,3.0,97,yes,master,west,13.06
+1506,16,female,0.6,94,yes,high school,south,5.08
+3668,17,male,1.1,69,no,bachelor,south,0.0
+1313,15,female,9.7,99,no,bachelor,south,24.35
+2287,15,female,0.9,80,no,none,south,0.0
+3995,16,female,0.5,90,yes,high school,south,2.99
+1726,15,male,4.4,54,yes,high school,west,22.27
+278,16,male,0.1,86,no,none,north,0.0
+3527,17,female,1.6,55,no,high school,east,12.47
+968,15,male,1.1,52,no,high school,south,0.0
+3671,15,male,0.4,60,yes,none,south,0.0
+1841,17,male,0.6,66,no,high school,south,2.64
+3265,16,male,9.2,93,no,none,south,46.53
+3592,15,female,6.0,62,yes,high school,east,18.74
+676,18,male,0.6,84,no,master,south,8.74
+1006,15,female,0.8,81,yes,bachelor,east,12.26
+2111,15,female,1.7,69,no,none,east,0.0
+1220,15,female,8.4,67,no,high school,south,7.99
+2876,15,male,0.7,58,yes,none,south,0.0
+925,18,male,2.2,66,yes,high school,south,16.5
+474,18,male,1.5,93,no,bachelor,south,16.9
+419,18,female,2.0,82,yes,none,south,1.24
+887,15,female,0.2,91,no,none,south,0.0
+2665,16,female,0.9,64,no,high school,south,0.0
+892,18,male,0.9,87,no,bachelor,east,6.62
+994,16,female,0.4,88,no,high school,south,0.0
+2956,16,female,0.2,98,yes,high school,south,24.08
+131,15,female,1.3,97,yes,none,south,0.0
+2021,17,male,1.4,95,no,high school,east,0.0
+1368,17,female,4.8,68,no,high school,west,4.42
+2318,15,female,0.5,88,no,none,south,0.0
+3277,15,female,0.1,96,yes,none,north,9.6
+3646,18,male,4.0,87,no,none,east,13.19
+4107,15,female,1.7,99,yes,high school,north,13.89
+2209,15,male,0.9,93,no,high school,south,4.53
+2011,18,male,3.6,88,no,master,east,45.09
+2840,17,female,4.4,55,yes,none,west,4.98
+4052,17,male,8.4,61,no,high school,north,16.97
+379,15,female,4.7,56,yes,bachelor,east,27.27
+4103,15,male,3.0,51,no,high school,north,47.65
+2546,18,female,1.3,90,no,high school,south,1.52
+1488,16,male,0.3,93,no,master,east,25.63
+1243,16,male,9.9,53,yes,high school,south,21.33
+3489,15,male,1.5,88,no,high school,south,0.0
+2388,17,female,1.7,94,yes,high school,south,18.86
+111,17,female,0.1,95,no,bachelor,south,0.0
+3938,15,female,3.3,94,yes,high school,west,17.66
+3365,15,female,8.8,64,yes,none,south,24.84
+2728,18,female,0.8,67,yes,high school,east,24.25
+4005,17,female,2.0,50,no,none,south,0.0
+644,15,male,0.8,51,no,high school,east,0.21
+4134,17,female,0.4,90,yes,high school,east,2.38
+196,15,male,2.1,88,no,high school,south,7.01
+834,15,female,4.9,82,yes,high school,east,13.58
+1405,15,female,1.1,97,yes,high school,west,15.36
+3634,18,male,4.0,99,yes,high school,north,19.37
+1628,16,male,2.0,58,no,high school,south,3.44
+45,18,female,0.8,57,yes,high school,east,0.0
+2418,15,male,1.6,85,yes,high school,south,8.02
+2378,18,female,1.3,93,yes,high school,east,16.5
+687,16,male,0.6,90,yes,none,south,6.25
+1432,16,female,0.3,59,no,none,south,0.0
+2686,17,male,1.5,90,yes,none,east,9.29
+3080,15,male,4.1,56,yes,none,south,14.29
+2388,17,female,1.7,94,yes,high school,south,18.86
+160,17,male,1.6,84,yes,high school,south,4.23
+3871,15,male,0.2,69,no,bachelor,east,2.12
+2818,17,female,2.6,96,no,high school,east,4.38
+3905,17,female,0.7,94,no,bachelor,east,23.42
+539,17,male,4.5,82,no,none,east,5.79
+3664,16,male,2.2,53,no,none,south,13.0
+3093,17,female,1.5,66,yes,high school,west,0.0
+2402,17,female,0.9,90,yes,bachelor,south,13.34
+3633,17,female,3.8,97,no,high school,south,15.55
+1529,17,female,4.6,60,yes,high school,east,6.53
+782,16,male,0.2,97,no,high school,west,0.0
+3090,16,male,1.8,91,yes,high school,south,13.58
+3938,15,female,3.3,94,yes,high school,west,17.66
+180,17,male,1.2,94,no,none,south,1.16
+3430,18,female,0.7,80,no,none,south,0.0
+1229,17,female,0.6,85,no,master,west,0.0
+591,17,male,0.6,86,yes,high school,west,6.93
+2949,18,female,7.6,54,no,high school,south,20.82
+827,17,female,3.5,88,yes,high school,south,6.44
+1120,16,female,1.1,81,yes,high school,east,7.74
+2082,16,male,5.2,90,yes,high school,east,35.96
+1427,18,female,6.3,91,yes,high school,north,14.89
+170,15,male,3.1,69,yes,none,south,0.42
+240,17,male,1.6,91,yes,none,south,0.0
+554,18,male,0.6,65,yes,high school,east,0.0
+926,15,female,3.0,83,no,bachelor,west,13.18
+1237,16,male,1.7,85,no,bachelor,south,0.0
+316,16,male,0.7,63,no,none,north,0.0
+2940,17,male,3.1,88,yes,bachelor,east,37.14
+3957,15,female,5.3,89,yes,none,south,6.3
+2065,17,female,2.0,54,no,master,south,9.54
+1503,16,male,4.1,62,no,none,north,31.66
+2053,15,male,1.0,83,yes,high school,south,0.0
+2678,15,male,1.7,94,no,high school,north,27.05
+757,16,female,3.7,81,no,high school,south,37.09
+3548,15,male,2.5,82,no,high school,east,14.08
+475,17,female,7.0,53,no,bachelor,east,21.43
+1468,15,male,3.2,86,yes,none,south,5.11
+1253,17,female,0.3,54,no,none,south,0.0
+2041,16,male,3.7,91,yes,none,north,37.06
+328,18,male,2.5,65,no,none,east,0.53
+2296,16,male,0.6,86,no,high school,south,0.0
+888,18,male,8.7,91,yes,master,east,43.01
+332,18,male,4.1,87,no,high school,east,19.12
+2339,18,male,8.8,51,no,high school,south,47.43
+767,18,female,0.5,92,yes,high school,south,12.95
+1134,16,male,6.2,90,no,high school,south,18.5
+1393,17,female,9.2,65,no,none,south,35.98
+2513,16,male,1.6,98,yes,bachelor,south,8.87
+2410,16,male,0.7,80,no,bachelor,south,2.35
+578,16,male,1.9,81,no,high school,east,6.93
+279,15,female,3.9,91,yes,none,east,21.15
+3314,15,male,1.7,87,yes,high school,south,5.92
+3888,15,male,9.4,63,yes,bachelor,south,20.2
+3939,17,male,1.6,97,no,none,north,11.58
+592,17,male,3.4,93,yes,bachelor,east,18.77
+3685,17,female,3.8,81,no,none,south,0.27
+652,17,female,2.1,52,no,high school,south,3.36
+1676,15,male,3.7,87,no,high school,south,7.61
+1235,18,male,7.1,89,yes,high school,south,55.7
+3787,18,female,1.3,97,yes,high school,east,12.63
+709,15,male,1.6,53,no,none,east,0.0
+1589,16,female,3.1,97,no,bachelor,west,19.96
+1736,15,female,2.7,83,no,high school,south,0.0
+2175,17,male,4.3,96,no,bachelor,south,37.69
+498,16,female,1.1,92,no,high school,east,23.4
+479,15,female,1.4,60,no,none,east,0.0
+3898,18,female,0.2,59,yes,none,east,3.31
+4151,17,female,0.3,50,yes,none,east,4.46
+4163,15,male,1.2,96,yes,none,west,16.64
+1114,17,male,1.7,56,no,high school,south,0.0
+3614,16,female,0.4,99,no,bachelor,south,2.62
+460,17,female,0.1,56,yes,none,south,0.0
+2027,17,male,1.9,99,yes,high school,north,15.08
+3009,15,female,3.1,98,no,high school,east,12.21
+3482,15,female,1.3,95,yes,high school,east,4.01
+540,15,male,3.7,98,no,high school,east,12.88
+3252,16,female,4.4,62,no,master,east,23.46
+826,15,male,2.4,60,no,bachelor,north,5.28
+514,15,male,1.4,81,no,high school,east,0.4
+907,15,female,4.9,94,yes,master,south,13.45
+2728,18,female,0.8,67,yes,high school,east,24.25
+507,17,male,4.8,52,no,master,south,9.24
+2425,15,male,7.2,88,no,high school,south,18.13
+93,18,male,1.2,96,no,high school,south,0.0
+831,18,male,1.1,99,yes,bachelor,east,12.55
+145,16,male,2.8,93,yes,none,south,2.45
+2079,17,female,2.0,80,no,none,south,0.0
+1388,17,male,1.8,92,yes,high school,north,10.6
+3812,15,female,2.6,85,no,none,south,0.0
+3398,15,male,3.9,63,no,bachelor,east,16.29
+2182,17,male,1.7,89,no,none,south,0.12
+342,18,female,9.2,85,yes,high school,north,29.49
+2994,16,male,3.8,65,no,high school,south,3.46
+3748,17,male,3.9,52,yes,none,east,8.3
+1747,17,female,9.1,96,no,none,south,19.5
+3793,17,male,8.0,50,no,bachelor,east,74.06
+2459,17,male,3.8,90,no,high school,south,0.0
+1424,17,male,0.4,66,no,none,south,0.0
+4021,15,male,0.5,85,yes,high school,west,0.0
+1726,15,male,4.4,54,yes,high school,west,22.27
+312,16,male,7.0,87,yes,none,south,43.63
+4231,16,female,0.7,93,yes,high school,south,1.17
+2711,17,female,2.0,68,no,high school,south,0.0
+617,16,female,0.6,98,yes,high school,south,0.25
+1219,18,male,1.7,61,no,bachelor,north,12.92
+965,15,male,0.5,86,yes,high school,east,6.09
+2886,16,male,0.8,88,no,none,south,0.0
+2495,15,male,0.9,98,yes,none,east,1.07
+2177,16,male,0.8,52,yes,master,east,43.25
+1669,17,female,2.1,85,yes,high school,east,17.16
+1152,17,female,0.3,83,no,high school,east,0.04
+3867,18,female,1.6,59,yes,master,west,13.74
+3731,17,male,2.5,87,no,high school,west,1.95
+3204,18,female,0.5,53,yes,bachelor,north,13.42
+3739,18,male,1.2,60,yes,none,south,0.0
+1998,17,female,2.0,94,no,high school,south,0.0
+1480,18,female,0.3,81,no,high school,north,4.69
+4139,17,female,0.2,52,no,high school,south,6.99
+3568,17,male,4.6,99,yes,high school,east,19.3
+1470,18,female,6.3,84,no,none,north,44.5
+2686,17,male,1.5,90,yes,none,east,9.29
+197,18,female,4.5,58,yes,none,east,13.73
+3797,18,female,0.5,62,no,master,east,6.28
+3027,16,male,0.8,92,yes,high school,south,3.51
+4191,17,female,1.5,85,yes,high school,south,1.69
+2664,15,male,0.6,69,no,none,west,0.0
+674,16,female,0.5,99,yes,high school,south,0.0
+3505,18,male,1.1,65,no,high school,south,5.42
+3466,15,female,0.5,95,no,none,east,1.99
+1264,15,female,0.1,64,no,high school,east,1.26
+1776,18,female,3.9,96,yes,master,east,86.31
+2814,15,female,1.6,66,no,high school,east,3.72
+2210,15,female,1.6,51,no,none,south,0.0
+2429,17,male,0.2,92,yes,none,south,0.0
+1489,15,female,3.5,86,yes,high school,south,12.05
+1582,17,male,3.9,54,no,bachelor,south,5.08
+2194,18,female,3.5,60,no,high school,south,6.33
+1591,18,male,0.7,83,no,bachelor,east,6.43
+1194,15,female,4.3,92,no,high school,east,27.41
+1955,15,female,5.2,88,no,high school,east,15.54
+1562,15,female,8.6,64,no,none,north,15.19
+3023,17,female,0.9,65,yes,high school,south,5.54
+2824,18,female,3.9,83,no,bachelor,east,18.33
+2648,16,male,0.4,99,yes,none,east,5.37
+2031,15,male,1.8,61,yes,high school,east,6.11
+547,15,male,5.5,87,no,master,south,26.93
+3724,16,female,2.8,86,no,high school,east,6.94
+3837,16,female,7.8,82,yes,bachelor,south,28.96
+3406,15,female,0.9,65,no,high school,south,4.07
+727,17,female,0.7,62,no,bachelor,east,10.75
+3927,17,female,5.2,89,no,none,east,12.42
+3961,16,female,1.4,57,yes,none,east,0.0
+2666,17,male,7.3,94,yes,high school,south,46.75
+2832,15,female,4.2,88,no,none,east,6.2
+505,18,female,6.3,91,no,master,north,19.74
+2797,17,female,7.2,86,no,none,east,22.89
+3868,15,female,4.2,81,no,high school,west,16.12
+2988,16,female,1.8,86,no,bachelor,south,7.58
+2352,18,male,4.9,55,yes,none,south,5.95
+3428,15,female,0.7,85,no,high school,north,10.37
+3054,18,female,1.8,52,no,none,south,0.0
+3714,18,female,2.9,61,no,bachelor,west,9.41
+1913,18,female,1.4,80,no,master,south,0.0
+3301,15,male,1.5,87,yes,master,east,19.19
+735,18,male,0.7,58,yes,none,south,0.0
+302,16,female,4.0,87,no,none,south,14.21
+4088,15,female,2.8,85,yes,high school,south,3.64
+570,17,male,1.7,88,yes,high school,north,16.5
+3214,15,male,0.7,66,yes,none,east,24.18
+3426,16,male,4.2,57,no,high school,north,12.95
+2278,15,male,1.2,52,yes,bachelor,north,14.8
+3269,15,male,0.8,62,yes,bachelor,south,27.35
+1654,16,male,1.2,64,yes,high school,north,9.11
+128,18,female,5.1,50,yes,none,north,38.2
+3214,15,male,0.7,66,yes,none,east,24.18
+1902,15,male,3.1,98,yes,high school,north,11.16
+1158,17,female,0.6,53,no,high school,west,0.0
+2890,18,female,0.5,61,no,master,east,13.28
+1837,15,male,0.4,69,yes,high school,south,2.68
+4126,15,male,1.8,94,no,bachelor,east,12.51
+2274,16,male,0.9,80,no,bachelor,north,5.6
+3892,18,female,0.8,55,yes,bachelor,south,2.54
+4073,17,male,3.0,86,no,high school,west,4.1
+679,18,male,2.7,91,no,bachelor,south,12.73
+2154,16,female,8.9,87,no,none,south,20.06
+3301,15,male,1.5,87,yes,master,east,19.19
+409,17,female,3.0,62,no,none,south,2.68
+3317,15,female,4.6,80,no,none,south,12.89
+3732,16,male,6.2,69,no,none,south,0.0
+257,16,female,0.3,83,yes,high school,east,8.04
+1988,18,female,4.3,83,yes,high school,south,11.43
+381,17,female,0.2,86,no,none,west,0.0
+4119,17,female,0.7,86,no,high school,east,15.22
+1610,17,male,2.1,81,no,none,south,0.5
+3186,18,female,8.7,52,yes,bachelor,east,27.4
+4217,18,male,0.9,92,no,none,east,0.0
+437,18,female,2.9,80,no,bachelor,south,12.5
+3035,18,female,1.5,80,yes,none,south,0.0
+3788,16,male,4.3,51,yes,high school,south,4.1
+1649,18,male,3.6,55,no,bachelor,south,6.72
+3269,15,male,0.8,62,yes,bachelor,south,27.35
+2381,16,male,0.2,68,yes,master,west,6.38
+2123,15,female,1.6,90,yes,high school,east,18.5
+1089,15,female,1.7,96,yes,bachelor,north,11.41
+820,18,male,0.4,85,yes,high school,south,0.94
+2975,16,male,1.2,88,no,high school,east,0.0
+2458,15,male,0.1,83,no,high school,south,3.83
+290,16,male,0.8,67,yes,none,east,1.42
+1763,15,male,6.5,69,no,high school,north,40.94
+3885,18,female,1.3,61,yes,none,east,0.0
+4056,18,female,1.6,67,yes,high school,south,1.57
+3042,17,female,4.1,97,no,none,east,12.12
+904,17,female,1.3,50,no,high school,east,7.14
+1455,15,female,6.2,92,no,none,south,11.34
+45,18,female,0.8,57,yes,high school,east,0.0
+2097,17,female,2.2,67,no,high school,east,19.54
+2720,18,male,1.0,82,no,high school,east,4.34
+2367,17,male,8.3,93,yes,high school,south,27.27
+179,18,male,2.2,50,no,high school,east,9.21
+2675,17,male,2.7,55,no,bachelor,south,17.39
+2407,16,female,0.5,61,yes,high school,north,15.38
+444,15,male,0.5,53,no,bachelor,east,16.87
+2096,15,female,3.0,89,yes,master,east,21.77
+488,18,male,5.4,84,no,none,north,18.8
+425,15,female,2.4,59,yes,bachelor,east,39.56
+3043,17,male,1.9,87,yes,high school,east,14.55
+3925,18,male,2.3,55,no,none,south,1.24
+4228,15,male,0.7,57,no,bachelor,south,0.0
+1360,17,male,1.3,97,no,high school,south,4.81
+755,15,female,1.9,51,yes,bachelor,south,16.12
+301,15,male,1.2,96,no,high school,south,3.08
+3949,18,male,1.4,90,no,none,south,0.0
+4141,15,male,3.4,64,yes,none,east,3.97
+810,18,female,1.4,56,no,high school,west,14.39
+3173,17,male,2.3,93,no,high school,south,29.72
+1973,16,male,1.6,86,yes,bachelor,south,22.83
+992,16,male,1.9,50,no,master,north,11.67
+3202,16,female,2.4,98,no,none,east,3.93
+378,18,male,0.9,99,no,high school,south,0.0
+1216,17,female,2.8,92,yes,none,east,13.95
+1405,15,female,1.1,97,yes,high school,west,15.36
+3168,18,female,0.6,59,yes,high school,east,4.88
+3736,17,female,1.2,81,no,none,west,0.0
+3074,18,female,4.5,88,no,none,south,3.08
+219,16,female,0.4,98,yes,high school,north,16.92
+2218,18,male,6.6,98,yes,none,north,15.84
+2849,16,male,0.9,95,yes,none,south,0.0
+13,17,female,1.9,88,no,high school,east,0.3
+2341,17,male,1.6,94,no,high school,east,0.0
+4109,15,female,1.0,54,no,high school,north,7.16
+3023,17,female,0.9,65,yes,high school,south,5.54
+1456,16,female,1.7,94,yes,master,east,10.3
+1361,18,male,1.5,64,no,none,south,0.0
+1107,15,female,5.0,82,no,high school,south,8.27
+3044,18,female,0.4,95,no,master,south,0.0
+322,17,male,3.6,98,yes,master,south,16.59
+775,18,female,0.7,52,no,high school,east,4.86
+2144,18,female,6.1,53,no,bachelor,south,15.37
+4110,17,female,4.7,81,yes,high school,north,16.4
+3025,15,female,1.5,57,yes,bachelor,north,14.65
+2773,17,female,1.4,67,yes,high school,west,5.64
+998,16,male,6.5,83,no,high school,north,14.98
+1192,17,male,2.0,88,no,none,east,7.3
+1864,16,female,0.2,63,no,bachelor,east,0.0
+186,17,female,3.4,91,yes,high school,south,4.79
+2412,18,female,7.1,95,no,high school,south,26.53
+3367,18,female,0.7,94,no,none,east,0.0
+569,15,male,2.1,94,yes,none,east,15.44
