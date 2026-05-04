@@ -192,5 +192,4 @@ Based on a visual analysis of the three graphs, the transaction trend throughout
 - Maximize sales of more expensive products in April and the beginning of the year (January–April).
 - Ensuring optimal stock availability for the Food & Beverages and Health & Beauty categories.
 - Improving customer retention programs in the Brooklyn area
-- Conducting an aggressive marketing campaign in Queens during September to capitalize on its peak sales, as well as looking for ways to stabilize performance during the low period in May–July#   s t a t s - 1  
- 
+- Conducting an aggressive marketing campaign in Queens during September to capitalize on its peak sales, as well as looking for ways to stabilize performance during the low period in May–July#
